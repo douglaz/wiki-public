@@ -32,7 +32,7 @@ The current raw source is the Mises Institute's PDF (592 pages), extracted with 
 
 ## Relation to Hayek's Other Texts and to Mises
 
-This is the technical-economic side of Hayek's project. Its concerns barely surface in [[road-to-serfdom|The Road to Serfdom]], which is political. Its theoretical complement is [[individualism-and-economic-order|Individualism and Economic Order]], where the knowledge problem is developed; together those two volumes are the core of mature Hayekian economics. The book is also the bridge between Mises's 1912 *Theory of Money and Credit* (not in the wiki) and the cycle-theoretic chapters of [[man-economy-and-state|Man, Economy, and State]].
+This is the technical-economic side of Hayek's project. Its concerns barely surface in [[road-to-serfdom|The Road to Serfdom]], which is political. Its theoretical complement is [[individualism-and-economic-order|Individualism and Economic Order]], where the knowledge problem is developed; together those two volumes are the core of mature Hayekian economics. The book is also the bridge between Mises's 1912 [[the-theory-of-money-and-credit|The Theory of Money and Credit]] and the cycle-theoretic chapters of [[man-economy-and-state|Man, Economy, and State]].
 
 ## See Also
 
