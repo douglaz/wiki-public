@@ -1,0 +1,48 @@
+# Libertarian Index
+
+> Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
+
+Last updated: 2026-05-09
+
+## Statistics
+
+- Sources: 41 raw documents
+- Articles: 37 compiled wiki articles
+- Outputs: 1 generated artifacts
+- Last compiled: 2026-05-09
+- Last lint: 2026-05-09 (scoped to credit-and-deferred-payment.md)
+
+## Quick Navigation
+
+- [All Sources](raw/_index.md)
+- [Concepts](wiki/concepts/_index.md)
+- [Topics](wiki/topics/_index.md)
+- [References](wiki/references/_index.md)
+- [Theses](wiki/theses/_index.md)
+- [Outputs](output/_index.md)
+- [Projects](output/projects/_index.md)
+
+## Recent Changes
+
+- 2026-05-09: Ingested Mises, *The Theory of Money and Credit* (1912 German; 1934 English trans. by H. E. Batson; 1953 Yale "new edition" with *Monetary Reconstruction* essay). The 500-page PDF contains the original 1912 statement of the present-good-for-future-good definition of credit ("If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…"), closing the documented gap behind the `credit-and-deferred-payment` concept article. The article should now be re-compiled to cite TMC directly instead of via Hoppe's quotation.
+- 2026-05-09: Added `credit-and-deferred-payment` concept article — present-good-for-future-good definition from MES, "credit transactions and deferred payments" from *Human Action*, and book/commercial credit from Hayek's *Prices and Production*. Closes the previously-flagged gap between Austrian credit definition and folk usage and supplies the foundational definition that the existing `austrian-business-cycle-theory` article presupposes.
+- 2026-05-06: Ingested Rothbard, *America's Great Depression* (1963; Mises Institute 5th ed., 2000, 411 pp); wrote a reference article and a historical-application section in the austrian-business-cycle-theory concept article. The wiki now has the canonical Austrian reading of 1929–1933.
+- 2026-05-06: Ingested Molinari, *The Production of Security* (1849; Mises Institute 2009 reprint with Rothbard preface, 66 pp); wrote a reference article and positioned it as the 19th-century origin in the private-security-and-insurance and market-anarchism-and-private-law concept articles.
+- 2026-05-05: Compiled 14 new articles (10 references, 4 concepts) from 8 newly-ingested books — Mises (Human Action, Socialism, Liberalism, Theory and History), Hayek (Road to Serfdom, Individualism and Economic Order, Prices and Production), plus a new reference article for Rothbard's Ethics of Liberty (full text added 2026-05-04)
+- 2026-05-05: Updated topic articles (austrian-economics, libertarianism) and concept articles (state-power-and-intervention, nonaggression-and-property-rights) with the new sources and cross-references
+- 2026-05-05: Added new author reference articles for Ludwig von Mises and F. A. Hayek
+- 2026-05-05: Ingested 7 Mises and Hayek books from cdn.mises.org PDFs
+- 2026-05-04: Normalized split between metadata files and full-text aggregates
+- 2026-05-04: Ingested The Ethics of Liberty full text from the cdn.mises.org PDF
+- 2026-04-25: Added 8 dedicated book reference articles from existing full-text ingests
+- 2026-04-25: Added `hans-hermann-hoppe` reference article and linked Hoppe mentions across compiled pages
+- 2026-04-22: Added `private-security-and-insurance` article from market-anarchist security sources
+- 2026-04-22: Added `sales-tax-incidence` article from Rothbard and Hoppe tax-incidence sources
+- 2026-04-21: Fully recompiled article graph from 20 sources into 8 wiki articles
+- 2026-04-21: Added 8 additional full-text book ingests and retained prior full-text aggregates
+- 2026-04-21: Added full-text aggregate for For a New Liberty
+- 2026-04-21: Expanded Man, Economy, and State into a full-book aggregate
+- 2026-04-21: Ingested Man, Economy, and State
+- 2026-04-21: Ingested 10 Mises libertarian book pages
+- 2026-04-21: Generated Mises Institute libertarian books list
+- 2026-04-21: Initialized topic wiki

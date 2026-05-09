@@ -1,0 +1,72 @@
+---
+title: "Libertarianism"
+category: topic
+created: 2026-04-21
+updated: 2026-05-05
+tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism]
+aliases: [libertarian thought, liberty tradition]
+confidence: medium
+summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, and strong interest in non-state legal order."
+---
+
+# Libertarianism
+
+> In this wiki's current book set, libertarianism is presented as a property-centered political philosophy that judges institutions by whether relations are voluntary or coercive. The full texts push the corpus well past generic small-government language and toward a more radical conclusion: peaceful cooperation should be organized by property, contract, exchange, and restitution, while the state is treated as a standing exception to those rules.
+
+## Moral Baseline
+
+Rothbard's full-text *For a New Liberty* makes the anti-aggression axiom the doctrine's plain starting point, and the other books largely build outward from that claim. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] is therefore not a side issue in this wiki. It is the rule by which law, taxation, war, regulation, and social order are judged. Bastiat's *The Law* and [[hans-hermann-hoppe|Hoppe]]'s property-based works reinforce the same structure by treating liberty, property, and contract as mutually supporting rather than as separate spheres.
+
+## The State as Exception
+
+The current corpus is unusually hostile to the state as such. *Anatomy of the State* distinguishes society from the political apparatus that rules it. *The Politics of Obedience* explains how domination persists through habit, ideology, and consent. Spooner's *Let's Abolish Government* attacks the claim that constitutional forms manufacture legitimate authority. These sources converge in [[state-power-and-intervention|State Power and Intervention]]: the state is criticized not simply for bad policy choices but for claiming rights that ordinary persons do not have.
+
+## Economics and Institutional Order
+
+This source set also treats libertarianism as an account of social order, not only a moral protest. [[austrian-economics|Austrian Economics]] supplies the analysis of action, exchange, money, calculation, and intervention. The Tannehills, [[hans-hermann-hoppe|Hoppe]], and Rothbard then push from economics into institutions, arguing that law, adjudication, and protection need not be monopolized by government. That strand is summarized in [[market-anarchism-and-private-law|Market Anarchism and Private Law]] and, more specifically on the policing side, in [[private-security-and-insurance|Private Security and Insurance]].
+
+## Classical-Liberal Wing
+
+The current corpus also contains the classical-liberal stream that the anarcho-capitalist tradition emerged from and partly reacted against. [[ludwig-von-mises|Mises]]'s [[liberalism|Liberalism]] (1927) defends a free society on consequentialist economic grounds and explicitly declines the natural-rights argumentation that [[murray-n-rothbard|Rothbard]] reactivates in [[the-ethics-of-liberty|The Ethics of Liberty]]. [[friedrich-a-hayek|Hayek]]'s [[road-to-serfdom|The Road to Serfdom]] (1944) is the twentieth-century classical-liberal companion: it argues that comprehensive central planning destroys the rule of law and the institutional preconditions for liberty. The two streams disagree on the legitimate role of the state — minarchist vs. anarchist — but they share the property-and-exchange spine described above.
+
+## What This Corpus Emphasizes
+
+The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner, Bastiat, de la Boetie, and the Tannehills, with Mises and Hayek now present as the classical-liberal precursors. This wiki's libertarian map therefore leans more anarcho-capitalist than minarchist, with a clearly visible classical-liberal wing as historical and analytical context. That is a property of the source set, not a claim that all libertarian traditions look the same. The strongest single entry point into the anarcho-capitalist position is [[for-a-new-liberty|For a New Liberty]]; the natural-rights moral case is fullest in [[the-ethics-of-liberty|The Ethics of Liberty]]; the classical-liberal alternative is set out in [[liberalism|Liberalism]] and [[road-to-serfdom|The Road to Serfdom]]. [[murray-n-rothbard|Murray N. Rothbard]] remains the central author node integrating ethics, economics, and strategy.
+
+## See Also
+
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus
+- [[state-power-and-intervention|State Power and Intervention]] - critique of political monopoly and intervention
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
+- [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
+- [[austrian-economics|Austrian Economics]] - economic framework attached to the political philosophy here
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - major non-Rothbard author node for property theory and non-state institutions
+- [[murray-n-rothbard|Murray N. Rothbard]] - author who most fully integrates the major strands
+- [[ludwig-von-mises|Ludwig von Mises]] - classical-liberal precursor with the consequentialist defense of liberty
+- [[friedrich-a-hayek|F. A. Hayek]] - classical-liberal critic of central planning and originator of the knowledge-problem argument
+- [[for-a-new-liberty|For a New Liberty]] - best single-book overview of the anarcho-capitalist wing
+- [[liberalism|Liberalism]] - Mises's classical-liberal companion volume
+- [[road-to-serfdom|The Road to Serfdom]] - Hayek's mid-century warning against central planning
+- [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights moral foundation
+- [[anatomy-of-the-state|Anatomy of the State]] - related work in this corpus
+- [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] - related work in this corpus
+- [[lets-abolish-government|Let's Abolish Government]] - related work in this corpus
+- [[man-economy-and-state|Man, Economy, and State]] - related work in this corpus
+- [[the-law|The Law]] - related work in this corpus
+- [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
+- [[the-politics-of-obedience|The Politics of Obedience]] - related work in this corpus
+- [[the-production-of-security|The Production of Security]] - related work in this corpus
+
+## Sources
+
+- **For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)** - Rothbard's full-book overview of doctrine, applications, and strategy
+- **Anatomy of the State (Full Text Aggregate)** - concise statement of the anti-state thesis
+- **The Law (Full Text Aggregate)** - law, liberty, property, and legal plunder
+- **The Market for Liberty (Full Text Aggregate)** - market institutions for protection, arbitration, and title
+- **The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)** - consent, custom, and the durability of domination
+- **Let's Abolish Government (Full Text Extract)** - Spooner's critique of constitutional authority and compulsory protection
+- **Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)** - Austrian analysis of exchange, intervention, and the market order
+- **A Theory of Socialism and Capitalism (Full Text Aggregate)** - property-based contrast between capitalism and socialism
+- **Liberalism (Full Text Aggregate)** - Mises's classical-liberal manifesto
+- **The Road to Serfdom (Full Text Aggregate)** - Hayek's critique of central planning and the rule of law
+- **The Ethics of Liberty (Full Text Aggregate)** - Rothbard's natural-rights treatise on the moral foundations of liberty

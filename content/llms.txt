@@ -1,0 +1,50 @@
+# libertarian wiki
+
+> A topic wiki built with llm-wiki, served via Quartz. This file lists every public page with its title, category, and summary. Designed for LLM agents looking for a structured table of contents to the site's knowledge.
+
+## concept
+
+- [Austrian Business Cycle Theory](/wiki/concepts/austrian-business-cycle-theory) — The Austrian theory that booms and busts are caused by credit expansion lowering interest rates below their natural level, distorting the structure of production, and forcing an inevitable corrective downturn.
+- [Credit and Deferred Payment](/wiki/concepts/credit-and-deferred-payment) — The Austrian definition of credit as the exchange of a present good for a claim on a future good — distinguishing cash from credit by whether the transaction is finished, and treating book/trade/commercial credit, monthly billing, and consumer loans as instances of the same underlying structure. Mises states the definition canonically in *The Theory of Money and Credit* (1912, p. 268). Rothbard (MES, EoL), Mises (*Human Action*), and Hoppe (*EEPP*) restate it; Hayek (*Prices and Production*) presupposes it while contributing the book-credit / commercial-credit category.
+- [Economic Calculation Problem](/wiki/concepts/economic-calculation-problem) — The Misesian argument that a socialist commonwealth without private ownership of capital goods cannot perform the economic calculations needed to allocate resources rationally.
+- [Knowledge Problem](/wiki/concepts/knowledge-problem) — Hayek's argument that economic knowledge exists only as the dispersed, tacit, time-and-place-specific knowledge of millions of actors, and that the price system is the social mechanism that uses it without anyone possessing all of it.
+- [Market Anarchism and Private Law](/wiki/concepts/market-anarchism-and-private-law) — Concept article on non-state courts, protection, insurance, and title systems in the current libertarian book set.
+- [Nonaggression and Property Rights](/wiki/concepts/nonaggression-and-property-rights) — Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard and Hoppe and on consequentialist grounds by Mises.
+- [Praxeology](/wiki/concepts/praxeology) — The Misesian general theory of human action: a deductive science whose first principle is that humans act purposefully, from which the laws of economics are derived without empirical assumption.
+- [Private Security and Insurance](/wiki/concepts/private-security-and-insurance) — Concept article on how the current libertarian corpus imagines private security: defense agencies, insurance, arbitration, and competitive checks on abuse.
+- [Sales Tax Incidence](/wiki/concepts/sales-tax-incidence) — Rothbardian account of who ultimately bears a general sales tax: not consumers via higher prices, but original-factor incomes through backward shifting.
+- [State Power and Intervention](/wiki/concepts/state-power-and-intervention) — Libertarian account of the state as legalized privilege: taxation, monopoly law, intervention, and dependence on habit or consent.
+
+## reference
+
+- [A Theory of Socialism and Capitalism](/wiki/references/a-theory-of-socialism-and-capitalism) — Reference guide to Hoppe's comparative-systems book on capitalism, socialism, and property regimes, now ingested in full text.
+- [America's Great Depression](/wiki/references/americas-great-depression) — Reference guide to Rothbard's 1963 application of Austrian Business Cycle Theory to the 1929 crash and the prolonged depression that followed; the canonical Austrian interpretation of the era and a sustained revisionist case against Hoover as the architect of the New Deal interventionist program.
+- [Anatomy of the State](/wiki/references/anatomy-of-the-state) — Reference guide to Rothbard's concise anti-state essay on political monopoly, ideological camouflage, and the conflict between state power and social power.
+- [Busting Myths about the State and the Libertarian Alternative](/wiki/references/busting-myths-about-the-state-and-the-libertarian-alternative) — Reference guide to Zack Rofer's accessible libertarian primer on common pro-state myths and common misconceptions about the free market.
+- [For a New Liberty](/wiki/references/for-a-new-liberty) — Reference guide to Rothbard's movement-level overview of libertarian doctrine, applications, and strategy, now ingested in full text.
+- [F. A. Hayek](/wiki/references/friedrich-a-hayek) — Reference guide to Friedrich Hayek's place in this wiki as the second pillar of mature Austrian economics: knowledge-problem theorist, business-cycle theorist, and classical-liberal critic of central planning.
+- [Hans-Hermann Hoppe](/wiki/references/hans-hermann-hoppe) — Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
+- [Human Action](/wiki/references/human-action) — Reference guide to Mises's praxeological treatise (1949 / Scholar's Edition 1998), the foundational text of modern Austrian economics and the immediate intellectual ancestor of Rothbard's Man, Economy, and State.
+- [Individualism and Economic Order](/wiki/references/individualism-and-economic-order) — Reference guide to Hayek's 1948 essay collection containing 'The Use of Knowledge in Society', 'Economics and Knowledge', the three 'Socialist Calculation' essays, and 'The Meaning of Competition' — the most concentrated statement of his knowledge-problem critique of central planning.
+- [Let's Abolish Government](/wiki/references/lets-abolish-government) — Reference guide to the Rothbard-curated Spooner collection on constitutional illegitimacy, jury nullification, slavery, and radical anti-state dissent.
+- [Liberalism](/wiki/references/liberalism) — Reference guide to Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state defended on consequentialist economic grounds.
+- [Ludwig von Mises](/wiki/references/ludwig-von-mises) — Reference guide to Ludwig von Mises's place in this wiki as the founder of modern Austrian economics, originator of the economic-calculation argument, and the methodological source for the wider Rothbardian tradition.
+- [Man, Economy, and State](/wiki/references/man-economy-and-state) — Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange, money, and the Power and Market intervention analysis.
+- [Murray N. Rothbard](/wiki/references/murray-n-rothbard) — Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
+- [Prices and Production and Other Works](/wiki/references/prices-and-production) — Reference guide to the Mises Institute's collected edition of Hayek's monetary and business-cycle works (originals 1929–1939) — the core texts of Austrian business-cycle theory.
+- [The Road to Serfdom](/wiki/references/road-to-serfdom) — Reference guide to Hayek's 1944 warning that central economic planning leads to authoritarian rule by destroying the rule of law and the institutions on which liberty depends.
+- [Socialism](/wiki/references/socialism) — Reference guide to Mises's 1922 critique of socialism, the original statement of the economic-calculation argument, and the proximate ancestor of the entire socialist-calculation debate.
+- [The Economics and Ethics of Private Property](/wiki/references/the-economics-and-ethics-of-private-property) — Reference guide to Hoppe's collected essays on property, taxation, money, public goods, and security, now ingested in full text.
+- [The Ethics of Liberty](/wiki/references/the-ethics-of-liberty) — Reference guide to Rothbard's natural-rights treatise (1982/1998) on the ethical foundations of libertarianism: self-ownership, property, contract, the state, and a critique of competing libertarian theories.
+- [The Law](/wiki/references/the-law) — Reference guide to Bastiat's anti-plunder essay on law, liberty, property, and the corruption of legislation.
+- [The Market for Liberty](/wiki/references/the-market-for-liberty) — Reference guide to the Tannehills' full-scale case for private law, arbitration, insurance, and defense markets, now ingested in full text.
+- [The Politics of Obedience](/wiki/references/the-politics-of-obedience) — Reference guide to La Boetie's classic essay on consent, habit, and the fragility of political domination, now ingested in full text.
+- [The Production of Security](/wiki/references/the-production-of-security) — Reference guide to Molinari's 1849 essay — the founding text of the classical-liberal case for private, competitive production of security, and the principal nineteenth-century predecessor to modern market-anarchist thought.
+- [The Theory of Money and Credit](/wiki/references/the-theory-of-money-and-credit) — Reference guide to Mises's *The Theory of Money and Credit* (1912 German; 1934 English trans. H. E. Batson; 1953 Yale 'new edition' enlarged with *Monetary Reconstruction*) — the founding text of Austrian monetary theory and the original source of the regression theorem, the present-good-for-future-good definition of credit, and the proto-statement of Austrian Business Cycle Theory.
+- [Theory and History](/wiki/references/theory-and-history) — Reference guide to Mises's 1957 methodological treatise: the case for methodological dualism between the natural and social sciences, and a critique of historicism, scientism, and Marxian dialectical materialism.
+
+## topic
+
+- [Austrian Economics](/wiki/topics/austrian-economics) — Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention.
+- [Libertarianism](/wiki/topics/libertarianism) — Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, and strong interest in non-state legal order.
+
