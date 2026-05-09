@@ -50,6 +50,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[austrian-economics|Austrian Economics]] - school Hayek developed alongside Mises
 - [[libertarianism|Libertarianism]] - broader classical-liberal doctrine he reactivated in mid-century
 - [[ludwig-von-mises|Ludwig von Mises]] - sibling Austrian author and originator of the calculation argument
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that supplies the proto-cycle theory Hayek develops in his 1929 / 1931 lectures
 - [[murray-n-rothbard|Murray N. Rothbard]] - heir to the business-cycle theory and critic of Hayek's coercion definition
 - [[knowledge-problem|Knowledge Problem]] - Hayek's distinctive contribution
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - theory whose principal sources are in this corpus

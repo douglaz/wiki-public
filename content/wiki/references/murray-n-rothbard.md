@@ -47,6 +47,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral principle associated most strongly with Rothbard here
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights treatise (1982/1998), now ingested in full text
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's teacher and the source of his economic system
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 monetary treatise; the historical primary source for the credit and money-banking machinery Rothbard re-states in MES Ch. 11
 - [[praxeology|Praxeology]] - methodological core Rothbard inherited from Mises
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - related concept
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - concept article using Rothbard's structural definition of credit (MES) and his legal/ethical re-statement (EoL)

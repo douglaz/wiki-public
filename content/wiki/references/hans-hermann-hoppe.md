@@ -42,6 +42,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - concept article drawing on Hoppe's parallel formulation of the present-good/future-good account of credit and his quotation of Mises's 1912 *TMC*
 - [[murray-n-rothbard|Murray N. Rothbard]] - closest author reference in the current graph
 - [[ludwig-von-mises|Ludwig von Mises]] - source of the calculation argument Hoppe restates in property-rights terms
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise; Hoppe quotes TMC p. 268 directly in EEPP when defending the present-good/future-good distinction
 - [[economic-calculation-problem|Economic Calculation Problem]] - argument Hoppe inherits from Mises and reframes
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights treatise (Hoppe wrote the introduction to the 1998 edition)
 - [[libertarianism|Libertarianism]] - broader topic context

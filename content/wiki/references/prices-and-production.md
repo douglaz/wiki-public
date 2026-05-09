@@ -43,6 +43,7 @@ This is the technical-economic side of Hayek's project. Its concerns barely surf
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's continuation in the same theoretical line
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's epistemological companion volume
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the monetary tradition Hayek extends here
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that laid the proto-cycle groundwork Hayek's *Prices and Production* lectures (1931) develop into the mature ABCT
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 
 ## Sources

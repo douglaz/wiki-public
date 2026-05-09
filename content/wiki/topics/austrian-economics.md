@@ -57,6 +57,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[individualism-and-economic-order|Individualism and Economic Order]] - related work in this corpus
 - [[man-economy-and-state|Man, Economy, and State]] - related work in this corpus
 - [[prices-and-production|Prices and Production and Other Works]] - related work in this corpus
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 founding text of Austrian monetary theory, including the regression theorem and the proto-statement of the business-cycle mechanism
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus

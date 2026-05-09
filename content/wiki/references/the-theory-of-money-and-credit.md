@@ -11,7 +11,7 @@ summary: "Reference guide to Mises's *The Theory of Money and Credit* (1912 Germ
 
 # The Theory of Money and Credit
 
-> *The Theory of Money and Credit* (1912) is the foundation text of Austrian monetary economics. Mises, then 31, pulled together marginal-utility value theory, the structure of banking, and the time structure of credit into a single causal-realist account that treated money as just another good whose value is determined on the market — and showed how that account dissolves the long-running puzzles of monetary theory. The 1953 Yale "new edition" the wiki ingests adds *Monetary Reconstruction*, Mises's postwar essay on returning to sound money.
+*The Theory of Money and Credit* (1912) is the foundation text of Austrian monetary economics. Mises, then 31, pulled together marginal-utility value theory, the structure of banking, and the time structure of credit into a single causal-realist account that treated money as just another good whose value is determined on the market — and showed how that account dissolves the long-running puzzles of monetary theory. The 1953 Yale "new edition" the wiki ingests adds *Monetary Reconstruction*, Mises's postwar essay on returning to sound money.
 
 ## What the Book Argues
 
@@ -19,7 +19,7 @@ The book has three core moves.
 
 First, the **regression theorem** for the value of money: subjective use-values can be applied to money because money has a present purchasing power, that present purchasing power can be traced to yesterday's purchasing power, and yesterday's to the day-before's, until eventually the chain bottoms out in a non-monetary commodity-money origin. This dissolves the alleged "circularity" of marginal-utility theory applied to money — money's exchange value is not assumed, it is derivable.
 
-Second, the **structural definition of credit**: "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…" Mises uses this definition (Part Three, Ch. I, p. 268 of the Yale edition) both to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims (which look like credit transactions juristically but are not, since the depositor has surrendered no present good). This is the source the wiki's [[credit-and-deferred-payment|Credit and Deferred Payment]] concept article rests on.
+Second, the **structural definition of credit**: "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…" The definitional sentence appears in Part Three, Ch. I, p. 268 of the Yale edition, in the section "Deposits as the Origin of Circulation Credit" — Mises uses it there to *exclude* deposits-against-redeemable-claims from the conception of credit (a deposit looks like credit juristically but is not credit economically, since the depositor has surrendered no present good). The companion *inclusion* — that ordinary purchase-on-credit and lending are credit transactions — appears in a separate, earlier passage in Part One, Ch. I §3 "The 'Secondary' Functions of Money", where Mises uses the same framework without re-stating the definitional sentence. Together these two passages are the source the wiki's [[credit-and-deferred-payment|Credit and Deferred Payment]] concept article rests on.
 
 Third, the **money-and-banking machinery** that becomes Austrian Business Cycle Theory under Hayek and Rothbard: the distinction between money-certificates (claims fully backed by money proper) and fiduciary media (claims issued beyond actual money holdings), and the macroeconomic consequences of expanding the latter. The 1912 statement is shorter and less developed than the mature ABCT in [[prices-and-production|Hayek's *Prices and Production*]] and [[man-economy-and-state|Rothbard's MES]], but the core mechanism is here.
 
@@ -33,11 +33,13 @@ For most of the wiki's history this book was the canonical *missing* source: eve
 
 The current raw source is the Mises Institute PDF of the **1953 Yale University Press "new edition"**, 500 pages, extracted with `pdftotext -layout`. It contains:
 
+Each Part numbers its chapters internally from I, so chapter references are always Part-relative (e.g. *Part Three, Ch. I*).
+
 - **Front matter**: Preface to the New Edition; Lionel Robbins's 1934 introduction; Preface to the English Edition; Preface to the Second German Edition.
-- **Part One — The Nature of Money** (Chapters I–V): functions of money, measurement of value, kinds of money, money and the State, money as an economic good, the enemies of money.
-- **Part Two — The Value of Money** (Chapters VI–XV): subjective and objective exchange-value, social consequences of variations in the value of money, monetary policy, the regression theorem.
-- **Part Three — Money and Banking** (Chapters XVI–XX): the business of banking, fiduciary media, redemption, credit and the trade cycle.
-- **Part Four — Monetary Reconstruction** (added 1953): the postwar essay on returning to sound money.
+- **Part One — The Nature of Money** (Chapters I–VI): the functions of money, measurement of value, the various kinds of money, money and the State, money as an economic good, the enemies of money.
+- **Part Two — The Value of Money** (Chapters I–VIII): the concept of the value of money, the determinants of objective exchange-value, the problem of measuring objective exchange-value, the social consequences of variations in the value of money, monetary policy, the monetary policy of etatism.
+- **Part Three — Money and Banking** (Chapters I–VI): the business of banking, the evolution of fiduciary media, fiduciary media and the demand for money, the redemption of fiduciary media, money/credit/interest, problems of credit policy.
+- **Part Four — Monetary Reconstruction** (Chapters I–III, added 1953): the principle of sound money, contemporary currency systems, the return to sound money.
 - Concluding Remarks; Appendix A (Classification of Monetary Theories); Appendix B (Translator's Note).
 
 Some pdftotext artifacts remain — running headers occasionally interleave with the prose, the index pages have layout noise, and a handful of OCR ligature splits show up — but the body prose is intact and grep-searchable.

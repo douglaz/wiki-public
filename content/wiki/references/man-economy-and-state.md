@@ -34,6 +34,7 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[libertarianism|Libertarianism]] - political doctrine that often relies on this economic base
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the wider corpus
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's teacher and the source of the praxeological method
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 monetary treatise; MES Ch. 11 (Money and Its Purchasing Power) is recognisably continuous with the TMC system
 - [[human-action|Human Action]] - Mises's treatise that this book elaborates as a textbook
 - [[praxeology|Praxeology]] - method underlying the treatise's deductive structure
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - macroeconomic theory the book carries forward

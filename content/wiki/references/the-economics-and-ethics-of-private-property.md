@@ -45,6 +45,7 @@ The underlying raw passage is here:
 - [[private-security-and-insurance|Private Security and Insurance]] - article drawing on the book's arguments about security production
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article using the book's tax-incidence argument
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws on Hoppe's parallel formulation of the present-good/future-good account of credit and the commodity-vs-circulation-credit distinction (and quotes Mises 1912 *TMC* via Hoppe)
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that EEPP quotes directly (TMC p. 268) when defending the present-good/future-good distinction against critics who would blur it
 
 ## Sources
 

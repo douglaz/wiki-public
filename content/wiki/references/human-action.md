@@ -32,6 +32,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - author node for the wider Mises corpus
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's earlier (1912) treatise; *Human Action*'s monetary theory in Ch. XVII–XX is the integrated re-statement of the TMC system
 - [[austrian-economics|Austrian Economics]] - topic map this treatise anchors
 - [[praxeology|Praxeology]] - the methodological core of the book
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws on Mises's pairing of "credit transactions and deferred payments" (Ch. XX) and the commodity-vs-circulation-credit distinction (Ch. XVII)
