@@ -2,15 +2,15 @@
 
 > Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
 
-Last updated: 2026-05-09
+Last updated: 2026-05-10
 
 ## Statistics
 
-- Sources: 41 raw documents
-- Articles: 37 compiled wiki articles
+- Sources: 43 raw documents
+- Articles: 43 compiled wiki articles
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-09
-- Last lint: 2026-05-09 (scoped to credit-and-deferred-payment.md)
+- Last compiled: 2026-05-10
+- Last lint: 2026-05-10
 
 ## Quick Navigation
 
@@ -24,6 +24,8 @@ Last updated: 2026-05-09
 
 ## Recent Changes
 
+- 2026-05-10: Compiled Nietzsche and Hillebrand ingests into 6 new articles: `thus-spake-zarathustra-the-new-idol`, `the-praxeology-of-privacy`, `max-hillebrand`, `praxeology-of-privacy`, `resistance-axiom`, and `privacy-and-cryptography`. Updated `state-power-and-intervention`, `praxeology`, `nonaggression-and-property-rights`, `austrian-economics`, `hans-hermann-hoppe`, and `ludwig-von-mises` for cross-references and source integration.
+- 2026-05-10: Ingested Nietzsche, *Thus Spake Zarathustra* Pt. I Ch. XI "The New Idol" (Thomas Common trans., 1909, Project Gutenberg #1998), and Max Hillebrand, *The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation* (public-domain v0.2.0, official Towards Liberty EPUB/PDF). Nietzsche adds a pre-libertarian state-as-monster primary source; Hillebrand extends the praxeology-of-privacy, Bitcoin, and cypherpunk implementation thread.
 - 2026-05-09: Ingested Mises, *The Theory of Money and Credit* (1912 German; 1934 English trans. by H. E. Batson; 1953 Yale "new edition" with *Monetary Reconstruction* essay). The 500-page PDF contains the original 1912 statement of the present-good-for-future-good definition of credit ("If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…"), closing the documented gap behind the `credit-and-deferred-payment` concept article. The article should now be re-compiled to cite TMC directly instead of via Hoppe's quotation.
 - 2026-05-09: Added `credit-and-deferred-payment` concept article — present-good-for-future-good definition from MES, "credit transactions and deferred payments" from *Human Action*, and book/commercial credit from Hayek's *Prices and Production*. Closes the previously-flagged gap between Austrian credit definition and folk usage and supplies the foundational definition that the existing `austrian-business-cycle-theory` article presupposes.
 - 2026-05-06: Ingested Rothbard, *America's Great Depression* (1963; Mises Institute 5th ed., 2000, 411 pp); wrote a reference article and a historical-application section in the austrian-business-cycle-theory concept article. The wiki now has the canonical Austrian reading of 1929–1933.

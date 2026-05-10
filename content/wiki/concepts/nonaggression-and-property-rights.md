@@ -2,7 +2,7 @@
 title: "Nonaggression and Property Rights"
 category: concept
 created: 2026-04-21
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism]
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
@@ -20,6 +20,12 @@ summary: "Normative core of the current corpus: self-ownership, property, contra
 ## Why Property Is Part of the Rule
 
 [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] make the property side explicit. Bodies, goods, land, and contracts are scarce means, so peaceful coexistence requires rules identifying who may control what. Aggression is then defined as invasion of those rightful control boundaries. In that framework, property is not an optional add-on to liberty. It is the way liberty becomes administrable in a world of scarcity.
+
+## Privacy, Information, and Scarce Media
+
+[[the-praxeology-of-privacy|The Praxeology of Privacy]] adds a privacy application to this property framework. Hillebrand's move is not to declare information content itself property. He follows the scarcity-based line: information content is non-rivalrous, so ownership claims over abstract ideas or data patterns would create artificial scarcity. Privacy is instead protected through self-ownership, physical property, and contract.
+
+That distinction matters. Compelling a person to disclose, entering a home or device without consent, intercepting a communication channel, or breaching a confidentiality agreement can violate person, property, or contract. Merely knowing a fact that someone wishes were unknown is not automatically aggression. Hillebrand's argument therefore extends the nonaggression framework into identity, communication, and surveillance without importing a broad intellectual-property theory.
 
 ## Contract, Law, and Retaliation
 
@@ -44,6 +50,8 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] - related work in this corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[the-law|The Law]] - related work in this corpus
+- [[praxeology-of-privacy|Praxeology of Privacy]] - privacy application of self-ownership, physical property, and contract
+- [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for privacy, surveillance, and cryptographic resistance
 
 ## Sources
 
@@ -54,3 +62,4 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - **The Law (Full Text Aggregate)** - law, liberty, property, and the problem of legalized plunder
 - **The Ethics of Liberty (Full Text Aggregate)** - Rothbard's natural-rights treatment of self-ownership, property, contract, and aggression
 - **Liberalism (Full Text Aggregate)** - Mises's consequentialist case for property, exchange, and a free society
+- **The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation** - application of self-ownership, scarce media, and contract to privacy and surveillance

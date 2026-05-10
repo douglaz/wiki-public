@@ -2,7 +2,7 @@
 title: "Hans-Hermann Hoppe"
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-10
 tags: [hoppe, austrian-economics, libertarianism, property-rights]
 aliases: [Hoppe, Hans Hoppe]
 confidence: medium
@@ -26,6 +26,10 @@ Hoppe's role in the present graph is to connect several themes that would otherw
 
 The current raw sources describe Hoppe as a leading student and colleague of Murray Rothbard, and the article graph reflects that affinity. Hoppe often takes arguments that are already present in Rothbard and pushes them into a sharper property-theoretic or institutional form. In this wiki, that is most visible in discussions of socialism, tax incidence, and security production. The result is that Hoppe functions less as a separate school than as a force-multiplier within the Rothbard-heavy corpus already present.
 
+## Downstream Privacy Extension
+
+[[max-hillebrand|Max Hillebrand]] explicitly continues the Hoppean line in [[the-praxeology-of-privacy|The Praxeology of Privacy]]. Hillebrand uses Hoppe's argumentation ethics as the normative bridge from the descriptive privacy of action to self-ownership, communication privacy, and the illegitimacy of coerced disclosure. That extension is useful to the wiki, but it should be marked as Hillebrand's application of Hoppe rather than as a claim already developed in the current Hoppe source set.
+
 ## Best Entry Points
 
 For the economic and comparative-systems side, start with [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]]. For the wider application of property reasoning to taxation, security, and political order, move to [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]. In the compiled wiki, the easiest thematic entry points are [[austrian-economics|Austrian Economics]] and [[sales-tax-incidence|Sales Tax Incidence]].
@@ -43,6 +47,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[murray-n-rothbard|Murray N. Rothbard]] - closest author reference in the current graph
 - [[ludwig-von-mises|Ludwig von Mises]] - source of the calculation argument Hoppe restates in property-rights terms
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise; Hoppe quotes TMC p. 268 directly in EEPP when defending the present-good/future-good distinction
+- [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand's privacy extension of Hoppe's argumentation-ethics line
 - [[economic-calculation-problem|Economic Calculation Problem]] - argument Hoppe inherits from Mises and reframes
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights treatise (Hoppe wrote the introduction to the 1998 edition)
 - [[libertarianism|Libertarianism]] - broader topic context
@@ -54,3 +59,4 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - **The Economics and Ethics of Private Property (Full Text Aggregate)** - main full-text source for Hoppe on taxation, security, banking, and ethics
 - **A Theory of Socialism and Capitalism** - metadata and Mises description for the book's role in Hoppe's corpus
 - **The Economics and Ethics of Private Property** - metadata and Mises description for Hoppe's collected essays on property
+- **The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation** - downstream use of Hoppe's argumentation ethics in privacy theory

@@ -2,7 +2,7 @@
 title: "Ludwig von Mises"
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
 confidence: medium
@@ -36,6 +36,10 @@ Until this compile pass, the wiki's Mises was a reconstruction — visible only 
 
 Mises and [[friedrich-a-hayek|F. A. Hayek]] are the two anchors of the Austrian tradition. They share the calculation-debate position against socialism but diverge on the role of the state in a free society (Mises is closer to a strict laissez-faire minimum, Hayek is more accommodating of a social safety net) and on methodology (Mises is more strictly aprioristic, Hayek leans more on tacit knowledge and evolutionary processes). The wiki now contains the principal texts of both authors, so these intra-Austrian disagreements can be examined directly.
 
+## Downstream Privacy Application
+
+[[the-praxeology-of-privacy|The Praxeology of Privacy]] uses Mises's action axiom and praxeological method as the descriptive foundation for privacy theory. Hillebrand's claim is not that Mises wrote a cypherpunk privacy treatise, but that internal deliberation, subjective valuation, and information asymmetry follow from the structure of action and can be extended into privacy analysis.
+
 ## Suggested Reading Path
 
 Start with [[liberalism|Liberalism]] for the political program. Move to [[socialism|Socialism]] for the calculation argument that motivates it. Then take on [[human-action|Human Action]] for the full system. Read [[theory-and-history|Theory and History]] when methodological questions become pressing.
@@ -51,6 +55,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[praxeology|Praxeology]] - the methodological core
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - related concept
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 founding text of Austrian monetary theory
+- [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand's privacy application of Mises's action axiom
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - concept article drawing on Mises's structural definition of credit (TMC p. 268) and on his *Human Action* treatment of credit transactions and deferred payments
 - [[human-action|Human Action]] - related work in this corpus
 - [[liberalism|Liberalism]] - related work in this corpus
@@ -67,3 +72,4 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - **Socialism (Full Text Aggregate)** - 1922 critique with the calculation argument
 - **Liberalism (Full Text Aggregate)** - 1927 classical-liberal manifesto
 - **Theory and History (Full Text Aggregate)** - 1957 methodological treatise
+- **The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation** - downstream use of Mises's action axiom and praxeological method in privacy theory

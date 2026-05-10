@@ -2,7 +2,7 @@
 title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [state, intervention, anti-statism, taxation, central-planning]
 aliases: [state intervention, interventionism]
 confidence: medium
@@ -16,6 +16,12 @@ summary: "Libertarian account of the state as legalized privilege: taxation, mon
 ## What Makes the State Distinctive
 
 *Anatomy of the State* and *For a New Liberty* both insist that society and state are not the same thing. Bastiat's *The Law* sharpens the point by arguing that once law is used to transfer wealth or status, it becomes an instrument of plunder rather than justice. [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] frames the state as institutionalized interference with property rights and forced membership. In this wiki, then, the state is not just a big organization. It is a rule-breaking organization that claims a legal exemption from the norms summarized in [[nonaggression-and-property-rights|Nonaggression and Property Rights]].
+
+## The State-as-Monster Trope
+
+Nietzsche's 1883 chapter [[thus-spake-zarathustra-the-new-idol|The New Idol]] gives this article an earlier, non-libertarian state-as-monster source. The chapter calls the state the "coldest of all cold monsters" and attacks its claim to be identical with the people. That converges with libertarian anti-state rhetoric at the level of negative description: state and people are not the same, and political worship corrupts social life.
+
+The convergence should not be overstated. Nietzsche gives no Rothbardian nonaggression principle, no Misesian prescription for liberal institutions, and no Austrian theory of intervention. The chapter is useful because it shows that one anti-state image predates this wiki's main traditions and comes from a philosophical source whose positive program is not libertarian.
 
 ## Intervention as a Cumulative Process
 
@@ -59,6 +65,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-politics-of-obedience|The Politics of Obedience]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
+- [[thus-spake-zarathustra-the-new-idol|The New Idol]] - non-libertarian state-as-monster source used for intellectual-history context
+- [[privacy-and-cryptography|Privacy and Cryptography]] - surveillance and cryptographic-resistance topic that extends the intervention frame into financial observation and control
 
 ## Sources
 
@@ -75,3 +83,4 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - **Liberalism (Full Text Aggregate)** - Mises's classical-liberal political program contrasting a free society with the interventionist state
 - **The Road to Serfdom (Full Text Aggregate)** - Hayek's account of how comprehensive planning erodes the rule of law
 - **Individualism and Economic Order (Full Text Aggregate)** - Hayek's knowledge-problem critique of central economic planning
+- **Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)** - early non-libertarian articulation of the state-as-monster framing

@@ -2,7 +2,7 @@
 title: "Austrian Economics"
 category: topic
 created: 2026-04-21
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
 confidence: medium
@@ -37,6 +37,10 @@ The *Power and Market* material in Rothbard's treatise treats intervention dynam
 
 The Austrian conclusions are repeatedly relied on by the wiki's libertarian political texts. *For a New Liberty* leans on calculation and intervention analysis even when its surface subject is law or war. *The Road to Serfdom* applies the knowledge problem to political philosophy. *Liberalism* defends a free society on consequentialist Austrian grounds. The wiki therefore treats Austrian economics as more than technical background. It is the economic argument for why the market order defended in [[libertarianism|Libertarianism]] is supposed to be productive, adaptive, and resistant to chaos, and it underwrites the non-state institutional proposals in [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
+## Privacy and Cypherpunk Extension
+
+[[max-hillebrand|Max Hillebrand]]'s [[the-praxeology-of-privacy|The Praxeology of Privacy]] extends this Austrian map into privacy and cypherpunk implementation. The book uses Mises's action axiom to frame privacy as a structural feature of action, uses Hoppe's property and argumentation-ethics line to make the normative case, and then treats cryptography, Bitcoin, anonymous networks, and zero-knowledge proofs as implementation domains. This is not a claim that classical Austrian economics already contained those technologies. It is a modern application of Austrian method to surveillance and resistant infrastructure.
+
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - founder of modern Austrian economics
@@ -51,6 +55,10 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[state-power-and-intervention|State Power and Intervention]] - political economy of intervention
 - [[sales-tax-incidence|Sales Tax Incidence]] - Rothbard's application of Austrian price theory to tax incidence
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - structural definition of credit (present good for future good) presupposed by ABCT; draws across MES, *Human Action*, *EoL*, *Prices and Production*, and Hoppe's *EEPP*
+- [[privacy-and-cryptography|Privacy and Cryptography]] - modern privacy and cypherpunk implementation extension of the Austrian framework
+- [[praxeology-of-privacy|Praxeology of Privacy]] - action-theoretic argument for privacy as selective disclosure
+- [[resistance-axiom|Resistance Axiom]] - assumption that cryptographic and decentralized systems can resist external control
+- [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand source for this extension
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional implications some Austrian writers draw from property theory
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - related work in this corpus
 - [[human-action|Human Action]] - related work in this corpus
@@ -73,3 +81,4 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - **A Theory of Socialism and Capitalism (Full Text Aggregate)** - property-based contrast between capitalism, socialism, and the state
 - **The Economics and Ethics of Private Property (Full Text Aggregate)** - praxeology, money, taxation, public goods, and private property
 - **For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)** - political applications built on Austrian economic conclusions
+- **The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation** - modern application of praxeology, property theory, money, and capital theory to privacy and cryptographic implementation

@@ -2,7 +2,7 @@
 title: "Praxeology"
 category: concept
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [praxeology, methodology, austrian-economics, action-axiom, mises]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
 confidence: medium
@@ -29,6 +29,12 @@ Praxeology is not introspection, not psychology, and not history. It does not ex
 
 Praxeology is the reason the wiki's economic articles cite arguments rather than studies. [[sales-tax-incidence|Sales Tax Incidence]] does not depend on regressions of past tax data; it depends on a deductive analysis of how prices, costs, and factor incomes must respond to a tax. [[economic-calculation-problem|The economic-calculation problem]] is presented as a logical impossibility, not an empirical observation about historical regimes. The status of these claims depends entirely on whether the praxeological method is sound — and that is the question Mises and Rothbard treat as decisive.
 
+## Privacy and Resistance Extension
+
+[[max-hillebrand|Max Hillebrand]] extends this method in [[the-praxeology-of-privacy|The Praxeology of Privacy]]. His claim is that internal deliberation, subjective valuation, and actor-observer information asymmetry make privacy a structural feature of action. The move is explicitly layered: Mises's action axiom supplies the descriptive foundation, Hoppe's argumentation ethics supplies the contested normative bridge, and the [[resistance-axiom|Resistance Axiom]] supplies the practical assumption that cryptographic systems can resist external control.
+
+This is a modern extension rather than a claim Mises himself made. The wiki should treat it as Hillebrand's application of praxeology to surveillance and cryptographic implementation.
+
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the term and method
@@ -38,9 +44,13 @@ Praxeology is the reason the wiki's economic articles cite arguments rather than
 - [[theory-and-history|Theory and History]] - epistemological defense
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbardian elaboration
 - [[economic-calculation-problem|Economic Calculation Problem]] - example of a praxeologically derived conclusion
+- [[praxeology-of-privacy|Praxeology of Privacy]] - Hillebrand's extension of the method to privacy and surveillance
+- [[resistance-axiom|Resistance Axiom]] - contrast case: an implementation assumption rather than a self-evident action axiom
+- [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source for the privacy extension
 
 ## Sources
 
 - **Human Action (Full Text Aggregate)** - canonical source
 - **Theory and History (Full Text Aggregate)** - epistemological defense
 - **Man, Economy, and State (Full Text Aggregate)** - Rothbardian elaboration
+- **The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation** - Hillebrand's application of action theory to privacy and resistance
