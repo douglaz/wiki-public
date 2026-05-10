@@ -6,8 +6,8 @@ Last updated: 2026-05-10
 
 ## Statistics
 
-- Sources: 43 raw documents
-- Articles: 43 compiled wiki articles
+- Sources: 44 raw documents
+- Articles: 47 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-10
 - Last lint: 2026-05-10
@@ -15,15 +15,17 @@ Last updated: 2026-05-10
 ## Quick Navigation
 
 - [All Sources](raw/_index.md)
-- [Concepts](wiki/concepts/_index.md)
-- [Topics](wiki/topics/_index.md)
-- [References](wiki/references/_index.md)
-- [Theses](wiki/theses/_index.md)
+- [Concepts](concepts/)
+- [Topics](topics/)
+- [References](references/)
+- [Theses](theses/)
 - [Outputs](output/_index.md)
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
 
+- 2026-05-10: Compiled Lowery's *Softwar* into 4 new articles: `softwar`, `jason-lowery`, `power-projection`, and `abstract-power-hierarchies`. Updated `praxeology-of-privacy`, `state-power-and-intervention`, `privacy-and-cryptography`, `the-praxeology-of-privacy`, `nonaggression-and-property-rights`, `market-anarchism-and-private-law`, and `resistance-axiom` for source integration and reciprocal links.
+- 2026-05-10: Ingested Major Jason Lowery, *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* (MIT SDM thesis, CC BY 4.0), adding the national-security/proof-of-work power-projection lens to the Bitcoin and abstract-authority thread.
 - 2026-05-10: Compiled Nietzsche and Hillebrand ingests into 6 new articles: `thus-spake-zarathustra-the-new-idol`, `the-praxeology-of-privacy`, `max-hillebrand`, `praxeology-of-privacy`, `resistance-axiom`, and `privacy-and-cryptography`. Updated `state-power-and-intervention`, `praxeology`, `nonaggression-and-property-rights`, `austrian-economics`, `hans-hermann-hoppe`, and `ludwig-von-mises` for cross-references and source integration.
 - 2026-05-10: Ingested Nietzsche, *Thus Spake Zarathustra* Pt. I Ch. XI "The New Idol" (Thomas Common trans., 1909, Project Gutenberg #1998), and Max Hillebrand, *The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation* (public-domain v0.2.0, official Towards Liberty EPUB/PDF). Nietzsche adds a pre-libertarian state-as-monster primary source; Hillebrand extends the praxeology-of-privacy, Bitcoin, and cypherpunk implementation thread.
 - 2026-05-09: Ingested Mises, *The Theory of Money and Credit* (1912 German; 1934 English trans. by H. E. Batson; 1953 Yale "new edition" with *Monetary Reconstruction* essay). The 500-page PDF contains the original 1912 statement of the present-good-for-future-good definition of credit ("If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…"), closing the documented gap behind the `credit-and-deferred-payment` concept article. The article should now be re-compiled to cite TMC directly instead of via Hoppe's quotation.
