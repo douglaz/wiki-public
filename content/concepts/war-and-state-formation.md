@@ -3,10 +3,10 @@ title: "War and State Formation"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, evolution-of-the-state, political-means, historical-sociology]
+tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, evolution-of-the-state, political-means, historical-sociology, totalitarianism]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
 confidence: medium
-summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state, with clear convergence and divergence from the libertarian state-evolution narrative."
+summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state, with clear convergence and divergence from the libertarian state-evolution narrative and from Arendt's distinct totalitarianism thesis."
 ---
 
 # War and State Formation
@@ -49,6 +49,12 @@ The divergence is just as important. Tilly is not making Rothbard's or Nock's no
 
 The divergence is especially sharp against anarcho-capitalist inference. Tilly's framework does not imply that non-state protection is viable. It explains why the European state form defeated city-states, empires, federations, and other arrangements under particular military and fiscal conditions. That historical explanation can sharpen libertarian critique, but it cannot by itself supply a market-anarchist alternative.
 
+## Boundary with Totalitarianism
+
+[[the-origins-of-totalitarianism|Arendt's Origins]] is adjacent to Tilly but should not be folded into him. Tilly's coercion-intensive path explains how war-making, extraction, and administrative capacity can build strong states. It does not imply that coercion-intensive state formation automatically produces [[totalitarianism|Totalitarianism]].
+
+Arendt's imperialism chapters overlap with Tilly-adjacent material: race-thinking, bureaucracy, continental expansion, statelessness, and the decline of the nation-state. But her totalitarianism thesis proper depends on a further combination of mass society, total ideology, terror, secret-police rule, and total domination. The shared terrain is coercion and state capacity; the distinctive Arendtian claim is the novel form of government created when ideology and terror become the regime's essence.
+
 ## Partial-Text Caveat
 
 This article uses only chapters 1, 3, and 6 of Tilly's book. Chapter 5, which would likely contain the fullest treatment of the lineages and trajectories, is absent from the raw source. The typology is therefore sourced from the summary and recap material in chapters 1 and 6, plus chapter 3's mechanism discussion. Claims requiring the absent chapters should be marked partial-text or left for a future ingest.
@@ -59,6 +65,8 @@ This article uses only chapters 1, 3, and 6 of Tilly's book. Chapter 5, which wo
 - [[charles-tilly|Charles Tilly]] - author reference
 - [[evolution-of-the-state|Evolution of the State]] - broader historical-state thread now extended by Tilly
 - [[state-power-and-intervention|State Power and Intervention]] - state-power concept that uses Tilly as a non-libertarian convergence point
+- [[totalitarianism|Totalitarianism]] - Arendt's distinct account of ideology and terror as a novel form of government
+- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - Arendt source for imperialism and totalitarianism boundary cases
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction empirically illuminated by the capital/coercion typology
 - [[libertarianism|Libertarianism]] - topic map that situates Tilly outside the libertarian program
 - [[oppenheimer-the-state|The State]] - conquest-origin comparator
@@ -69,3 +77,4 @@ This article uses only chapters 1, 3, and 6 of Tilly's book. Chapter 5, which wo
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - chapters 1, 3, and 6 for the capital/coercion typology, war-making/extraction mechanism, protection-racket passages, and European state-system argument
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin and political/economic means comparator
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social-power/state-power comparator
+- [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - imperialism and totalitarianism comparator, used to distinguish coercion-intensive state formation from totalitarian rule

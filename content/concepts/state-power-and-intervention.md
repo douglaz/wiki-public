@@ -3,10 +3,10 @@ title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
-tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation]
+tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, totalitarianism]
 aliases: [state intervention, interventionism]
 confidence: medium
-summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, protection-racket sociology, abstract authority, regime incentives, and dependence on habit or consent."
+summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, protection-racket sociology, abstract authority, regime incentives, totalitarian pathology, and dependence on habit or consent."
 ---
 
 # State Power and Intervention
@@ -41,6 +41,12 @@ Tilly's [[war-and-state-formation|War and State Formation]] framework adds a thi
 
 This confirms a descriptive claim the libertarian sources often make polemically: state protection and state predation can grow from the same coercive machinery. The difference is evaluative. Tilly does not treat this as a proof of libertarian anti-statism. He treats European state capacity as a mixed result of military competition, capital, extraction, administration, and bargaining.
 
+## Totalitarianism as a Distinct Pathology
+
+[[hannah-arendt|Arendt]] adds a needed regime boundary through [[the-origins-of-totalitarianism|The Origins of Totalitarianism]]. The libertarian sources in this article often treat "the State" at a high level of abstraction: monopoly law, taxation, conquest, intervention, and political means. Arendt insists that [[totalitarianism|Totalitarianism]] is not simply a more intense version of tyranny, despotism, dictatorship, or authoritarian rule. It rules through ideology and terror, seeks total domination rather than ordinary obedience, and attempts to replace positive law with the alleged movement of Nature or History.
+
+That distinction sharpens rather than weakens the anti-state analysis. The modern state can be extractive, interventionist, militarized, or bureaucratic without being totalitarian in Arendt's sense. Totalitarianism names a specific twentieth-century pathology of mass society, ideology, police rule, and terror. The convergence is diagnostic; the divergence is political. Arendt does not infer market anarchism or the nonaggression principle from her account.
+
 ## Intervention as a Cumulative Process
 
 [[man-economy-and-state|Man, Economy, and State]] matters here because it turns moral complaint into economic analysis. The *Power and Market* material treats taxes, price controls, monopoly grants, and other interventions as disturbances that create further distortions and pressures for more intervention. The same logic is set out earlier and more directly by [[ludwig-von-mises|Mises]] under the label "destructionism" in [[socialism|Socialism]] and applied politically in [[liberalism|Liberalism]]. [[hans-hermann-hoppe|Hoppe]] restates it in property-rights form, and the accessible polemic *Busting Myths about the State and the Libertarian Alternative* applies it issue by issue. Intervention is therefore not a one-off technique in this corpus. It is a destabilizing process. The argument Rothbard makes in [[sales-tax-incidence|Sales Tax Incidence]] is one concrete case of that wider approach.
@@ -74,6 +80,10 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
 - [[war-and-state-formation|War and State Formation]] - Tilly's historical sociology of war-making, taxation, coercion, and state capacity
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's production-versus-predation distinction
+- [[totalitarianism|Totalitarianism]] - Arendt's non-libertarian account of a novel state pathology ruled by ideology and terror
+- [[mass-society-and-atomization|Mass Society and Atomization]] - Arendt's account of the social condition that makes totalitarian mobilization possible
+- [[hannah-arendt|Hannah Arendt]] - non-libertarian author whose regime distinction sharpens this article
+- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - source for the totalitarianism distinction
 - [[for-a-new-liberty|For a New Liberty]] - full-text entry point for the broad anti-state argument
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's political application of the case against central planning
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - related work in this corpus
@@ -117,3 +127,4 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's monarchy-to-democracy regime comparison
+- [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's non-libertarian distinction between totalitarianism and other forms of state authority

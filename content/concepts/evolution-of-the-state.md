@@ -3,10 +3,10 @@ title: "Evolution of the State"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation]
+tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
-summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, and adjacent consent, abstraction, and private-security counterfactuals."
+summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, Arendt's totalitarianism preconditions, and adjacent consent, abstraction, and private-security counterfactuals."
 ---
 
 # Evolution of the State
@@ -53,6 +53,12 @@ The divergence is evaluative and institutional. Oppenheimer, Nock, Rothbard, and
 
 The Tilly source is partial. The wiki currently has chapters 1, 3, and 6 only, so claims about chapter 5's lineages or chapter 4's citizen-bargaining detail should remain caveated until a complete authorized text is available.
 
+## Totalitarianism as Twentieth-Century Pathology
+
+[[the-origins-of-totalitarianism|The Origins of Totalitarianism]] adds a different endpoint to the state-evolution arc. Arendt is not explaining the first state, the ordinary growth of state capacity, or monarchy-to-democracy incentives. She reconstructs the preconditions for a novel twentieth-century form: nineteenth-century antisemitism, imperialism, race-thinking, bureaucracy, statelessness, the decline of the nation-state, [[mass-society-and-atomization|mass society and atomization]], and finally ideology and terror.
+
+This is the wiki's source for the pathological-development pole that the libertarian state sources had left under-specified. [[totalitarianism|Totalitarianism]] is not the same claim as Oppenheimer's conquest theory, Nock's social-power depletion, Hoppe's democratic time-preference thesis, or Tilly's coercion/capital typology. It is a specific account of how modern political breakdown can produce a regime that seeks total domination rather than ordinary extraction, rule, or compliance.
+
 ## The Private-Security Counterfactual
 
 [[the-production-of-security|The Production of Security]] gives the counterfactual that the conquest narrative implicitly contests. If security can be produced competitively, then the historical fact that states monopolized protection does not prove that monopoly was necessary. Molinari asks what security would look like if treated like other goods: contract, competition, insurance, and consumer choice rather than territorial command.
@@ -63,6 +69,8 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's core distinction behind the conquest thesis
 - [[war-and-state-formation|War and State Formation]] - Tilly's non-libertarian sociology of war, coercion, taxation, and state formation
+- [[totalitarianism|Totalitarianism]] - Arendt's account of the twentieth-century pathological-development pole
+- [[mass-society-and-atomization|Mass Society and Atomization]] - social preconditions in Arendt's account
 - [[state-power-and-intervention|State Power and Intervention]] - main anti-state concept article now extended by the historical layer
 - [[oppenheimer-the-state|The State]] - primary source for conquest origin and state-stage theory
 - [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly book reference for war-making and capital/coercion paths
@@ -75,6 +83,8 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[the-politics-of-obedience|The Politics of Obedience]] - consent-via-habit complement to the conquest thesis
 - [[the-production-of-security|The Production of Security]] - market-security counterfactual to monopoly state formation
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - modern abstract-authority parallel
+- [[hannah-arendt|Hannah Arendt]] - non-libertarian theorist of totalitarianism
+- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - Arendt source for antisemitism, imperialism, mass society, ideology, and terror
 - [[libertarianism|Libertarianism]] - broader doctrine into which the historical state critique fits
 
 ## Sources
@@ -87,3 +97,4 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - abstract power hierarchy comparison
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for war-making, extraction, capital/coercion paths, and European state-system convergence
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's Oppenheimer-derived analytic state definition
+- [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's preconditions account for totalitarianism as a novel twentieth-century form of government

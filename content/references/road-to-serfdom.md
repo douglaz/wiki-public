@@ -2,11 +2,11 @@
 title: "The Road to Serfdom"
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
 confidence: medium
-summary: "Reference guide to Hayek's 1944 warning that central economic planning leads to authoritarian rule by destroying the rule of law and the institutions on which liberty depends."
+summary: "Reference guide to Hayek's 1944 warning that central economic planning leads to authoritarian rule by destroying the rule of law and the institutions on which liberty depends, now cross-linked to Arendt's distinct totalitarianism framework."
 ---
 
 # The Road to Serfdom
@@ -35,6 +35,9 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[knowledge-problem|Knowledge Problem]] - the deeper epistemic argument behind this book's political conclusions
 - [[economic-calculation-problem|Economic Calculation Problem]] - Mises's complementary argument from the other side of the same case
 - [[state-power-and-intervention|State Power and Intervention]] - the wiki's main concept article on political coercion
+- [[totalitarianism|Totalitarianism]] - Arendt's adjacent but distinct account of ideology, terror, and total domination
+- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - non-libertarian comparator for twentieth-century totalitarianism
+- [[hannah-arendt|Hannah Arendt]] - author of the totalitarianism framework now cross-linked to Hayek
 - [[liberalism|Liberalism]] - Mises's earlier (1927) classical-liberal manifesto
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's theoretical companion volume
 - [[libertarianism|Libertarianism]] - broader topic context

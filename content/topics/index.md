@@ -9,7 +9,7 @@ Last updated: 2026-05-10
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
 | [Austrian Economics](austrian-economics.md) | Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention. | austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle | 2026-05-10 |
-| [Libertarianism](libertarianism.md) | Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, and strong interest in non-state legal order. | libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation | 2026-05-10 |
+| [Libertarianism](libertarianism.md) | Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, totalitarianism as a distinct regime pathology, and strong interest in non-state legal order. | libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, totalitarianism | 2026-05-10 |
 | [Privacy and Cryptography](privacy-and-cryptography.md) | Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin, proof-of-work, and parallel-economy implementation. | privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security | 2026-05-10 |
 
 ## Categories
@@ -18,6 +18,7 @@ Last updated: 2026-05-10
 
 ## Recent Changes
 
+- 2026-05-10: Updated `libertarianism` with Arendt's totalitarianism framework as the dictatorship-pole gap closure
 - 2026-05-10: Updated `libertarianism` with Tilly as the new non-libertarian historical-sociology angle
 - 2026-05-10: Refreshed `libertarianism` with the full-text Hoppe regime-comparison source
 - 2026-05-10: Updated `libertarianism` with the historical state-formation thread

@@ -2,11 +2,11 @@
 title: "Knowledge Problem"
 category: concept
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-10
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
 confidence: medium
-summary: "Hayek's argument that economic knowledge exists only as the dispersed, tacit, time-and-place-specific knowledge of millions of actors, and that the price system is the social mechanism that uses it without anyone possessing all of it."
+summary: "Hayek's argument that economic knowledge exists only as dispersed, tacit, time-and-place-specific knowledge, now cross-linked to Arendt's separate critique of total ideology and reality-denying political deduction."
 ---
 
 # Knowledge Problem
@@ -35,6 +35,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[friedrich-a-hayek|F. A. Hayek]] - originator
 - [[individualism-and-economic-order|Individualism and Economic Order]] - source volume containing the canonical 1945 essay
 - [[road-to-serfdom|The Road to Serfdom]] - political application
+- [[totalitarianism|Totalitarianism]] - Arendt's adjacent political-anthropological account of ideology and terror
 - [[austrian-economics|Austrian Economics]] - school whose mature epistemology this concept defines
 - [[state-power-and-intervention|State Power and Intervention]] - the wiki's main concept article on political coercion, of which knowledge-blind central planning is one form
 - [[socialism|Socialism]] - related work in this corpus

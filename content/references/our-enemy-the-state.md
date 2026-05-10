@@ -41,6 +41,7 @@ The supplied raw extraction contains six chapters, not five. This reference foll
 - [[war-and-state-formation|War and State Formation]] - Tilly's non-libertarian sociology of war, coercion, taxation, and state formation
 - [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - descriptive historical-sociology comparator to Nock's state-power/social-power frame
 - [[state-power-and-intervention|State Power and Intervention]] - concept article using Nock's social-power/state-power frame
+- [[mass-society-and-atomization|Mass Society and Atomization]] - Arendtian comparison point for the social-power depletion problem
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock's categories
 - [[libertarianism|Libertarianism]] - broader topic context for Nock's Old Right anti-statism
 

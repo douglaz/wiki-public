@@ -6,8 +6,8 @@ Last updated: 2026-05-10
 
 ## Statistics
 
-- Sources: 48 raw documents
-- Articles: 57 compiled wiki articles
+- Sources: 49 raw documents
+- Articles: 61 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-10
 - Last lint: 2026-05-10
@@ -24,6 +24,7 @@ Last updated: 2026-05-10
 
 ## Recent Changes
 
+- 2026-05-10: Ingested and compiled Hannah Arendt, *The Origins of Totalitarianism*: 1 new raw full-text source, 4 new articles, and 8 updated articles for totalitarianism, mass society, and state-critique links.
 - 2026-05-10: Ingested and compiled Charles Tilly, *Coercion, Capital, and European States* partial UCSD scan: 1 new raw source, 3 new articles, and 6 updated articles for war-and-state-formation, capital/coercion, and state-evolution links.
 - 2026-05-10: Upgraded Hoppe's *Democracy: The God That Failed* from bibliographic stub to full-text Internet Archive OCR source; source count unchanged at 47; refreshed the reference and downstream regime-theory articles.
 - 2026-05-10: Ingested and compiled Oppenheimer, Nock, and Hoppe state-evolution sources: 3 new raw sources, 7 new articles, and 8 updated articles for historical state formation, political/economic means, consent, regime comparison, and backlinks.

@@ -3,10 +3,10 @@ title: "Abstract Power Hierarchies"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means]
+tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means, totalitarianism]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low
-summary: "Lowery's term for belief-based, rule-based, or software-defined control systems that allocate authority through abstract power rather than directly through physical-cost competition."
+summary: "Lowery's term for belief-based, rule-based, or software-defined control systems that allocate authority through abstract power rather than directly through physical-cost competition, now compared with Arendt's account of total domination."
 ---
 
 # Abstract Power Hierarchies
@@ -24,6 +24,12 @@ The hierarchy is "abstract" because the authority is not itself physical force. 
 Lowery's security criticism is that abstract power hierarchies centralize control authority while relying on trust. The people at the bottom must trust the people at the top not to manipulate the rules, abuse permissions, exploit loopholes, or use enforcement to protect their position. That makes the hierarchy a honeypot: it gathers valuable control into a place that attracts predation.
 
 This framing overlaps with [[state-power-and-intervention|State Power and Intervention]], but it is not the same argument. The libertarian article judges state monopoly against property, consent, and nonaggression. Lowery's thesis asks a systems-security question: what happens when control over valuable resources depends on a trust-based abstraction whose administrators cannot be physically checked by users?
+
+## Arendt's Total Domination
+
+[[hannah-arendt|Arendt]] provides a non-libertarian convergence point in [[the-origins-of-totalitarianism|The Origins of Totalitarianism]]. Her account of [[totalitarianism|total domination]] is not a security-engineering thesis, but it names a related danger: concentrated abstract authority can stop acting like ordinary coordination and become a system for remaking persons into material for an ideological process.
+
+The divergence is important. Lowery frames abstract authority as a honeypot security problem and looks for physical-cost checks, especially in proof-of-work. Arendt frames totalitarian rule as a political-philosophical rupture rooted in mass society, ideology, terror, and loneliness. The shared point is narrower: abstract control can become pathological when it is centralized, insulated from ordinary human feedback, and able to redefine reality for those subject to it.
 
 ## Convergence with Oppenheimer
 
@@ -51,6 +57,8 @@ The confidence level is low because this is a single-source, contested framework
 - [[jason-lowery|Jason Lowery]] - author reference for the thesis
 - [[power-projection|Power Projection]] - broader physical/abstract distinction behind the concept
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's older production-versus-appropriation distinction
+- [[totalitarianism|Totalitarianism]] - Arendt's account of total domination as a distinct political pathology
+- [[mass-society-and-atomization|Mass Society and Atomization]] - social condition that lets abstract ideological authority mobilize isolated people
 - [[evolution-of-the-state|Evolution of the State]] - historical state-formation article using the Lowery/Oppenheimer resonance
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian critique of state monopoly adjacent to Lowery's security critique
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - non-state-law alternative to centralized political authority
@@ -61,3 +69,4 @@ The confidence level is low because this is a single-source, contested framework
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - chapters 4-6 for abstract power, software-defined authority, proof-of-work, and strategic-security claims
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - political/economic means distinction used for cross-tradition comparison
+- [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - total domination comparison point for concentrated abstract authority
