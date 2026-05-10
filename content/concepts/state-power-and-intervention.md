@@ -21,7 +21,7 @@ summary: "Libertarian account of the state as legalized privilege: conquest orig
 
 The state-evolution sources add a historical layer to that analytic definition. [[oppenheimer-the-state|The State]] argues that class states arise through conquest and organized exploitation rather than social contract. Its key distinction, [[political-means-and-economic-means|Political Means and Economic Means]], separates production-and-exchange from forcible appropriation. [[our-enemy-the-state|Our Enemy, the State]] applies that distinction to American history, arguing that political institutions repeatedly convert social power into state power.
 
-[[democracy-the-god-that-failed|Democracy: The God That Failed]] adds a regime-comparison layer. Hoppe treats monarchy and democracy as different incentive structures inside the same broader problem of monopoly government. Because the wiki holds only a metadata stub for this book, specific claims from it should remain lower-confidence, but the high-level monarchy-to-democracy state-growth thesis belongs in [[evolution-of-the-state|Evolution of the State]].
+[[democracy-the-god-that-failed|Democracy: The God That Failed]] adds a regime-comparison layer. Hoppe treats monarchy and democracy as different incentive structures inside the same broader problem of monopoly government. With the full-text OCR now ingested, the relevant path is more specific: chapters 1 and 2 connect public government ownership to higher time preference and heavier exploitation, while chapter 5 connects centralization to expanding territorial tax-and-regulation power. That monarchy-to-democracy state-growth thesis belongs in [[evolution-of-the-state|Evolution of the State]].
 
 ## The State-as-Monster Trope
 
@@ -107,4 +107,4 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - non-libertarian national-security account of abstract power hierarchies and physical-cost checks
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
-- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata-stub source for Hoppe's monarchy-to-democracy regime comparison
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's monarchy-to-democracy regime comparison

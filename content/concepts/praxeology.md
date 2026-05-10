@@ -29,6 +29,10 @@ Praxeology is not introspection, not psychology, and not history. It does not ex
 
 Praxeology is the reason the wiki's economic articles cite arguments rather than studies. [[sales-tax-incidence|Sales Tax Incidence]] does not depend on regressions of past tax data; it depends on a deductive analysis of how prices, costs, and factor incomes must respond to a tax. [[economic-calculation-problem|The economic-calculation problem]] is presented as a logical impossibility, not an empirical observation about historical regimes. The status of these claims depends entirely on whether the praxeological method is sound — and that is the question Mises and Rothbard treat as decisive.
 
+## Time Preference and Regime Theory
+
+[[democracy-the-god-that-failed|Democracy: The God That Failed]] is now the wiki's direct Hoppe source for applying time preference to political regimes. Chapter 1 starts from the action-theory claim that actors prefer earlier over later goods and that civilization requires longer planning horizons. Hoppe then uses that frame to argue that systematic state interference raises social time preference, and chapter 2 applies the same logic to monarchy and democracy as different ownership structures for government.
+
 ## Privacy and Resistance Extension
 
 [[max-hillebrand|Max Hillebrand]] extends this method in [[the-praxeology-of-privacy|The Praxeology of Privacy]]. His claim is that internal deliberation, subjective valuation, and actor-observer information asymmetry make privacy a structural feature of action. The move is explicitly layered: Mises's action axiom supplies the descriptive foundation, Hoppe's argumentation ethics supplies the contested normative bridge, and the [[resistance-axiom|Resistance Axiom]] supplies the practical assumption that cryptographic systems can resist external control.
@@ -44,6 +48,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 - [[theory-and-history|Theory and History]] - epistemological defense
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbardian elaboration
 - [[economic-calculation-problem|Economic Calculation Problem]] - example of a praxeologically derived conclusion
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's use of time preference in regime theory
 - [[praxeology-of-privacy|Praxeology of Privacy]] - Hillebrand's extension of the method to privacy and surveillance
 - [[resistance-axiom|Resistance Axiom]] - contrast case: an implementation assumption rather than a self-evident action axiom
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source for the privacy extension
@@ -53,4 +58,5 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - canonical source
 - [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - epistemological defense
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbardian elaboration
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's time-preference application to monarchy, democracy, and decivilization
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - Hillebrand's application of action theory to privacy and resistance

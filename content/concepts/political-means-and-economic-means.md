@@ -6,7 +6,7 @@ updated: 2026-05-10
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
 confidence: medium
-summary: "Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock and Rothbard as a core vocabulary for the libertarian critique of the state."
+summary: "Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock, Rothbard, and Hoppe as core vocabulary for the libertarian critique of the state."
 ---
 
 # Political Means and Economic Means
@@ -31,6 +31,10 @@ That lets Nock interpret the American state without treating every intervention 
 
 The same line appears in Rothbard's economic work: market action is production and exchange, while intervention shifts control by coercion. That is why this concept sits between [[state-power-and-intervention|State Power and Intervention]] and [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. The political/economic means distinction draws the line historically and sociologically; the nonaggression principle draws the same line normatively.
 
+## Hoppe's Regime-Theory Use
+
+[[democracy-the-god-that-failed|Democracy: The God That Failed]] uses the same vocabulary downstream of Oppenheimer, Nock, and Rothbard. Hoppe's chapter 13 identifies politics with acquiring goods through political means: taxation and legislation. The point is not a new definition so much as a strategic extension. If democratic politics institutionalizes access to goods through political means, then even people who would prefer production and exchange must defend themselves politically unless the monopoly structure is delegitimized or escaped through secession and private-law institutions.
+
 ## Relation to Abstract Power
 
 Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] uses a different intellectual toolkit, but it points toward a similar danger. Abstract offices, rules, and permissions can let administrators extract or redirect value without bearing the physical costs of production and exchange. Oppenheimer names that mechanism as political economy; Lowery names an adjacent security problem in rule-based authority.
@@ -45,6 +49,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - later abstract-authority parallel
 - [[oppenheimer-the-state|The State]] - source text for the distinction
 - [[our-enemy-the-state|Our Enemy, the State]] - American application through social power and state power
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's regime-theory use of the distinction
 - [[franz-oppenheimer|Franz Oppenheimer]] - author reference for the concept's source
 - [[albert-jay-nock|Albert Jay Nock]] - author reference for the American transmission
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
@@ -53,5 +58,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - Nock's social-power/state-power adaptation
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's use of political means in democratic regime critique
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's explicit Oppenheimer citation and state definition
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's economic restatement of the distinction in intervention theory

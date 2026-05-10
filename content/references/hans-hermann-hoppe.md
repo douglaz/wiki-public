@@ -17,7 +17,7 @@ summary: "Reference guide to Hans-Hermann Hoppe's role in this wiki as a propert
 
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] is the clearest statement in the current source set of Hoppe's contrast between capitalism and socialism as rival property regimes.
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadens that framework into taxation, banking, public goods, security, and the ethical implications of ownership.
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] is present only as a metadata stub. It adds Hoppe's monarchy-to-democracy regime-comparison thesis without ingesting the copyrighted full text.
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] adds the regime-comparison layer: time preference, monarchy, democracy, decivilization, secession, and natural order. Its raw source is now a full-text Internet Archive OCR ingest, with a commercial-copyright provenance note.
 
 ## Why Hoppe Matters in This Wiki
 
@@ -33,14 +33,14 @@ The current raw sources describe Hoppe as a leading student and colleague of Mur
 
 ## Best Entry Points
 
-For the economic and comparative-systems side, start with [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]]. For the wider application of property reasoning to taxation, security, and political order, move to [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]. In the compiled wiki, the easiest thematic entry points are [[austrian-economics|Austrian Economics]] and [[sales-tax-incidence|Sales Tax Incidence]].
+For the economic and comparative-systems side, start with [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]]. For the wider application of property reasoning to taxation, security, and political order, move to [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]. For Hoppe's regime theory, use [[democracy-the-god-that-failed|Democracy: The God That Failed]], especially chapters 1-2 on time preference and government ownership and chapter 12 on private defense. In the compiled wiki, the easiest thematic entry points are [[austrian-economics|Austrian Economics]], [[evolution-of-the-state|Evolution of the State]], and [[sales-tax-incidence|Sales Tax Incidence]].
 
 ## See Also
 
 - [[austrian-economics|Austrian Economics]] - main topic page tying Hoppe into the Austrian framework
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - main comparative-systems book in the current Hoppe corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - broader collected-essays volume on property, taxation, and security
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - metadata-stub reference for Hoppe's regime-comparison book
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - full-text OCR reference for Hoppe's regime-comparison book
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property-centered moral baseline Hoppe reinforces
 - [[state-power-and-intervention|State Power and Intervention]] - Hoppe's anti-state analysis in the current corpus
 - [[private-security-and-insurance|Private Security and Insurance]] - security production and insurance in Hoppe's framework
@@ -62,4 +62,4 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [A Theory of Socialism and Capitalism](https://mises.org/library/book/theory-socialism-and-capitalism) - metadata and Mises description for the book's role in Hoppe's corpus
 - [The Economics and Ethics of Private Property](https://mises.org/library/book/economics-and-ethics-private-property) - metadata and Mises description for Hoppe's collected essays on property
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - downstream use of Hoppe's argumentation ethics in privacy theory
-- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata stub for Hoppe's 2001 monarchy, democracy, and natural-order book
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's 2001 monarchy, democracy, and natural-order book

@@ -41,9 +41,9 @@ Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] is a much lat
 
 ## Regime Change After the State Exists
 
-Hoppe's [[democracy-the-god-that-failed|Democracy]] belongs later in the sequence. The state already exists; the question is what happens when its control form changes. Hoppe argues that monarchy resembles private ownership of government, while democracy resembles temporary public management. From that premise he predicts higher time preference under democracy: more redistribution, debt, short-term coalition buying, weakened property security, and faster growth of the "mega-state."
+Hoppe's [[democracy-the-god-that-failed|Democracy]] belongs later in the sequence. The state already exists; the question is what happens when its control form changes. Chapters 1 and 2 derive the contrast from time preference and ownership: monarchy is treated as private ownership of government, while democracy is treated as temporary public management. From that premise Hoppe predicts higher time preference under democracy: more redistribution, debt, short-term coalition buying, weakened property security, and faster growth of the democratic "mega-state."
 
-The wiki should mark the confidence of specific Hoppe claims lower than the Oppenheimer/Nock claims because *Democracy* is currently a metadata stub here, not a full-text source. At the concept level, though, the regime-comparison thesis is important because it adds a modern libertarian account of state growth that is not reducible to origin by conquest.
+The full-text ingest also makes the secession layer clearer. Chapter 5 distinguishes political integration from economic integration and treats decentralization as a check on exploitation because smaller jurisdictions face stronger exit pressure. The regime-comparison thesis is therefore not an origin theory like Oppenheimer's. It is a modern libertarian account of how state power changes after monopoly rule already exists.
 
 ## Sociology and Libertarian Divergence
 
@@ -76,7 +76,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest origin, political/economic means, and stage theory
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application, social power versus state power, and New Deal-era diagnosis
-- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata-stub basis for monarchy/democracy regime comparison
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR basis for monarchy/democracy regime comparison, time preference, and secession
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - consent, habit, and voluntary servitude
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - private-security counterfactual
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - abstract power hierarchy comparison

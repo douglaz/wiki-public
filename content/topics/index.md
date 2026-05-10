@@ -18,6 +18,7 @@ Last updated: 2026-05-10
 
 ## Recent Changes
 
+- 2026-05-10: Refreshed `libertarianism` with the full-text Hoppe regime-comparison source
 - 2026-05-10: Updated `libertarianism` with the historical state-formation thread
 - 2026-05-10: Updated `privacy-and-cryptography` with Lowery's national-security proof-of-work lens
 - 2026-05-10: Added `privacy-and-cryptography` topic map and updated `austrian-economics` for Hillebrand's privacy/cypherpunk extension

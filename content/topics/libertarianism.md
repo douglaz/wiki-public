@@ -23,7 +23,7 @@ The current corpus is unusually hostile to the state as such. *Anatomy of the St
 
 ## Historical State Formation
 
-The Oppenheimer/Nock/Hoppe ingest adds a dedicated historical thread. [[evolution-of-the-state|Evolution of the State]] now separates three claims that the older corpus tended to blend: conquest origin, consent-via-habit persistence, and regime-comparison after the state already exists. This helps the topic map distinguish the libertarian normative case from the historical explanation of how state power arose and grew.
+The Oppenheimer/Nock/Hoppe ingest adds a dedicated historical thread. [[evolution-of-the-state|Evolution of the State]] now separates three claims that the older corpus tended to blend: conquest origin, consent-via-habit persistence, and regime-comparison after the state already exists. The upgraded [[democracy-the-god-that-failed|Democracy]] source makes the third piece more precise: Hoppe's chapters on time preference, public government ownership, and secession supply a specific theory of democratic state growth rather than just a bibliographic placeholder. This helps the topic map distinguish the libertarian normative case from the historical explanation of how state power arose and grew.
 
 ## Economics and Institutional Order
 
@@ -80,4 +80,4 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatise on the moral foundations of liberty
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - historical origin and political/economic means layer for the state critique
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
-- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata-stub regime-comparison source
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR regime-comparison source
