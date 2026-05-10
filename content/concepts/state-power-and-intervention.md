@@ -3,10 +3,10 @@ title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
-tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means]
+tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation]
 aliases: [state intervention, interventionism]
 confidence: medium
-summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, abstract authority, regime incentives, and dependence on habit or consent."
+summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, protection-racket sociology, abstract authority, regime incentives, and dependence on habit or consent."
 ---
 
 # State Power and Intervention
@@ -34,6 +34,12 @@ The convergence should not be overstated. Nietzsche gives no Rothbardian nonaggr
 Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] gives this article another non-libertarian convergence point. He does not argue from nonaggression or Austrian economics. He instead treats states, legal offices, software administrators, and similar institutions as rule-based systems that centralize control through abstract authority. In his [[power-projection|Power Projection]] frame, that concentration becomes a security problem because the people who administer the abstraction can exploit it unless users retain some physical-cost check on their authority.
 
 That descriptive critique overlaps with the libertarian suspicion of state monopoly, but the political conclusions differ. Lowery's policy frame is national-security oriented and includes recommendations for US strategic adoption of Bitcoin. The value here is the shared diagnosis of concentrated abstract authority, not a shared libertarian program.
+
+## Protection Racket Sociology
+
+Tilly's [[war-and-state-formation|War and State Formation]] framework adds a third non-libertarian convergence point next to Nietzsche and Lowery. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], rulers build coercive and fiscal capacity by fighting wars, disarming rivals, extracting taxes, managing debt, bargaining with capitalists and landlords, and selling protection against violence they could inflict or allow.
+
+This confirms a descriptive claim the libertarian sources often make polemically: state protection and state predation can grow from the same coercive machinery. The difference is evaluative. Tilly does not treat this as a proof of libertarian anti-statism. He treats European state capacity as a mixed result of military competition, capital, extraction, administration, and bargaining.
 
 ## Intervention as a Cumulative Process
 
@@ -66,6 +72,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[power-projection|Power Projection]] - Lowery's physical-cost and abstract-power frame
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - non-libertarian security critique of concentrated abstract authority
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
+- [[war-and-state-formation|War and State Formation]] - Tilly's historical sociology of war-making, taxation, coercion, and state capacity
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's production-versus-predation distinction
 - [[for-a-new-liberty|For a New Liberty]] - full-text entry point for the broad anti-state argument
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's political application of the case against central planning
@@ -84,6 +91,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[thus-spake-zarathustra-the-new-idol|The New Idol]] - non-libertarian state-as-monster source used for intellectual-history context
 - [[privacy-and-cryptography|Privacy and Cryptography]] - surveillance and cryptographic-resistance topic that extends the intervention frame into financial observation and control
 - [[softwar|Softwar]] - non-libertarian national-security source on abstract authority and proof-of-work
+- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - non-libertarian historical-sociology source on war-making and state formation
 - [[oppenheimer-the-state|The State]] - conquest-origin source behind the historical state critique
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American application of Oppenheimer
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
@@ -105,6 +113,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem critique of central economic planning
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - early non-libertarian articulation of the state-as-monster framing
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - non-libertarian national-security account of abstract power hierarchies and physical-cost checks
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - non-libertarian historical sociology of war-making, extraction, protection, and state capacity; partial text with chapters 1, 3, and 6 only
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's monarchy-to-democracy regime comparison

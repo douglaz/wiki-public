@@ -3,10 +3,10 @@ title: "Libertarianism"
 category: topic
 created: 2026-04-21
 updated: 2026-05-10
-tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state]
+tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
-summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, and strong interest in non-state legal order."
+summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, and strong interest in non-state legal order."
 ---
 
 # Libertarianism
@@ -25,6 +25,8 @@ The current corpus is unusually hostile to the state as such. *Anatomy of the St
 
 The Oppenheimer/Nock/Hoppe ingest adds a dedicated historical thread. [[evolution-of-the-state|Evolution of the State]] now separates three claims that the older corpus tended to blend: conquest origin, consent-via-habit persistence, and regime-comparison after the state already exists. The upgraded [[democracy-the-god-that-failed|Democracy]] source makes the third piece more precise: Hoppe's chapters on time preference, public government ownership, and secession supply a specific theory of democratic state growth rather than just a bibliographic placeholder. This helps the topic map distinguish the libertarian normative case from the historical explanation of how state power arose and grew.
 
+Tilly's [[war-and-state-formation|War and State Formation]] source adds the missing non-libertarian sociology angle. [[coercion-capital-and-european-states|Coercion, Capital, and European States]] does not argue for libertarian politics, but it gives the corpus a concrete account of how war-making, coercion, taxation, credit, and capital helped produce European national states.
+
 ## Economics and Institutional Order
 
 This source set also treats libertarianism as an account of social order, not only a moral protest. [[austrian-economics|Austrian Economics]] supplies the analysis of action, exchange, money, calculation, and intervention. The Tannehills, [[hans-hermann-hoppe|Hoppe]], and Rothbard then push from economics into institutions, arguing that law, adjudication, and protection need not be monopolized by government. That strand is summarized in [[market-anarchism-and-private-law|Market Anarchism and Private Law]] and, more specifically on the policing side, in [[private-security-and-insurance|Private Security and Insurance]].
@@ -42,6 +44,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus
 - [[state-power-and-intervention|State Power and Intervention]] - critique of political monopoly and intervention
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
+- [[war-and-state-formation|War and State Formation]] - non-libertarian historical sociology of coercion, taxation, capital, and state formation
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[austrian-economics|Austrian Economics]] - economic framework attached to the political philosophy here
@@ -62,6 +65,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[the-politics-of-obedience|The Politics of Obedience]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[oppenheimer-the-state|The State]] - Oppenheimer's conquest-origin and political/economic means source
+- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly source for war-making and European state formation
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American state-evolution source
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
 
@@ -81,3 +85,4 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - historical origin and political/economic means layer for the state critique
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR regime-comparison source
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial non-libertarian historical-sociology source for war-making, coercion, capital, and state formation

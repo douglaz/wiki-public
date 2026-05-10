@@ -3,15 +3,15 @@ title: "Evolution of the State"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy]
+tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
-summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, and adjacent consent, abstraction, and private-security counterfactuals."
+summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, and adjacent consent, abstraction, and private-security counterfactuals."
 ---
 
 # Evolution of the State
 
-> The evolution-of-the-state thread explains how the state is said to arise, persist, and change across regimes. In this wiki, the main pieces are Oppenheimer's conquest-origin thesis, Nock's American application, La Boetie's consent-via-habit thesis, Hoppe's monarchy-to-democracy regime comparison, Lowery's abstract-power frame, and Molinari's market-security counterfactual.
+> The evolution-of-the-state thread explains how the state is said to arise, persist, and change across regimes. In this wiki, the main pieces are Oppenheimer's conquest-origin thesis, Nock's American application, La Boetie's consent-via-habit thesis, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, Lowery's abstract-power frame, and Molinari's market-security counterfactual.
 
 ## Three Different Questions
 
@@ -47,9 +47,11 @@ The full-text ingest also makes the secession layer clearer. Chapter 5 distingui
 
 ## Sociology and Libertarian Divergence
 
-This historical narrative partly converges with non-libertarian sociology. The broader Tilly-style tradition outside the current source set also connects war, coercion, taxation, and state formation. The convergence is descriptive: organized violence, fiscal extraction, and administrative capacity grow together.
+This historical narrative now has an explicit non-libertarian sociology counterpart in [[coercion-capital-and-european-states|Coercion, Capital, and European States]]. Tilly's [[war-and-state-formation|War and State Formation]] framework connects war-making, coercive consolidation, taxation, public debt, bargaining, and administrative capacity across European cases. The convergence is descriptive: organized violence, fiscal extraction, and state structure grow together.
 
-The divergence is evaluative and institutional. Oppenheimer, Nock, Rothbard, and Hoppe use the history to sharpen a critique of monopoly political authority as predatory or exploitative. Mainstream historical sociology often treats state capacity as a mixed institutional achievement that can produce order, revenue, infrastructure, and war-making power. The libertarian thread judges the same capacity against property, consent, nonaggression, and the possibility of non-state ordering.
+The divergence is evaluative and institutional. Oppenheimer, Nock, Rothbard, and Hoppe use the history to sharpen a critique of monopoly political authority as predatory or exploitative. Tilly treats state capacity as a mixed institutional achievement that can produce order, revenue, infrastructure, rights-bargaining, policing, and war-making power. The libertarian thread judges the same capacity against property, consent, nonaggression, and the possibility of non-state ordering.
+
+The Tilly source is partial. The wiki currently has chapters 1, 3, and 6 only, so claims about chapter 5's lineages or chapter 4's citizen-bargaining detail should remain caveated until a complete authorized text is available.
 
 ## The Private-Security Counterfactual
 
@@ -60,8 +62,11 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 ## See Also
 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's core distinction behind the conquest thesis
+- [[war-and-state-formation|War and State Formation]] - Tilly's non-libertarian sociology of war, coercion, taxation, and state formation
 - [[state-power-and-intervention|State Power and Intervention]] - main anti-state concept article now extended by the historical layer
 - [[oppenheimer-the-state|The State]] - primary source for conquest origin and state-stage theory
+- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly book reference for war-making and capital/coercion paths
+- [[charles-tilly|Charles Tilly]] - author reference for the historical-sociology source
 - [[franz-oppenheimer|Franz Oppenheimer]] - author reference for the source of the political/economic means distinction
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American application of Oppenheimer
 - [[albert-jay-nock|Albert Jay Nock]] - author reference for the social-power/state-power vocabulary
@@ -80,4 +85,5 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - consent, habit, and voluntary servitude
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - private-security counterfactual
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - abstract power hierarchy comparison
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for war-making, extraction, capital/coercion paths, and European state-system convergence
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's Oppenheimer-derived analytic state definition

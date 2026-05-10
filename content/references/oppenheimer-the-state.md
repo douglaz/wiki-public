@@ -37,6 +37,8 @@ The book should therefore be used as an upstream sociological source. It should 
 - [[albert-jay-nock|Albert Jay Nock]] - American transmitter of Oppenheimer's state theory
 - [[political-means-and-economic-means|Political Means and Economic Means]] - core distinction introduced by the book
 - [[evolution-of-the-state|Evolution of the State]] - broader historical-state concept article
+- [[war-and-state-formation|War and State Formation]] - Tilly's non-libertarian sociology of war, coercion, taxation, and state formation
+- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - descriptive historical-sociology comparator to Oppenheimer's conquest thesis
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American use of Oppenheimer
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's explicit adoption of Oppenheimer's definition
 - [[state-power-and-intervention|State Power and Intervention]] - anti-state concept article extended by this source
