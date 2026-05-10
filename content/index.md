@@ -7,7 +7,7 @@ Last updated: 2026-05-10
 ## Statistics
 
 - Sources: 52 raw documents
-- Articles: 67 compiled wiki articles
+- Articles: 68 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-10
 - Last lint: 2026-05-10
