@@ -3,10 +3,10 @@ title: "Libertarianism"
 category: topic
 created: 2026-04-21
 updated: 2026-05-10
-tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, totalitarianism]
+tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
-summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, totalitarianism as a distinct regime pathology, and strong interest in non-state legal order."
+summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology, Arendt/Solzhenitsyn totalitarianism coverage, and non-state legal order."
 ---
 
 # Libertarianism
@@ -25,9 +25,9 @@ The current corpus is unusually hostile to the state as such. *Anatomy of the St
 
 The Oppenheimer/Nock/Hoppe ingest adds a dedicated historical thread. [[evolution-of-the-state|Evolution of the State]] now separates three claims that the older corpus tended to blend: conquest origin, consent-via-habit persistence, and regime-comparison after the state already exists. The upgraded [[democracy-the-god-that-failed|Democracy]] source makes the third piece more precise: Hoppe's chapters on time preference, public government ownership, and secession supply a specific theory of democratic state growth rather than just a bibliographic placeholder. This helps the topic map distinguish the libertarian normative case from the historical explanation of how state power arose and grew.
 
-Tilly's [[war-and-state-formation|War and State Formation]] source adds the missing non-libertarian sociology angle. [[coercion-capital-and-european-states|Coercion, Capital, and European States]] does not argue for libertarian politics, but it gives the corpus a concrete account of how war-making, coercion, taxation, credit, and capital helped produce European national states.
+Tilly's [[war-and-state-formation|War and State Formation]] sources add the missing non-libertarian sociology angle. [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] supplies the explicit protection-racket formulation, while [[coercion-capital-and-european-states|Coercion, Capital, and European States]] gives the broader account of how war-making, coercion, taxation, credit, and capital helped produce European national states. Neither source argues for libertarian politics.
 
-Arendt's [[totalitarianism|Totalitarianism]] material closes the dictatorship-pole gap that earlier query work had exposed. [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is not a libertarian source, but it gives the topic map a rigorous distinction between authoritarianism, dictatorship, tyranny, and totalitarian rule. The result is a cleaner state-critique vocabulary: libertarian sources can still analyze the state as monopoly coercion, while Arendt explains the specific twentieth-century form built from [[mass-society-and-atomization|mass society]], ideology, terror, and total domination.
+Arendt and Solzhenitsyn now close the dictatorship/totalitarianism pole that earlier query work had exposed. [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] gives the topic map a rigorous distinction between authoritarianism, dictatorship, tyranny, and totalitarian rule. [[eichmann-in-jerusalem|Eichmann in Jerusalem]] adds the ordinary-participant layer through [[banality-of-evil|Banality of Evil]]. [[the-gulag-archipelago|The Gulag Archipelago]] supplies the Soviet camp-system documentation behind [[total-domination|Total Domination]]. The result is a cleaner state-critique vocabulary: libertarian sources can still analyze the state as monopoly coercion, while Arendt and Solzhenitsyn explain the specific twentieth-century form built from [[mass-society-and-atomization|mass society]], ideology, terror, camps, and destruction of the person.
 
 ## Economics and Institutional Order
 
@@ -47,7 +47,10 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[state-power-and-intervention|State Power and Intervention]] - critique of political monopoly and intervention
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
 - [[war-and-state-formation|War and State Formation]] - non-libertarian historical sociology of coercion, taxation, capital, and state formation
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - Tilly source for the explicit protection-racket formulation
 - [[totalitarianism|Totalitarianism]] - Arendt's non-libertarian account of ideology, terror, and total domination
+- [[total-domination|Total Domination]] - Arendt/Solzhenitsyn concept marking the break from ordinary extraction
+- [[banality-of-evil|Banality of Evil]] - Arendt's ordinary-participant diagnosis
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
@@ -72,6 +75,9 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly source for war-making and European state formation
 - [[hannah-arendt|Hannah Arendt]] - outside author whose totalitarianism framework closes the dictatorship-pole gap
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - Arendt source for totalitarianism as a novel form of government
+- [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt source for the banality of evil
+- [[the-gulag-archipelago|The Gulag Archipelago]] - Solzhenitsyn source for Soviet totalitarian camp documentation
+- [[aleksandr-solzhenitsyn|Aleksandr Solzhenitsyn]] - outside author and Gulag witness
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American state-evolution source
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
 
@@ -91,5 +97,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - historical origin and political/economic means layer for the state critique
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR regime-comparison source
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's explicit protection-racket essay
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial non-libertarian historical-sociology source for war-making, coercion, capital, and state formation
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - non-libertarian source distinguishing totalitarianism from tyranny, dictatorship, authoritarianism, and ordinary state coercion
+- [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - non-libertarian source for ordinary bureaucratic participation and banality of evil
+- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - non-libertarian Soviet camp-system witness for total domination

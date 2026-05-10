@@ -3,15 +3,15 @@ title: "Hannah Arendt"
 category: reference
 created: 2026-05-10
 updated: 2026-05-10
-tags: [hannah-arendt, political-philosophy, totalitarianism, republicanism, civic-humanism, continental-philosophy]
+tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, moral-judgment, republicanism, civic-humanism, continental-philosophy]
 aliases: [Arendt, Hannah Arendt political philosophy]
 confidence: medium
-summary: "Short author reference for Hannah Arendt, the German-Jewish-American political philosopher whose *The Origins of Totalitarianism* supplies this wiki's non-libertarian framework for totalitarianism as a novel twentieth-century form of government."
+summary: "Short author reference for Hannah Arendt, the German-Jewish-American political philosopher whose *Origins* and *Eichmann in Jerusalem* supply this wiki's non-libertarian framework for totalitarianism, total domination, and the banality of evil."
 ---
 
 # Hannah Arendt
 
-> Hannah Arendt enters this wiki as a non-libertarian political philosopher of totalitarianism, public freedom, action, judgment, and modern political rupture. The work currently present here is [[the-origins-of-totalitarianism|The Origins of Totalitarianism]].
+> Hannah Arendt enters this wiki as a non-libertarian political philosopher of totalitarianism, public freedom, action, judgment, and modern political rupture. The works currently present here are [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] and [[eichmann-in-jerusalem|Eichmann in Jerusalem]].
 
 ## Biographical Frame
 
@@ -19,11 +19,15 @@ Hannah Arendt (1906-1975) was born in Hanover and raised in a German-Jewish mili
 
 Major works commonly associated with Arendt include *The Origins of Totalitarianism* (1951), *The Human Condition* (1958), *On Revolution* (1963), *Eichmann in Jerusalem* (1963), *Men in Dark Times* (1968), and the posthumous *The Life of the Mind* (1978).
 
-## Work Present Here
+## Works Present Here
 
-The only Arendt work currently ingested in this wiki is [[the-origins-of-totalitarianism|The Origins of Totalitarianism]]. It anchors the new [[totalitarianism|Totalitarianism]] and [[mass-society-and-atomization|Mass Society and Atomization]] concept articles.
+Two Arendt works are currently ingested in this wiki.
 
-The other major works remain gaps. *The Human Condition* would deepen the action/public-world side of the wiki. *On Revolution* would complicate the existing American Revolution and civic-freedom material. *Eichmann in Jerusalem* would be the proper source for the later "banality of evil" thesis, which should not be attributed to *Origins*.
+[[the-origins-of-totalitarianism|The Origins of Totalitarianism]] anchors [[totalitarianism|Totalitarianism]], [[total-domination|Total Domination]], and [[mass-society-and-atomization|Mass Society and Atomization]].
+
+[[eichmann-in-jerusalem|Eichmann in Jerusalem]] anchors [[banality-of-evil|Banality of Evil]] and supplies the ordinary-participant complement to *Origins*: the regime-level analysis remains in *Origins*, while *Eichmann* examines bureaucratic compliance, thoughtlessness, and judgment.
+
+Other major works remain gaps. *The Human Condition* would deepen the action/public-world side of the wiki. *On Revolution* would complicate the existing American Revolution and civic-freedom material. *Men in Dark Times* and *The Life of the Mind* would extend the judgment and thinking thread.
 
 ## Place in This Wiki
 
@@ -34,8 +38,12 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 ## See Also
 
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - Arendt work present in this wiki
+- [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt work present in this wiki; source for banality of evil
 - [[totalitarianism|Totalitarianism]] - central concept drawn from Arendt's Part Three
+- [[total-domination|Total Domination]] - endpoint concept from Arendt's totalitarianism analysis
+- [[banality-of-evil|Banality of Evil]] - ordinary-participant concept from *Eichmann*
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions concept drawn from Arendt's mass-society analysis
+- [[aleksandr-solzhenitsyn|Aleksandr Solzhenitsyn]] - non-libertarian witness whose Gulag documentation complements Arendt's Soviet totalitarianism frame
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power article sharpened by Arendt's non-libertarian distinction
 - [[evolution-of-the-state|Evolution of the State]] - historical-state arc now using Arendt for the totalitarianism pole
 - [[road-to-serfdom|The Road to Serfdom]] - nearby classical-liberal comparison point
@@ -44,3 +52,4 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 ## Sources
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt source currently present in the wiki; biographical context is included only to orient the author node
+- [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - Arendt source for banality of evil, thoughtlessness, and ordinary bureaucratic participation

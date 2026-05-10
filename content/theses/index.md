@@ -1,18 +1,17 @@
 # Theses Index
 
-> Long-form claims, positions, and arguments under active development.
+> Curated thesis articles.
 
-Last updated: 2026-04-25
+Last updated: 2026-05-10
 
 ## Contents
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
-| _None yet_ |  |  |  |
 
 ## Categories
 
-- **thesis**: (none)
+- **thesis**: 
 
 ## Recent Changes
 

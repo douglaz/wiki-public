@@ -6,7 +6,7 @@ updated: 2026-05-10
 tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, partial-text]
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992, war made the state and the state made war]
 confidence: medium
-summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, and the capital/coercion typology. The wiki source is a partial UCSD course scan containing chapters 1, 3, and 6 only."
+summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, and the capital/coercion typology. The wiki source is a partial UCSD course scan, now paired with Tilly's 1985 organized-crime essay."
 ---
 
 # Coercion, Capital, and European States
@@ -37,7 +37,7 @@ These are Tilly's historical-sociological categories, not libertarian categories
 
 ## Protection and Racketeering
 
-The famous "state-making as organized crime" formulation belongs to Tilly's 1985 essay, which is not yet ingested as a source. The present book nevertheless contains the same analytic family: chapter 3 explicitly compares rulers to racketeers when they offered protection against harms they could themselves inflict or permit. It also describes Wallenstein's wartime extraction as a protection racket.
+The famous "state-making as organized crime" formulation belongs to [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]], which is now ingested as a source. The present book contains the same analytic family: chapter 3 explicitly compares rulers to racketeers when they offered protection against harms they could themselves inflict or permit. It also describes Wallenstein's wartime extraction as a protection racket.
 
 That makes the book important for [[war-and-state-formation|War and State Formation]] and [[state-power-and-intervention|State Power and Intervention]]. It supplies a non-libertarian version of the state/protection-racket convergence, while refusing the libertarian move from description to abolition.
 
@@ -50,6 +50,7 @@ The usefulness for this wiki is comparative. Tilly converges with [[oppenheimer-
 ## See Also
 
 - [[charles-tilly|Charles Tilly]] - author reference
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - 1985 essay with the explicit organized-crime formulation
 - [[war-and-state-formation|War and State Formation]] - concept article built around this source
 - [[evolution-of-the-state|Evolution of the State]] - libertarian historical-evolution thread now extended by Tilly
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept that uses Tilly as a descriptive convergence point
@@ -61,3 +62,4 @@ The usefulness for this wiki is comparative. Tilly converges with [[oppenheimer-
 ## Sources
 
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial UCSD scan text, chapters 1, 3, and 6 only; commercial-copyright provenance retained
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - companion Tilly essay for the explicit organized-crime/protection-racket formulation

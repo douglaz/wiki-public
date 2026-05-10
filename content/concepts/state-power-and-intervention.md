@@ -3,10 +3,10 @@ title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
-tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, totalitarianism]
+tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
 confidence: medium
-summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, protection-racket sociology, abstract authority, regime incentives, totalitarian pathology, and dependence on habit or consent."
+summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology, abstract authority, regime incentives, bureaucracy, Gulag testimony, totalitarian pathology, and dependence on habit or consent."
 ---
 
 # State Power and Intervention
@@ -39,13 +39,19 @@ That descriptive critique overlaps with the libertarian suspicion of state monop
 
 Tilly's [[war-and-state-formation|War and State Formation]] framework adds a third non-libertarian convergence point next to Nietzsche and Lowery. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], rulers build coercive and fiscal capacity by fighting wars, disarming rivals, extracting taxes, managing debt, bargaining with capitalists and landlords, and selling protection against violence they could inflict or allow.
 
+[[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] now supplies the explicit 1985 formulation. Tilly compares war making and state making to organized crime and distinguishes the four activities of war making, state making, protection, and extraction.
+
 This confirms a descriptive claim the libertarian sources often make polemically: state protection and state predation can grow from the same coercive machinery. The difference is evaluative. Tilly does not treat this as a proof of libertarian anti-statism. He treats European state capacity as a mixed result of military competition, capital, extraction, administration, and bargaining.
 
 ## Totalitarianism as a Distinct Pathology
 
 [[hannah-arendt|Arendt]] adds a needed regime boundary through [[the-origins-of-totalitarianism|The Origins of Totalitarianism]]. The libertarian sources in this article often treat "the State" at a high level of abstraction: monopoly law, taxation, conquest, intervention, and political means. Arendt insists that [[totalitarianism|Totalitarianism]] is not simply a more intense version of tyranny, despotism, dictatorship, or authoritarian rule. It rules through ideology and terror, seeks total domination rather than ordinary obedience, and attempts to replace positive law with the alleged movement of Nature or History.
 
-That distinction sharpens rather than weakens the anti-state analysis. The modern state can be extractive, interventionist, militarized, or bureaucratic without being totalitarian in Arendt's sense. Totalitarianism names a specific twentieth-century pathology of mass society, ideology, police rule, and terror. The convergence is diagnostic; the divergence is political. Arendt does not infer market anarchism or the nonaggression principle from her account.
+[[eichmann-in-jerusalem|Eichmann in Jerusalem]] adds the bureaucratic participant layer. [[banality-of-evil|Banality of Evil]] is not a libertarian concept, but it sharpens the critique of bureaucracy: ordinary functionaries can participate in catastrophic wrongdoing through thoughtlessness, legality-as-obedience, and administrative career duty.
+
+[[the-gulag-archipelago|The Gulag Archipelago]] supplies the dictatorship/totalitarianism pole the earlier state-power article lacked. Solzhenitsyn documents the Soviet camp system as more than extraction: arrest, interrogation, forced labor, exile, informers, fear, and social poisoning. This supports Arendt's [[total-domination|Total Domination]] distinction, where the parasite frame breaks because the system destroys the host rather than merely feeding from it.
+
+That distinction sharpens rather than weakens the anti-state analysis. The modern state can be extractive, interventionist, militarized, or bureaucratic without being totalitarian in Arendt's sense. Totalitarianism names a specific twentieth-century pathology of mass society, ideology, police rule, terror, and camps. The convergence is diagnostic; the divergence is political. Arendt does not infer market anarchism or the nonaggression principle from her account, and Solzhenitsyn should not be turned into a libertarian author.
 
 ## Intervention as a Cumulative Process
 
@@ -79,11 +85,16 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - non-libertarian security critique of concentrated abstract authority
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
 - [[war-and-state-formation|War and State Formation]] - Tilly's historical sociology of war-making, taxation, coercion, and state capacity
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - Tilly's explicit protection-racket essay
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's production-versus-predation distinction
 - [[totalitarianism|Totalitarianism]] - Arendt's non-libertarian account of a novel state pathology ruled by ideology and terror
+- [[total-domination|Total Domination]] - Arendt's endpoint concept, concretized by the Gulag source
+- [[banality-of-evil|Banality of Evil]] - Eichmann participant-side bureaucracy and thoughtlessness concept
 - [[mass-society-and-atomization|Mass Society and Atomization]] - Arendt's account of the social condition that makes totalitarian mobilization possible
 - [[hannah-arendt|Hannah Arendt]] - non-libertarian author whose regime distinction sharpens this article
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - source for the totalitarianism distinction
+- [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - source for banality of evil
+- [[the-gulag-archipelago|The Gulag Archipelago]] - source for the Soviet camp-system pole
 - [[for-a-new-liberty|For a New Liberty]] - full-text entry point for the broad anti-state argument
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's political application of the case against central planning
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - related work in this corpus
@@ -123,8 +134,11 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem critique of central economic planning
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - early non-libertarian articulation of the state-as-monster framing
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - non-libertarian national-security account of abstract power hierarchies and physical-cost checks
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's explicit organized-crime/protection-racket essay
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - non-libertarian historical sociology of war-making, extraction, protection, and state capacity; partial text with chapters 1, 3, and 6 only
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's monarchy-to-democracy regime comparison
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's non-libertarian distinction between totalitarianism and other forms of state authority
+- [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - Arendt's ordinary-participant and banality-of-evil source
+- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - Solzhenitsyn's abridged camp-system documentation for the totalitarian pole

@@ -31,6 +31,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 
 ## See Also
 
+- [[banality-of-evil|Banality of Evil]] - Arendt's distinct bureaucracy and moral-judgment layer, compared cautiously with Hayek's planning critique
 - [[friedrich-a-hayek|F. A. Hayek]] - author node for Hayek's wider corpus
 - [[knowledge-problem|Knowledge Problem]] - the deeper epistemic argument behind this book's political conclusions
 - [[economic-calculation-problem|Economic Calculation Problem]] - Mises's complementary argument from the other side of the same case

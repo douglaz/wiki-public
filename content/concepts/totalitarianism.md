@@ -3,10 +3,10 @@ title: "Totalitarianism"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, state, central-planning, evolution-of-the-state]
+tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state]
 aliases: [totalitarian rule, totalitarian domination, total domination, ideology and terror]
 confidence: medium
-summary: "Arendt's account of totalitarianism as a novel form of government distinct from tyranny, despotism, dictatorship, and authoritarianism: rule through ideology and terror, replacement of positive law by a claimed law of movement, and the pursuit of total domination."
+summary: "Arendt's account of totalitarianism as a novel form of government distinct from tyranny, despotism, dictatorship, and authoritarianism: rule through ideology and terror, pursuit of total domination, ordinary bureaucratic participation, and the camp system documented by Solzhenitsyn."
 ---
 
 # Totalitarianism
@@ -35,6 +35,18 @@ Totalitarianism requires more than a coercive state apparatus. Chapter 10 argues
 
 Chapter 13 adds the deeper condition: loneliness. Isolation destroys political action because people cannot act in concert. Loneliness goes further by cutting the person off from a shared world of experience and trust. [[mass-society-and-atomization|Mass Society and Atomization]] is therefore not just a sociological preface. It is part of the mechanism by which ideological logic can replace common sense.
 
+## Total Domination and Camps
+
+Arendt's strongest term for the endpoint is [[total-domination|Total Domination]]. Totalitarian rule does not merely want obedience, tax revenue, or silence. It tries to destroy spontaneity, legal personality, reliable fact, and the independent moral agency that lets people act as persons rather than material for a movement.
+
+That is why the camp system is central rather than incidental. [[the-gulag-archipelago|Solzhenitsyn's Gulag Archipelago]] supplies the Soviet documentation missing from the earlier article state: arrests, interrogations, transport, forced labor, camp hierarchies, exile, informers, and the extension of fear into ordinary life. It supports Arendt's distinction between ordinary predation and total domination. A parasite extracts from a host it needs to keep alive; a totalitarian system can destroy the host while pursuing ideological and administrative control.
+
+## Ordinary Participants
+
+[[eichmann-in-jerusalem|Eichmann in Jerusalem]] adds the participant-level complement. The regime-level account explains ideology and terror. [[banality-of-evil|Banality of Evil]] explains one kind of functionary: not a demonic mastermind, but a bureaucratic organizer who identifies law with regime command, speaks in cliches, and fails to think morally from another person's standpoint.
+
+This does not lessen guilt. Eichmann was judged for what he did. The point is analytical: totalitarian systems can rely on ordinary people whose moral imagination has been narrowed by office, obedience, career, ideology, and administrative normality.
+
 ## Ideology and Planning
 
 Arendt's ideology analysis has a non-trivial connection to the Austrian and classical-liberal critique of planning, especially [[road-to-serfdom|The Road to Serfdom]] and [[knowledge-problem|Knowledge Problem]]. Hayek and Arendt were diagnosing overlapping mid-century dangers from different angles.
@@ -54,6 +66,11 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 ## See Also
 
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - primary Arendt source for this concept
+- [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt's ordinary-participant companion volume
+- [[banality-of-evil|Banality of Evil]] - participant-level concept from Eichmann
+- [[total-domination|Total Domination]] - endpoint concept distinguishing totalitarianism from ordinary tyranny and extraction
+- [[the-gulag-archipelago|The Gulag Archipelago]] - Solzhenitsyn's empirical documentation of the Soviet camp system
+- [[aleksandr-solzhenitsyn|Aleksandr Solzhenitsyn]] - author reference for the Gulag source
 - [[hannah-arendt|Hannah Arendt]] - author reference
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social preconditions for totalitarian mobilization
 - [[state-power-and-intervention|State Power and Intervention]] - broader libertarian state-power concept sharpened by Arendt's distinction
@@ -67,6 +84,8 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 ## Sources
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Parts Two and Three, especially chapters 10-13, for mass society, ideology, terror, total domination, and the novelty thesis
+- [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - ordinary-participant layer, bureaucratic legality, thoughtlessness, and banality of evil
+- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - abridged Soviet camp-system documentation supporting the total-domination distinction
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek comparison point for central planning, rule of law, and arbitrary power
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbardian state-power comparator
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly comparison point for coercion-intensive state formation that should not be collapsed into totalitarianism

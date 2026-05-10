@@ -51,6 +51,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 - [[evolution-of-the-state|Evolution of the State]] - historical narrative built around the distinction
 - [[war-and-state-formation|War and State Formation]] - Tilly's empirical capital/coercion complement to the Oppenheimer distinction
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - Tilly's explicit organized-crime formulation as a descriptive comparator
 - [[state-power-and-intervention|State Power and Intervention]] - intervention as the practical use of political means
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative version of the same boundary
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - later abstract-authority parallel
