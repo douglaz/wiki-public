@@ -2,8 +2,8 @@
 title: "Anatomy of the State"
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
-tags: [rothbard, state, anti-statism, political-theory]
+updated: 2026-05-10
+tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
 confidence: medium
 summary: "Reference guide to Rothbard's concise anti-state essay on political monopoly, ideological camouflage, and the conflict between state power and social power."
@@ -16,6 +16,10 @@ summary: "Reference guide to Rothbard's concise anti-state essay on political mo
 ## What the Book Argues
 
 The essay distinguishes society from the state, argues that government is not a voluntary social organ, and treats taxation, monopoly law, and ideological legitimation as normal features of political rule rather than accidental abuses. It is therefore less a policy tract than a conceptual dissection of the state form itself.
+
+## Historical Source Layer
+
+Rothbard's analytic dissection presupposes a historical narrative supplied by [[oppenheimer-the-state|The State]] and [[our-enemy-the-state|Our Enemy, the State]]. The essay explicitly uses Oppenheimer's [[political-means-and-economic-means|Political Means and Economic Means]] distinction and later invokes Nock's social-power/state-power vocabulary. That makes [[evolution-of-the-state|Evolution of the State]] the historical companion to Rothbard's shorter conceptual anatomy.
 
 ## Why It Matters in This Wiki
 
@@ -36,8 +40,16 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[libertarianism|Libertarianism]] - broader doctrine in which this critique operates
 - [[for-a-new-liberty|For a New Liberty]] - broader Rothbardian political synthesis
 - [[the-politics-of-obedience|The Politics of Obedience]] - neighboring anti-state classic centered on voluntary servitude and consent
+- [[evolution-of-the-state|Evolution of the State]] - historical narrative Oppenheimer and Nock supply behind Rothbard's state definition
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction Rothbard adopts
+- [[oppenheimer-the-state|The State]] - upstream conquest-origin source
+- [[our-enemy-the-state|Our Enemy, the State]] - source for social power versus state power
+- [[franz-oppenheimer|Franz Oppenheimer]] - author of the state definition Rothbard adopts
+- [[albert-jay-nock|Albert Jay Nock]] - author of the social-power/state-power vocabulary Rothbard invokes
 
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - full aggregated source from the Mises online-book edition
 - [Anatomy of the State](https://mises.org/library/book/anatomy-state) - Mises page metadata and concise descriptive framing
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - source behind the political/economic means distinction Rothbard cites
+- [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - source behind the social-power/state-power vocabulary Rothbard invokes

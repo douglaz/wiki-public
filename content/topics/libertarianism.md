@@ -2,8 +2,8 @@
 title: "Libertarianism"
 category: topic
 created: 2026-04-21
-updated: 2026-05-05
-tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism]
+updated: 2026-05-10
+tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
 summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, and strong interest in non-state legal order."
@@ -21,6 +21,10 @@ Rothbard's full-text *For a New Liberty* makes the anti-aggression axiom the doc
 
 The current corpus is unusually hostile to the state as such. *Anatomy of the State* distinguishes society from the political apparatus that rules it. *The Politics of Obedience* explains how domination persists through habit, ideology, and consent. Spooner's *Let's Abolish Government* attacks the claim that constitutional forms manufacture legitimate authority. These sources converge in [[state-power-and-intervention|State Power and Intervention]]: the state is criticized not simply for bad policy choices but for claiming rights that ordinary persons do not have.
 
+## Historical State Formation
+
+The Oppenheimer/Nock/Hoppe ingest adds a dedicated historical thread. [[evolution-of-the-state|Evolution of the State]] now separates three claims that the older corpus tended to blend: conquest origin, consent-via-habit persistence, and regime-comparison after the state already exists. This helps the topic map distinguish the libertarian normative case from the historical explanation of how state power arose and grew.
+
 ## Economics and Institutional Order
 
 This source set also treats libertarianism as an account of social order, not only a moral protest. [[austrian-economics|Austrian Economics]] supplies the analysis of action, exchange, money, calculation, and intervention. The Tannehills, [[hans-hermann-hoppe|Hoppe]], and Rothbard then push from economics into institutions, arguing that law, adjudication, and protection need not be monopolized by government. That strand is summarized in [[market-anarchism-and-private-law|Market Anarchism and Private Law]] and, more specifically on the policing side, in [[private-security-and-insurance|Private Security and Insurance]].
@@ -37,6 +41,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus
 - [[state-power-and-intervention|State Power and Intervention]] - critique of political monopoly and intervention
+- [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[austrian-economics|Austrian Economics]] - economic framework attached to the political philosophy here
@@ -56,6 +61,9 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-politics-of-obedience|The Politics of Obedience]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
+- [[oppenheimer-the-state|The State]] - Oppenheimer's conquest-origin and political/economic means source
+- [[our-enemy-the-state|Our Enemy, the State]] - Nock's American state-evolution source
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
 
 ## Sources
 
@@ -70,3 +78,6 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's classical-liberal manifesto
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's critique of central planning and the rule of law
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatise on the moral foundations of liberty
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - historical origin and political/economic means layer for the state critique
+- [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
+- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata-stub regime-comparison source

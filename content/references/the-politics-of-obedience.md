@@ -2,8 +2,8 @@
 title: "The Politics of Obedience"
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
-tags: [de-la-boetie, consent, state, strategy]
+updated: 2026-05-10
+tags: [de-la-boetie, consent, state, strategy, evolution-of-the-state]
 aliases: [The Discourse of Voluntary Servitude, Politics of Obedience]
 confidence: medium
 summary: "Reference guide to La Boetie's classic essay on consent, habit, and the fragility of political domination, now ingested in full text."
@@ -29,11 +29,14 @@ The current raw source aggregates 3 reading-order pages from the Mises online-bo
 
 This book pairs naturally with [[anatomy-of-the-state|Anatomy of the State]] and [[lets-abolish-government|Let's Abolish Government]]. Rothbard's essay dissects what the state is, Spooner attacks its constitutional pretensions, and La Boetie explains why populations tolerate it in the first place.
 
+It also complements [[evolution-of-the-state|Evolution of the State]]. Oppenheimer and Nock emphasize conquest, exploitation, and political means; La Boetie supplies the persistence mechanism of habit, collaboration, and withdrawn consent.
+
 ## See Also
 
 - [[state-power-and-intervention|State Power and Intervention]] - main concept article on political monopoly and intervention
 - [[libertarianism|Libertarianism]] - broader doctrine that absorbs the essay's anti-tyranny logic
 - [[anatomy-of-the-state|Anatomy of the State]] - concise Rothbardian anatomy of political rule
+- [[evolution-of-the-state|Evolution of the State]] - historical state-formation article that uses La Boetie's consent-via-habit thread
 - [[lets-abolish-government|Let's Abolish Government]] - Spooner collection attacking constitutional legitimacy
 - [[murray-n-rothbard|Murray N. Rothbard]] - modern curator and introducer in the current source set
 

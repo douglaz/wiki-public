@@ -3,7 +3,7 @@ title: "Hans-Hermann Hoppe"
 category: reference
 created: 2026-04-25
 updated: 2026-05-10
-tags: [hoppe, austrian-economics, libertarianism, property-rights]
+tags: [hoppe, austrian-economics, libertarianism, property-rights, democracy, regime-theory]
 aliases: [Hoppe, Hans Hoppe]
 confidence: medium
 summary: "Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism."
@@ -17,6 +17,7 @@ summary: "Reference guide to Hans-Hermann Hoppe's role in this wiki as a propert
 
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] is the clearest statement in the current source set of Hoppe's contrast between capitalism and socialism as rival property regimes.
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadens that framework into taxation, banking, public goods, security, and the ethical implications of ownership.
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] is present only as a metadata stub. It adds Hoppe's monarchy-to-democracy regime-comparison thesis without ingesting the copyrighted full text.
 
 ## Why Hoppe Matters in This Wiki
 
@@ -39,6 +40,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[austrian-economics|Austrian Economics]] - main topic page tying Hoppe into the Austrian framework
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - main comparative-systems book in the current Hoppe corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - broader collected-essays volume on property, taxation, and security
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - metadata-stub reference for Hoppe's regime-comparison book
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property-centered moral baseline Hoppe reinforces
 - [[state-power-and-intervention|State Power and Intervention]] - Hoppe's anti-state analysis in the current corpus
 - [[private-security-and-insurance|Private Security and Insurance]] - security production and insurance in Hoppe's framework
@@ -60,3 +62,4 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [A Theory of Socialism and Capitalism](https://mises.org/library/book/theory-socialism-and-capitalism) - metadata and Mises description for the book's role in Hoppe's corpus
 - [The Economics and Ethics of Private Property](https://mises.org/library/book/economics-and-ethics-private-property) - metadata and Mises description for Hoppe's collected essays on property
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - downstream use of Hoppe's argumentation ethics in privacy theory
+- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata stub for Hoppe's 2001 monarchy, democracy, and natural-order book

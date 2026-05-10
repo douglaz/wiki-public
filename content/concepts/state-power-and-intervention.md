@@ -3,10 +3,10 @@ title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
-tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power]
+tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means]
 aliases: [state intervention, interventionism]
 confidence: medium
-summary: "Libertarian account of the state as legalized privilege: taxation, monopoly law, intervention, abstract authority, and dependence on habit or consent."
+summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, abstract authority, regime incentives, and dependence on habit or consent."
 ---
 
 # State Power and Intervention
@@ -16,6 +16,12 @@ summary: "Libertarian account of the state as legalized privilege: taxation, mon
 ## What Makes the State Distinctive
 
 *Anatomy of the State* and *For a New Liberty* both insist that society and state are not the same thing. Bastiat's *The Law* sharpens the point by arguing that once law is used to transfer wealth or status, it becomes an instrument of plunder rather than justice. [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] frames the state as institutionalized interference with property rights and forced membership. In this wiki, then, the state is not just a big organization. It is a rule-breaking organization that claims a legal exemption from the norms summarized in [[nonaggression-and-property-rights|Nonaggression and Property Rights]].
+
+## Historical Evolution Layer
+
+The state-evolution sources add a historical layer to that analytic definition. [[oppenheimer-the-state|The State]] argues that class states arise through conquest and organized exploitation rather than social contract. Its key distinction, [[political-means-and-economic-means|Political Means and Economic Means]], separates production-and-exchange from forcible appropriation. [[our-enemy-the-state|Our Enemy, the State]] applies that distinction to American history, arguing that political institutions repeatedly convert social power into state power.
+
+[[democracy-the-god-that-failed|Democracy: The God That Failed]] adds a regime-comparison layer. Hoppe treats monarchy and democracy as different incentive structures inside the same broader problem of monopoly government. Because the wiki holds only a metadata stub for this book, specific claims from it should remain lower-confidence, but the high-level monarchy-to-democracy state-growth thesis belongs in [[evolution-of-the-state|Evolution of the State]].
 
 ## The State-as-Monster Trope
 
@@ -59,6 +65,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[knowledge-problem|Knowledge Problem]] - the dispersed-knowledge leg of the same case
 - [[power-projection|Power Projection]] - Lowery's physical-cost and abstract-power frame
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - non-libertarian security critique of concentrated abstract authority
+- [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's production-versus-predation distinction
 - [[for-a-new-liberty|For a New Liberty]] - full-text entry point for the broad anti-state argument
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's political application of the case against central planning
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - related work in this corpus
@@ -76,6 +84,9 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[thus-spake-zarathustra-the-new-idol|The New Idol]] - non-libertarian state-as-monster source used for intellectual-history context
 - [[privacy-and-cryptography|Privacy and Cryptography]] - surveillance and cryptographic-resistance topic that extends the intervention frame into financial observation and control
 - [[softwar|Softwar]] - non-libertarian national-security source on abstract authority and proof-of-work
+- [[oppenheimer-the-state|The State]] - conquest-origin source behind the historical state critique
+- [[our-enemy-the-state|Our Enemy, the State]] - Nock's American application of Oppenheimer
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
 
 ## Sources
 
@@ -94,3 +105,6 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem critique of central economic planning
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - early non-libertarian articulation of the state-as-monster framing
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - non-libertarian national-security account of abstract power hierarchies and physical-cost checks
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
+- [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
+- [Democracy: The God That Failed](https://hanshoppe.com/democracy/) - metadata-stub source for Hoppe's monarchy-to-democracy regime comparison

@@ -2,8 +2,8 @@
 title: "The Production of Security"
 category: reference
 created: 2026-05-06
-updated: 2026-05-06
-tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law]
+updated: 2026-05-10
+tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
 confidence: medium
 summary: "Reference guide to Molinari's 1849 essay — the founding text of the classical-liberal case for private, competitive production of security, and the principal nineteenth-century predecessor to modern market-anarchist thought."
@@ -29,6 +29,8 @@ The current raw source is the Mises Institute's 2009 PDF reissue (66 pages, CC-B
 
 Three texts in this wiki argue for private/competitive security: Molinari (1849), the Tannehills' [[the-market-for-liberty|The Market for Liberty]] (1970), and Rothbard's chapter 12 in [[for-a-new-liberty|For a New Liberty]] (1973). Molinari is the source the other two acknowledge. Hoppe's [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] develop the same case in property-rights and public-goods-theory terms. Among the wiki's classical-liberal authors, [[ludwig-von-mises|Mises]] — though sympathetic to Molinari's economics — stops at minarchism, and Rothbard's footnote in chapter 12 of *For a New Liberty* explicitly notes that he goes further than Mises in following Molinari's logic to its conclusion.
 
+For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the counterfactual. If security can be produced by contract and competition, then historical state formation does not prove monopoly protection necessary. [[democracy-the-god-that-failed|Democracy: The God That Failed]] later points toward a similar private-law alternative from Hoppe's regime-comparison direction.
+
 ## See Also
 
 - [[private-security-and-insurance|Private Security and Insurance]] - concept article whose 19th-century origin is in this essay
@@ -36,6 +38,8 @@ Three texts in this wiki argue for private/competitive security: Molinari (1849)
 - [[the-market-for-liberty|The Market for Liberty]] - 20th-century elaboration of Molinari's argument
 - [[for-a-new-liberty|For a New Liberty]] - Rothbard's chapter 12 explicitly extends Molinari's framework
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - Hoppe quotes Molinari at length and reframes the argument in property-rights terms
+- [[evolution-of-the-state|Evolution of the State]] - historical state-formation article that uses Molinari as the private-security counterfactual
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's regime-comparison book points toward a private-law alternative
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the 1977 preface; principal modern heir to Molinari's argument
 - [[libertarianism|Libertarianism]] - broader doctrinal context
 

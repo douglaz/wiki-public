@@ -3,7 +3,7 @@ title: "Abstract Power Hierarchies"
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
-tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security]
+tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low
 summary: "Lowery's term for belief-based, rule-based, or software-defined control systems that allocate authority through abstract power rather than directly through physical-cost competition."
@@ -25,6 +25,12 @@ Lowery's security criticism is that abstract power hierarchies centralize contro
 
 This framing overlaps with [[state-power-and-intervention|State Power and Intervention]], but it is not the same argument. The libertarian article judges state monopoly against property, consent, and nonaggression. Lowery's thesis asks a systems-security question: what happens when control over valuable resources depends on a trust-based abstraction whose administrators cannot be physically checked by users?
 
+## Convergence with Oppenheimer
+
+The closest older parallel is Oppenheimer's [[political-means-and-economic-means|Political Means and Economic Means]] distinction. Oppenheimer calls the political means the forcible appropriation of others' labor; Lowery calls abstract authority a rule-based hierarchy that can allocate control without physical-cost competition. These are not the same theory, but both name a mechanism by which institutional authority can extract value without producing it through voluntary exchange.
+
+The convergence is striking because the traditions are so different. Lowery writes as a Department of Defense/MIT systems-engineering author. Oppenheimer writes as a German social-democratic sociologist of the state. The overlap belongs in [[evolution-of-the-state|Evolution of the State]] as a cross-tradition resonance, not as evidence that Lowery is making Oppenheimer's political argument.
+
 ## Software as Abstract Authority
 
 The cyberspace part of the thesis extends the same claim from law to software. Software permissions, administrator roles, platform rules, payment rails, and protocol governance can create abstract control over digital resources. Lowery argues that this becomes strategically important because modern society increasingly stores, transfers, and validates valuable information through computer networks.
@@ -44,6 +50,8 @@ The confidence level is low because this is a single-source, contested framework
 - [[softwar|Softwar]] - source thesis for this concept
 - [[jason-lowery|Jason Lowery]] - author reference for the thesis
 - [[power-projection|Power Projection]] - broader physical/abstract distinction behind the concept
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's older production-versus-appropriation distinction
+- [[evolution-of-the-state|Evolution of the State]] - historical state-formation article using the Lowery/Oppenheimer resonance
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian critique of state monopoly adjacent to Lowery's security critique
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - non-state-law alternative to centralized political authority
 - [[resistance-axiom|Resistance Axiom]] - technical-resistance frame adjacent to Lowery's physical-cost check on software authority
@@ -52,3 +60,4 @@ The confidence level is low because this is a single-source, contested framework
 ## Sources
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - chapters 4-6 for abstract power, software-defined authority, proof-of-work, and strategic-security claims
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - political/economic means distinction used for cross-tradition comparison

@@ -3,7 +3,7 @@ title: "Nonaggression and Property Rights"
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
-tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism]
+tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means]
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
 summary: "Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard and Hoppe and on consequentialist grounds by Mises."
@@ -20,6 +20,10 @@ summary: "Normative core of the current corpus: self-ownership, property, contra
 ## Why Property Is Part of the Rule
 
 [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] make the property side explicit. Bodies, goods, land, and contracts are scarce means, so peaceful coexistence requires rules identifying who may control what. Aggression is then defined as invasion of those rightful control boundaries. In that framework, property is not an optional add-on to liberty. It is the way liberty becomes administrable in a world of scarcity.
+
+## Historical Grounding
+
+Oppenheimer's [[political-means-and-economic-means|Political Means and Economic Means]] distinction gives this normative line a historical-sociological counterpart. Rothbard calls the boundary violation "aggression"; Oppenheimer calls the same basic social relation the political means when it becomes a method of acquiring wealth. The levels differ, but the line is the same: production and voluntary exchange on one side, coercive appropriation on the other.
 
 ## Privacy, Information, and Scarce Media
 
@@ -51,6 +55,7 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[the-law|The Law]] - related work in this corpus
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy application of self-ownership, physical property, and contract
+- [[political-means-and-economic-means|Political Means and Economic Means]] - historical-sociological version of the aggression/production boundary
 - [[power-projection|Power Projection]] - Lowery's physical-cost frame for control over scarce or strategically valuable resources
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for privacy, surveillance, and cryptographic resistance
 
@@ -64,3 +69,4 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatment of self-ownership, property, contract, and aggression
 - [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's consequentialist case for property, exchange, and a free society
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - application of self-ownership, scarce media, and contract to privacy and surveillance
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - political/economic means distinction as historical-sociological counterpart to aggression versus production

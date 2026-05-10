@@ -6,8 +6,8 @@ Last updated: 2026-05-10
 
 ## Statistics
 
-- Sources: 44 raw documents
-- Articles: 47 compiled wiki articles
+- Sources: 47 raw documents
+- Articles: 54 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-10
 - Last lint: 2026-05-10
@@ -24,6 +24,7 @@ Last updated: 2026-05-10
 
 ## Recent Changes
 
+- 2026-05-10: Ingested and compiled Oppenheimer, Nock, and Hoppe state-evolution sources: 3 new raw sources, 7 new articles, and 8 updated articles for historical state formation, political/economic means, consent, regime comparison, and backlinks.
 - 2026-05-10: Compiled Lowery's *Softwar* into 4 new articles: `softwar`, `jason-lowery`, `power-projection`, and `abstract-power-hierarchies`. Updated `praxeology-of-privacy`, `state-power-and-intervention`, `privacy-and-cryptography`, `the-praxeology-of-privacy`, `nonaggression-and-property-rights`, `market-anarchism-and-private-law`, and `resistance-axiom` for source integration and reciprocal links.
 - 2026-05-10: Ingested Major Jason Lowery, *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* (MIT SDM thesis, CC BY 4.0), adding the national-security/proof-of-work power-projection lens to the Bitcoin and abstract-authority thread.
 - 2026-05-10: Compiled Nietzsche and Hillebrand ingests into 6 new articles: `thus-spake-zarathustra-the-new-idol`, `the-praxeology-of-privacy`, `max-hillebrand`, `praxeology-of-privacy`, `resistance-axiom`, and `privacy-and-cryptography`. Updated `state-power-and-intervention`, `praxeology`, `nonaggression-and-property-rights`, `austrian-economics`, `hans-hermann-hoppe`, and `ludwig-von-mises` for cross-references and source integration.
