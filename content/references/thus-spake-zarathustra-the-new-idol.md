@@ -2,7 +2,7 @@
 title: "Thus Spake Zarathustra: The New Idol"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [nietzsche, state, critique-of-the-state, anti-statism, primary-source]
 aliases: [The New Idol, Thus Spake Zarathustra The New Idol, state as cold monster]
 confidence: medium
@@ -34,6 +34,7 @@ The convergence is narrower: Nietzsche's chapter attacks the state's self-identi
 ## See Also
 
 - [[state-power-and-intervention|State Power and Intervention]] - concept article that now notes Nietzsche's non-libertarian state-as-monster framing
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

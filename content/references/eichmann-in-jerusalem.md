@@ -2,7 +2,7 @@
 title: "Eichmann in Jerusalem"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [hannah-arendt, eichmann, banality-of-evil, holocaust, totalitarianism, bureaucracy, moral-judgment, thoughtlessness]
 aliases: [Eichmann in Jerusalem, A Report on the Banality of Evil, Banality of Evil]
 confidence: medium
@@ -52,6 +52,9 @@ That makes [[banality-of-evil|Banality of Evil]] a bridge concept between [[tota
 - [[mass-society-and-atomization|Mass Society and Atomization]] - article that uses Eichmann for the thoughtlessness layer
 - [[the-gulag-archipelago|The Gulag Archipelago]] - Solzhenitsyn source for the Soviet camp system
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article sharpened by the bureaucracy and compliance layer
+
+- [[on-violence|On Violence]] - later Arendt source on power and violence
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

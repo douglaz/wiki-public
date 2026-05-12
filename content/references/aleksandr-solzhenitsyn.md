@@ -2,7 +2,7 @@
 title: "Aleksandr Solzhenitsyn"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, dissident-literature, totalitarianism]
 aliases: [Solzhenitsyn, Aleksandr I. Solzhenitsyn, Alexander Solzhenitsyn]
 confidence: medium
@@ -21,7 +21,7 @@ Major works include *One Day in the Life of Ivan Denisovich* (1962), *Cancer War
 
 ## Work Present Here
 
-The work currently present in this wiki is [[the-gulag-archipelago|The Gulag Archipelago]], in the abridged one-volume English edition. The unabridged three-volume work is not yet present.
+The work currently present in this wiki is [[the-gulag-archipelago|The Gulag Archipelago]]. The wiki now holds the earlier abridged one-volume OCR plus the unabridged three-volume OCR sequence ingested on 2026-05-12.
 
 The source is valuable for [[totalitarianism|Totalitarianism]] because it documents the Soviet camp system as a lived reality: arrest, interrogation, denunciation, transport, forced labor, camp hierarchy, exile, and the moral pressure of survival.
 
@@ -42,4 +42,7 @@ That diagnostic overlap is still important. Where [[hannah-arendt|Arendt]] gives
 
 ## Sources
 
-- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - source text anchoring Solzhenitsyn's role in this wiki; biographical details kept to the brief orientation facts
+- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - earlier abridged source text
+- [The Gulag Archipelago, Volume I](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - unabridged Parts I-II OCR ingest
+- [The Gulag Archipelago, Volume II](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - unabridged Parts III-IV OCR ingest
+- [The Gulag Archipelago, Volume III](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - unabridged Parts V-VII OCR ingest

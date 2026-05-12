@@ -2,7 +2,7 @@
 title: "The State"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-means, sociology]
 aliases: [Der Staat, The State by Franz Oppenheimer, The State: Its History and Development Viewed Sociologically]
 confidence: medium
@@ -43,6 +43,7 @@ The book should therefore be used as an upstream sociological source. It should 
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's explicit adoption of Oppenheimer's definition
 - [[state-power-and-intervention|State Power and Intervention]] - anti-state concept article extended by this source
 - [[libertarianism|Libertarianism]] - broader topic that appropriates Oppenheimer's state theory without adopting his whole politics
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

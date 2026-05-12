@@ -2,7 +2,7 @@
 title: "Totalitarianism"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state]
 aliases: [totalitarian rule, totalitarian domination, total domination, ideology and terror]
 confidence: medium
@@ -81,6 +81,14 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's nearby classical-liberal warning against planning and arbitrary power
 - [[knowledge-problem|Knowledge Problem]] - Hayekian planning critique contrasted with Arendt's ideology analysis
 - [[libertarianism|Libertarianism]] - topic map now using Arendt to close the dictatorship/totalitarianism gap
+
+- [[on-violence|On Violence]] - Arendt source distinguishing power from violence
+
+- [[violence-vs-power|Violence vs Power]] - distinction sharpening the totalitarianism boundary
+
+- [[biopower|Biopower]] - Foucault concept that should be distinguished from Arendtian totalitarianism
+- [[state-of-exception|State of Exception]] - reciprocal link.
+- [[the-human-condition|The Human Condition]] - reciprocal link.
 
 ## Sources
 

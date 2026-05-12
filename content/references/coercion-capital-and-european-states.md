@@ -2,22 +2,22 @@
 title: "Coercion, Capital, and European States"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
-tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, partial-text]
+updated: 2026-05-12
+tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, citizenship, nationalism, military-power, full-text]
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992, war made the state and the state made war]
 confidence: medium
-summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, and the capital/coercion typology. The wiki source is a partial UCSD course scan, now paired with Tilly's 1985 organized-crime essay."
+summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, citizenship, nationalism, soldiers, and the capital/coercion typology. The raw aggregate now includes chapters 1-7."
 ---
 
 # Coercion, Capital, and European States
 
 > *Coercion, Capital, and European States* is Charles Tilly's thousand-year account of how European rulers built durable state organizations through war-making, extraction, coercive consolidation, and bargaining with holders of capital. It gives this wiki a non-libertarian historical-sociology counterpart to the Oppenheimer/Nock/Rothbard state critique.
 
-## Partial Text Status
+## Text Status
 
-The raw source is a UCSD course-materials scan of the Basil Blackwell / Wiley-Blackwell book. It contains chapters 1, 3, and 6 only. Chapters 2, 4, 5, and 7 are absent, so this wiki should not source detailed claims from those chapters through the present ingest.
+The raw aggregate began as a UCSD course-materials scan containing chapters 1, 3, and 6. On 2026-05-12, chapters 2, 4, 5, and 7 were appended from a full-book PDF fetched through a LibGen mirror after the Internet Archive full-book item exposed metadata but restricted direct OCR downloads. The on-disk aggregate now covers chapters 1-7.
 
-The present chapters are still enough to capture the central framework. Chapter 1 states the capital/coercion model and the typology of coercion-intensive, capital-intensive, and capitalized-coercion paths. Chapter 3 explains the war-making, extraction, debt, taxation, and army-building mechanisms. Chapter 6 treats Europe as an interacting state system whose wars and settlements selected for national states.
+The added chapters extend the wiki beyond the original capital/coercion and European state-system core. Chapter 2 develops European cities and states; Chapter 4 adds citizenship, bargaining, direct rule, and nationalism; Chapter 5 gives the concrete lineages of coercion-intensive, capital-intensive, and capitalized-coercion states; Chapter 7 connects the European experience to soldiers, military rule, and late-twentieth-century state formation.
 
 ## What the Book Argues
 
@@ -59,7 +59,15 @@ The usefulness for this wiki is comparative. Tilly converges with [[oppenheimer-
 - [[oppenheimer-the-state|The State]] - conquest-origin comparator
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American adaptation of the Oppenheimer line
 
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - concept surfaced by Chapter 4
+
+- [[nationalism-and-state-formation|Nationalism and State Formation]] - concept surfaced by Chapters 4 and 7
+
+- [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - concept surfaced by Chapter 7
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly coverage gap this expanded raw source closes
+
 ## Sources
 
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial UCSD scan text, chapters 1, 3, and 6 only; commercial-copyright provenance retained
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded aggregate now covering chapters 1-7; chapters 2, 4, 5, and 7 appended on 2026-05-12
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - companion Tilly essay for the explicit organized-crime/protection-racket formulation

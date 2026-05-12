@@ -2,24 +2,22 @@
 title: "The Gulag Archipelago"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
-tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, totalitarianism, mass-terror, labor-camps, ideology, dissident-literature, abridged]
+updated: 2026-05-12
+tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, totalitarianism, mass-terror, labor-camps, ideology, dissident-literature, abridged, unabridged]
 aliases: [Gulag Archipelago, The Gulag Archipelago 1918-1956, Gulag]
 confidence: medium
-summary: "Reference guide to the abridged one-volume English edition of Solzhenitsyn's documentary-literary investigation of the Soviet camp system. The wiki source is the abridged Whitney/Willetts translation, not the unabridged three-volume work."
+summary: "Reference guide to Solzhenitsyn's documentary-literary investigation of the Soviet camp system. The wiki now holds both the earlier abridged one-volume OCR and the unabridged three-volume OCR ingested on 2026-05-12."
 ---
 
 # The Gulag Archipelago
 
 > *The Gulag Archipelago* is Aleksandr Solzhenitsyn's documentary-literary investigation of arrests, interrogations, transit, labor camps, exile, and Soviet mass terror. In this wiki it supplies empirical and testimonial material for the totalitarianism thread, especially Arendt's distinction between ordinary extraction and total domination.
 
-## Abridged Text Status
+## Text Status
 
-The raw source is the abridged one-volume English edition, based on the Whitney/Willetts translation and Edward E. Ericson Jr.'s 1985 abridgment prepared with Solzhenitsyn's cooperation. The original Russian work appeared in 1973-1975; the English three-volume publication appeared from 1974 to 1978.
+The wiki now holds two layers of English OCR: the earlier abridged one-volume edition and the unabridged three-volume sequence ingested on 2026-05-12. Volume I covers Parts I-II in the Whitney translation, Volume II covers Parts III-IV in the Whitney translation, and Volume III covers Parts V-VII in the Willetts translation.
 
-This wiki does not yet hold the unabridged three-volume work. Claims should therefore be sourced only to what appears in the abridged raw file unless another source is later ingested.
-
-The supplied OCR includes modern Vintage front matter and publisher back matter. The raw ingest preserves that provenance context and marks the uneven OCR quality.
+The original Russian work appeared in 1973-1975; the English three-volume publication appeared from 1974 to 1978. The supplied OCRs include uneven scan artifacts and should be checked against authorized copies for quotation.
 
 ## Provenance and Rights
 
@@ -47,7 +45,11 @@ This does not make Solzhenitsyn a libertarian. His later political and religious
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt source on bureaucratic participation and judgment
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article now including the totalitarian pole
 - [[libertarianism|Libertarianism]] - topic map that uses this source only as non-libertarian testimony on totalitarian rule
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 
-- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - full-text Internet Archive OCR ingest of the abridged one-volume English edition, with commercial-copyright provenance retained
+- [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - earlier abridged one-volume OCR ingest
+- [The Gulag Archipelago, Volume I](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - unabridged Parts I-II OCR ingest
+- [The Gulag Archipelago, Volume II](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - unabridged Parts III-IV OCR ingest
+- [The Gulag Archipelago, Volume III](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - unabridged Parts V-VII OCR ingest

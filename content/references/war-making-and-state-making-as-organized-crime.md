@@ -2,7 +2,7 @@
 title: "War Making and State Making as Organized Crime"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction]
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
 confidence: medium
@@ -54,6 +54,7 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article sharpened by the protection-racket formulation
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that overlaps descriptively with Tilly's extraction account
 - [[libertarianism|Libertarianism]] - topic map that situates Tilly outside the libertarian program
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

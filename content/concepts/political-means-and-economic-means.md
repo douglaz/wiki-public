@@ -2,7 +2,7 @@
 title: "Political Means and Economic Means"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
 confidence: medium
@@ -62,6 +62,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[franz-oppenheimer|Franz Oppenheimer]] - author reference for the concept's source
 - [[albert-jay-nock|Albert Jay Nock]] - author reference for the American transmission
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

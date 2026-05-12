@@ -2,11 +2,11 @@
 title: "War and State Formation"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
 confidence: medium
-summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state. The article now directly cites Tilly's 1985 organized-crime essay for the protection-racket formulation."
+summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state. The article now rests on the expanded 1990/1992 book ingest plus Tilly's 1985 organized-crime essay for the protection-racket formulation."
 ---
 
 # War and State Formation
@@ -55,9 +55,9 @@ The divergence is especially sharp against anarcho-capitalist inference. Tilly's
 
 Arendt's imperialism chapters overlap with Tilly-adjacent material: race-thinking, bureaucracy, continental expansion, statelessness, and the decline of the nation-state. But her totalitarianism thesis proper depends on a further combination of mass society, total ideology, terror, secret-police rule, and total domination. The shared terrain is coercion and state capacity; the distinctive Arendtian claim is the novel form of government created when ideology and terror become the regime's essence.
 
-## Partial-Text Caveat
+## Coverage Upgrade
 
-This article uses only chapters 1, 3, and 6 of Tilly's book. Chapter 5, which would likely contain the fullest treatment of the lineages and trajectories, is absent from the raw source. The typology is therefore sourced from the summary and recap material in chapters 1 and 6, plus chapter 3's mechanism discussion. Claims requiring the absent chapters should be marked partial-text or left for a future ingest.
+The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier raw aggregate, so this article no longer depends only on chapters 1, 3, and 6. The added chapters supply the city/state comparison, citizenship bargaining, national-state lineages, and late-twentieth-century state-forms material that had been marked as absent in the earlier partial ingest. Quotation should still be checked against an authorized edition because the added chapters come from extracted commercial-book text.
 
 ## See Also
 
@@ -73,10 +73,20 @@ This article uses only chapters 1, 3, and 6 of Tilly's book. Chapter 5, which wo
 - [[oppenheimer-the-state|The State]] - conquest-origin comparator
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's social-power/state-power comparator
 
+- [[friend-enemy-distinction|Friend/Enemy Distinction]] - Schmittian comparison point for political conflict and enemy-making
+
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly concept from the expanded book ingest
+
+- [[nationalism-and-state-formation|Nationalism and State Formation]] - Tilly concept connecting war, direct rule, and national claims
+
+- [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly concept limiting the European war-made-state path
+- [[the-concept-of-the-political|The Concept of the Political]] - reciprocal link.
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's 1985 essay for the explicit organized-crime/protection-racket formulation and the war-making/state-making/protection/extraction model
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - chapters 1, 3, and 6 for the capital/coercion typology, war-making/extraction mechanism, protection-racket passages, and European state-system argument
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded aggregate now covering chapters 1-7: capital/coercion typology, war-making/extraction mechanism, protection-racket passages, citizenship bargaining, national-state lineages, and European state-system argument
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin and political/economic means comparator
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social-power/state-power comparator
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - imperialism and totalitarianism comparator, used to distinguish coercion-intensive state formation from totalitarian rule

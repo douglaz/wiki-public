@@ -2,7 +2,7 @@
 title: "State Power and Intervention"
 category: concept
 created: 2026-04-21
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
 confidence: medium
@@ -117,6 +117,22 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[oppenheimer-the-state|The State]] - conquest-origin source behind the historical state critique
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American application of Oppenheimer
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
+
+- [[state-of-exception|State of Exception]] - Schmittian emergency-power concept
+
+- [[disciplinary-power|Disciplinary Power]] - Foucauldian institutional-power concept
+
+- [[biopower|Biopower]] - Foucauldian population-power concept
+
+- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic for non-libertarian power critiques
+
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly concept complicating extraction with bargaining
+- [[discipline-and-punish|Discipline and Punish]] - reciprocal link.
+- [[friend-enemy-distinction|Friend/Enemy Distinction]] - reciprocal link.
+- [[political-theology|Political Theology]] - reciprocal link.
+- [[society-must-be-defended|Society Must Be Defended]] - reciprocal link.
+- [[the-rise-of-the-social|The Rise of the Social]] - reciprocal link.
+- [[violence-vs-power|Violence vs Power]] - reciprocal link.
 
 ## Sources
 

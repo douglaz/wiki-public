@@ -2,7 +2,7 @@
 title: "The Law"
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-12
 tags: [bastiat, law, property-rights, legal-plunder]
 aliases: [La Loi]
 confidence: medium
@@ -35,6 +35,7 @@ Because the essay is short, it does not cover as much terrain as Rothbard or the
 - [[state-power-and-intervention|State Power and Intervention]] - article using Bastiat's legal-plunder test
 - [[libertarianism|Libertarianism]] - broader doctrine for which this essay is an accessible legal statement
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional article contrasting genuine law with political monopoly
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

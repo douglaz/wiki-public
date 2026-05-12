@@ -2,7 +2,7 @@
 title: "Democracy: The God That Failed"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-order, regime-theory, praxeology]
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
 confidence: medium
@@ -46,6 +46,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[state-power-and-intervention|State Power and Intervention]] - broader anti-state and intervention concept
 - [[the-production-of-security|The Production of Security]] - private-security counterfactual relevant to Hoppe's natural-order alternative
 - [[libertarianism|Libertarianism]] - broader topic context for Hoppe's regime-comparison thesis
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

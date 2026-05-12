@@ -2,15 +2,15 @@
 
 > Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
 
-Last updated: 2026-05-10
+Last updated: 2026-05-12
 
 ## Statistics
 
-- Sources: 52 raw documents
-- Articles: 68 compiled wiki articles
+- Sources: 62 raw documents
+- Articles: 90 compiled wiki articles
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-10
-- Last lint: 2026-05-10
+- Last compiled: 2026-05-12
+- Last lint: 2026-05-12
 
 ## Quick Navigation
 
@@ -24,6 +24,7 @@ Last updated: 2026-05-10
 
 ## Recent Changes
 
+- 2026-05-12: Closed four knowledge gaps with 10 new full-text raw aggregates, one expanded Tilly aggregate, 22 new compiled articles, the updated thesis, regenerated indexes, and a clean bidirectional See Also graph.
 - 2026-05-10: Ingested and compiled Tilly 1985, Arendt *Eichmann in Jerusalem*, and Solzhenitsyn *The Gulag Archipelago*: 3 new raw full-text sources, 6 new articles, and 11 updated articles for protection-racket sociology, banality of evil, total domination, and Gulag documentation.
 - 2026-05-10: Ingested and compiled Hannah Arendt, *The Origins of Totalitarianism*: 1 new raw full-text source, 4 new articles, and 8 updated articles for totalitarianism, mass society, and state-critique links.
 - 2026-05-10: Ingested and compiled Charles Tilly, *Coercion, Capital, and European States* partial UCSD scan: 1 new raw source, 3 new articles, and 6 updated articles for war-and-state-formation, capital/coercion, and state-evolution links.

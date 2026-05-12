@@ -2,7 +2,7 @@
 title: "Abstract Power Hierarchies"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means, totalitarianism]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low
@@ -64,6 +64,7 @@ The confidence level is low because this is a single-source, contested framework
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - non-state-law alternative to centralized political authority
 - [[resistance-axiom|Resistance Axiom]] - technical-resistance frame adjacent to Lowery's physical-cost check on software authority
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for resistant systems, Bitcoin, and cyber control
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

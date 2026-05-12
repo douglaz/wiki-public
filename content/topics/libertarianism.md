@@ -2,7 +2,7 @@
 title: "Libertarianism"
 category: topic
 created: 2026-04-21
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
@@ -80,6 +80,10 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[aleksandr-solzhenitsyn|Aleksandr Solzhenitsyn]] - outside author and Gulag witness
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's American state-evolution source
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy-to-democracy regime comparison
+
+- [[council-system|Council System]] - Arendtian public-freedom concept, not a libertarian institutional program
+
+- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critique topic added for comparison
 
 ## Sources
 

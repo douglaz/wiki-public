@@ -2,7 +2,7 @@
 title: "The Origins of Totalitarianism"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [hannah-arendt, totalitarianism, antisemitism, imperialism, nazism, stalinism, mass-society, ideology, terror, political-philosophy, commercially-published]
 aliases: [Origins of Totalitarianism, Arendt Origins, Ideology and Terror]
 confidence: medium
@@ -51,6 +51,11 @@ That distinction improves [[state-power-and-intervention|State Power and Interve
 - [[war-and-state-formation|War and State Formation]] - Tilly-adjacent comparison point for coercion, war, imperialism, and state capacity
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's nearby classical-liberal diagnosis of planning and arbitrary power
 - [[libertarianism|Libertarianism]] - topic map using this source to close the dictatorship/totalitarianism gap
+
+- [[on-violence|On Violence]] - later Arendt source sharpening power and violence distinctions
+
+- [[violence-vs-power|Violence vs Power]] - concept that refines the totalitarian boundary
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

@@ -2,12 +2,12 @@
 title: "The State as Parasite: A Thesis"
 type: thesis
 created: 2026-05-10
-updated: 2026-05-10
-tags: [thesis, state, parasite-thesis, evolution-of-the-state, totalitarianism, political-means, protection-racket, banality-of-evil, total-domination, libertarianism]
+updated: 2026-05-12
+tags: [thesis, state, parasite-thesis, evolution-of-the-state, totalitarianism, political-means, protection-racket, banality-of-evil, total-domination, violence-vs-power, state-of-exception, biopower, libertarianism]
 aliases: [parasite thesis of the state, state-as-parasite, the state is a parasite]
 confidence: medium
 verdict: partial-support-with-one-major-exception
-summary: "Tests the two-sentence claim that the State is a parasite that disguises itself as symbiosis, and that dictatorships and organized crime are less-skilled versions of the same parasite. Sentence 1 is the wiki's central thesis, supported nearly verbatim across Rothbard, Oppenheimer, Nock, Bastiat, Spooner, La Boetie, Nietzsche, Hoppe, and Tilly. Sentence 2 is strengthened by Tilly's protection-racket essay and partially supported by Hoppe's monarchy/democracy gradient, but breaks at totalitarianism: Arendt and Solzhenitsyn establish that totalitarian regimes are not less-skilled parasites but a qualitatively different relationship (total domination, not extraction)."
+summary: "Tests the two-sentence claim that the State is a parasite that disguises itself as symbiosis, and that dictatorships and organized crime are less-skilled versions of the same parasite. The expanded 2026-05-12 sources close the prior Tilly, Solzhenitsyn, Arendt, Schmitt, and Foucault gaps. Sentence 1 remains strongly supported in the anarcho-libertarian corpus and sharpened by Tilly and Foucault; sentence 2 still breaks at totalitarianism, now with Arendt's power-vs-violence distinction clarifying why terror is not simply weak legitimacy."
 ---
 
 # The State as Parasite: A Thesis
@@ -28,7 +28,7 @@ The parasite framing is figurative but is used technically inside this corpus. T
 
 The symbiosis-disguise layer is what [[state-power-and-intervention|State Power and Intervention]] calls "ideological camouflage." Rothbard puts it directly: *"ideological support being vital to the State, it must unceasingly try to impress the public with its 'legitimacy,' to distinguish its activities from those of mere brigands."* [[the-law|Bastiat]] names the technique: *"the conversion of the law into an instrument of plunder."* [[the-politics-of-obedience|La Boetie]] supplies the persistence mechanism — domination depends on routine cooperation, habit, and withdrawn consent, not just force.
 
-The newest sources tighten the deception layer further. [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]] gives the framing its compactest historical-sociological grounding: *"Someone who produces both the danger and, at a price, the shield against it is a racketeer."* The 1990 book [[coercion-capital-and-european-states|Coercion, Capital, and European States]] supplies the field evidence — *"rulers resembled racketeers: at a price, they offered protection against evils that they themselves would otherwise inflict, or at least allow to be inflicted."* [[thus-spake-zarathustra-the-new-idol|Nietzsche]] compresses the deception in one line: *"'I, the state, am the people' — that is a lie."*
+The newest sources tighten the deception layer further. [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]] gives the framing its compactest historical-sociological grounding: *"Someone who produces both the danger and, at a price, the shield against it is a racketeer."* The expanded 1990 book [[coercion-capital-and-european-states|Coercion, Capital, and European States]] now supports the larger trajectory: cities, citizens, nationalism, national-state lineages, and soldiers all enter the coercion/capital story. [[thus-spake-zarathustra-the-new-idol|Nietzsche]] compresses the deception in one line: *"'I, the state, am the people' — that is a lie."* [[biopower|Foucault's biopower]] adds a different non-libertarian disguise layer: modern power can present itself as care for population, health, welfare, and security while extending administrative control.
 
 ## Sentence 2 — Dictatorship and Organized Crime as Less-Skilled Versions
 
@@ -42,7 +42,11 @@ The bandit-becomes-King passage in [[anatomy-of-the-state|Anatomy of the State]]
 
 [[totalitarianism|Totalitarianism]] in Arendt's technical sense is *not* simply a less-skilled version of the same parasite. Her central claim in [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] (Chapter 13, "Ideology and Terror") is that totalitarianism is a **novel form of government** — that it *"differs essentially from other forms of political oppression known to us such as despotism, tyranny, and dictatorship,"* and that *"the essence of totalitarian government is terror."* The wiki's [[totalitarianism|Totalitarianism]] concept article extracts the working contrast: tyranny is lawless rule, despotism is arbitrary rule, dictatorship is rule by emergency command, authoritarianism is hierarchical rule under an order-ideology — and totalitarianism is rule through ideology and terror aimed at [[total-domination|total domination]]. Total domination, in Arendt's account, is not extraction at higher intensity but the attempted destruction of human spontaneity, plurality, legal personality, and reliable fact.
 
-This is where the parasite frame breaks *if* "parasite" means sustainable extraction from a still-functioning host. A parasite needs the host alive and producing — Rothbard's exact point. Totalitarian rule does not. [[the-gulag-archipelago|Solzhenitsyn's Gulag Archipelago]] supplies the Soviet documentation: arrests by category and denunciation, interrogation that breaks people without regard for what they produce, transports, the use of prisoners against prisoners, and the poisoning of ordinary life with fear and secrecy — a system that wastes the human material it rules even where doing so makes no ordinary economic sense. The camps are not primarily labor-extraction facilities; in Arendt's reading they are *laboratories for testing whether human beings can be made superfluous*. (A critic could counter that totalitarianism is *terminal* or *malignant* parasitism — extraction subordinated to ideology rather than a wholly different genus — and the corpus does not decisively rule that reading out. What it does rule out is the simpler "less-skilled deception" framing the user's second sentence proposes.) Solzhenitsyn himself does not theorize this distinction in Arendtian terms; the synthesis is Arendt's, applied to his documentation by the wiki.
+This is where the parasite frame breaks *if* "parasite" means sustainable extraction from a still-functioning host. A parasite needs the host alive and producing — Rothbard's exact point. Totalitarian rule does not. [[the-gulag-archipelago|Solzhenitsyn's Gulag Archipelago]] now rests on the unabridged three-volume ingest as well as the earlier abridgment: arrests by category and denunciation, interrogation that breaks people without regard for what they produce, transports, the use of prisoners against prisoners, katorga, exile, and the poisoning of ordinary life with fear and secrecy. The camps are not primarily labor-extraction facilities; in Arendt's reading they are *laboratories for testing whether human beings can be made superfluous*. (A critic could counter that totalitarianism is *terminal* or *malignant* parasitism — extraction subordinated to ideology rather than a wholly different genus — and the corpus does not decisively rule that reading out. What it does rule out is the simpler "less-skilled deception" framing the user's second sentence proposes.) Solzhenitsyn himself does not theorize this distinction in Arendtian terms; the synthesis is Arendt's, applied to his documentation by the wiki.
+
+[[on-violence|Arendt's On Violence]] sharpens the same boundary with a more exact vocabulary. [[violence-vs-power|Power and violence]] are not the same: power exists where people act together, while violence is instrumental and can destroy the power it tries to replace. Totalitarian terror is therefore not just a less-skilled attempt to persuade the host that predation is symbiosis. It is a mode of rule that fears and destroys independent power, including power among its own supporters.
+
+[[state-of-exception|Schmitt's state of exception]] adds a nearby but distinct boundary problem. Ordinary legality depends on a decision about when normal rules are suspended. That helps explain how a state can present itself as law-bound while preserving emergency authority; it does not collapse Schmitt's exception into Arendt's total domination.
 
 [[banality-of-evil|Banality of Evil]] — the thesis of [[eichmann-in-jerusalem|Eichmann in Jerusalem]] — supplies the participant-side complement. Eichmann was not a demonic mastermind; the mass murder he organized was made possible by ordinary bureaucratic compliance, social conformity, and a specific failure of moral imagination Arendt calls *thoughtlessness*. The "extreme skill at disguising the parasite relationship" line transposes onto a different register here: it is not the regime camouflaging extraction as service, it is the participant camouflaging mass killing as ordinary administrative work.
 
@@ -79,10 +83,14 @@ The version of the user's two sentences that survives the corpus reads:
 
 ## Knowledge Gaps
 
-- Tilly's 1990 book: chapters 2, 4, 5, 7 absent from the corpus (only 1, 3, 6 ingested). Claims about Tilly's full European-trajectories argument are source-limited.
-- Solzhenitsyn: only the Whitney/Willetts abridged 1-volume edition is in the wiki; the unabridged three-volume work is not.
-- Arendt: *The Human Condition*, *On Revolution*, and *On Violence* are not in the wiki. *On Violence* in particular would extend the totalitarianism-vs-ordinary-state-power boundary the thesis turns on.
-- No coverage of Carl Schmitt (the sovereign-decision tradition) or Foucault (the discipline / biopower tradition). Both would bear on sentence 1 from non-libertarian angles.
+The four gaps listed in the 2026-05-10 version are now closed with real text ingests.
+
+- Tilly's 1990 book: chapters 2, 4, 5, and 7 were appended to the existing raw aggregate on 2026-05-12 from a full-book PDF fetched through a LibGen mirror after the Internet Archive item restricted OCR downloads. The reference page now covers citizenship, nationalism, lineages, and soldiers in 1992.
+- Solzhenitsyn: the unabridged three-volume English work is now ingested in separate Volume I, II, and III raw aggregates, alongside the earlier abridged one-volume source.
+- Arendt: *On Violence*, *The Human Condition*, and *On Revolution* are now ingested. *On Violence* is integrated above through the power-vs-violence distinction.
+- Schmitt and Foucault: *Political Theology*, *The Concept of the Political*, *Discipline and Punish*, and *Society Must Be Defended* are now ingested, with concept pages for exception, friend/enemy, disciplinary power, and biopower.
+
+Remaining limitations: the new commercial-book raw sources are OCR/extracted text, not citation-grade verified editions; quotation should be checked against authorized copies. Schmitt and Foucault are non-libertarian and sometimes anti-liberal sources, so their convergence with the thesis is diagnostic rather than programmatic.
 
 ## See Also
 
@@ -106,6 +114,27 @@ The version of the user's two sentences that survives the corpus reads:
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy/democracy gradient
 - [[thus-spake-zarathustra-the-new-idol|Thus Spake Zarathustra: The New Idol]] - Nietzsche's "coldest of all cold monsters"
 
+- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
+
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly concept from the completed book ingest
+
+- [[nationalism-and-state-formation|Nationalism and State Formation]] - Tilly concept from the completed book ingest
+
+- [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly Chapter 7 concept
+- [[biopower|Biopower]] - reciprocal link.
+- [[carl-schmitt|Carl Schmitt]] - reciprocal link.
+- [[disciplinary-power|Disciplinary Power]] - reciprocal link.
+- [[discipline-and-punish|Discipline and Punish]] - reciprocal link.
+- [[michel-foucault|Michel Foucault]] - reciprocal link.
+- [[on-revolution|On Revolution]] - reciprocal link.
+- [[on-violence|On Violence]] - reciprocal link.
+- [[political-theology|Political Theology]] - reciprocal link.
+- [[society-must-be-defended|Society Must Be Defended]] - reciprocal link.
+- [[state-of-exception|State of Exception]] - reciprocal link.
+- [[the-concept-of-the-political|The Concept of the Political]] - reciprocal link.
+- [[the-human-condition|The Human Condition]] - reciprocal link.
+- [[violence-vs-power|Violence vs Power]] - reciprocal link.
+
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - parasite/predation language, ideological-camouflage thesis, Ruritania bandit-to-King, Nock-via-Rothbard "monopoly of crime"
@@ -123,3 +152,13 @@ The version of the user's two sentences that survives the corpus reads:
 - [The Origins of Totalitarianism (Arendt)](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - novel-form-of-government distinction, total domination thesis
 - [Eichmann in Jerusalem (Arendt)](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - banality-of-evil thesis
 - [The Gulag Archipelago (Solzhenitsyn, abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - empirical Soviet camp-system witness to total domination
+- [The Gulag Archipelago, Volume I](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - unabridged Parts I-II OCR ingest
+- [The Gulag Archipelago, Volume II](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - unabridged Parts III-IV OCR ingest
+- [The Gulag Archipelago, Volume III](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - unabridged Parts V-VII OCR ingest
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - Arendt power/violence distinction
+- [The Human Condition](https://archive.org/download/the-human-condition-hannah-arendt/The%20Human%20Condition%20-%20Arendt%20Hannah_djvu.txt) - Arendt action and public realm background
+- [On Revolution](https://monoskop.org/images/b/bf/Arendt_Hannah_On_Revolution_1990.pdf) - Arendt revolution and public freedom background
+- [Political Theology](https://platypus1917.org/wp-content/uploads/Political-Theology_-Four-Chapte-Carl-Schmitt.pdf) - Schmitt state-of-exception source
+- [The Concept of the Political](https://platypus1917.org/wp-content/uploads/Concept-of-the-Political-Carl-Schmitt.pdf) - Schmitt friend/enemy source
+- [Discipline and Punish](https://archive.org/download/discipline-and-punish-by-foucault-michel/Discipline%20and%20Punish%20by%20Foucault%20Michel_djvu.txt) - Foucault disciplinary-power source
+- [Society Must Be Defended](https://archive.org/download/01.MichelFoucaultSocietyMustBeDefended/01.%20Michel%20Foucault%20-%20Society%20must%20be%20defended_djvu.txt) - Foucault biopower source

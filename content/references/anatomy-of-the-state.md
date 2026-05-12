@@ -2,7 +2,7 @@
 title: "Anatomy of the State"
 category: reference
 created: 2026-04-25
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
 confidence: medium
@@ -46,6 +46,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[our-enemy-the-state|Our Enemy, the State]] - source for social power versus state power
 - [[franz-oppenheimer|Franz Oppenheimer]] - author of the state definition Rothbard adopts
 - [[albert-jay-nock|Albert Jay Nock]] - author of the social-power/state-power vocabulary Rothbard invokes
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

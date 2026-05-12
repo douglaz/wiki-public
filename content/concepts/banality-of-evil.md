@@ -2,7 +2,7 @@
 title: "Banality of Evil"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [banality-of-evil, hannah-arendt, eichmann, bureaucracy, thoughtlessness, moral-judgment, totalitarianism, state]
 aliases: [the banality of evil, thoughtlessness, ordinary evil, bureaucratic evil]
 confidence: medium
@@ -56,6 +56,11 @@ That convergence sharpens [[state-power-and-intervention|State Power and Interve
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social condition that helps explain ordinary availability for total movements
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article sharpened by the bureaucracy and thoughtlessness layer
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek comparison point on planning and arbitrary power
+
+- [[on-violence|On Violence]] - later Arendt source on power and violence
+
+- [[violence-vs-power|Violence vs Power]] - adjacent Arendt concept
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

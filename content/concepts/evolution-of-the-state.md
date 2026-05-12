@@ -2,7 +2,7 @@
 title: "Evolution of the State"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
@@ -87,6 +87,11 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[hannah-arendt|Hannah Arendt]] - non-libertarian theorist of totalitarianism
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - Arendt source for antisemitism, imperialism, mass society, ideology, and terror
 - [[libertarianism|Libertarianism]] - broader doctrine into which the historical state critique fits
+
+- [[nationalism-and-state-formation|Nationalism and State Formation]] - Tilly concept from the expanded book ingest
+
+- [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly concept from Chapter 7
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - reciprocal link.
 
 ## Sources
 

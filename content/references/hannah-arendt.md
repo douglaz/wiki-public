@@ -2,16 +2,16 @@
 title: "Hannah Arendt"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
-tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, moral-judgment, republicanism, civic-humanism, continental-philosophy]
+updated: 2026-05-12
+tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, on-violence, the-human-condition, on-revolution, violence, power, republicanism, civic-humanism, continental-philosophy]
 aliases: [Arendt, Hannah Arendt political philosophy]
 confidence: medium
-summary: "Short author reference for Hannah Arendt, the German-Jewish-American political philosopher whose *Origins* and *Eichmann in Jerusalem* supply this wiki's non-libertarian framework for totalitarianism, total domination, and the banality of evil."
+summary: "Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution."
 ---
 
 # Hannah Arendt
 
-> Hannah Arendt enters this wiki as a non-libertarian political philosopher of totalitarianism, public freedom, action, judgment, and modern political rupture. The works currently present here are [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] and [[eichmann-in-jerusalem|Eichmann in Jerusalem]].
+> Hannah Arendt enters this wiki as a non-libertarian political philosopher of totalitarianism, public freedom, action, judgment, and modern political rupture. The works currently present here are [[the-origins-of-totalitarianism|The Origins of Totalitarianism]], [[eichmann-in-jerusalem|Eichmann in Jerusalem]], [[on-violence|On Violence]], [[the-human-condition|The Human Condition]], and [[on-revolution|On Revolution]].
 
 ## Biographical Frame
 
@@ -21,13 +21,19 @@ Major works commonly associated with Arendt include *The Origins of Totalitarian
 
 ## Works Present Here
 
-Two Arendt works are currently ingested in this wiki.
+Five Arendt works are currently ingested in this wiki.
 
 [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] anchors [[totalitarianism|Totalitarianism]], [[total-domination|Total Domination]], and [[mass-society-and-atomization|Mass Society and Atomization]].
 
 [[eichmann-in-jerusalem|Eichmann in Jerusalem]] anchors [[banality-of-evil|Banality of Evil]] and supplies the ordinary-participant complement to *Origins*: the regime-level analysis remains in *Origins*, while *Eichmann* examines bureaucratic compliance, thoughtlessness, and judgment.
 
-Other major works remain gaps. *The Human Condition* would deepen the action/public-world side of the wiki. *On Revolution* would complicate the existing American Revolution and civic-freedom material. *Men in Dark Times* and *The Life of the Mind* would extend the judgment and thinking thread.
+[[on-violence|On Violence]] anchors [[violence-vs-power|Violence vs Power]], sharpening the difference between action-in-concert and instrumental coercion.
+
+[[the-human-condition|The Human Condition]] anchors [[vita-activa|Vita Activa]] and [[the-rise-of-the-social|The Rise of the Social]].
+
+[[on-revolution|On Revolution]] anchors [[public-happiness|Public Happiness]] and [[council-system|Council System]].
+
+Other major works remain gaps. *Men in Dark Times* and *The Life of the Mind* would extend the judgment and thinking thread.
 
 ## Place in This Wiki
 
@@ -48,6 +54,14 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 - [[evolution-of-the-state|Evolution of the State]] - historical-state arc now using Arendt for the totalitarianism pole
 - [[road-to-serfdom|The Road to Serfdom]] - nearby classical-liberal comparison point
 - [[libertarianism|Libertarianism]] - topic map situating Arendt as a non-libertarian diagnostic source
+- [[council-system|Council System]] - reciprocal link.
+- [[on-revolution|On Revolution]] - reciprocal link.
+- [[on-violence|On Violence]] - reciprocal link.
+- [[public-happiness|Public Happiness]] - reciprocal link.
+- [[the-human-condition|The Human Condition]] - reciprocal link.
+- [[the-rise-of-the-social|The Rise of the Social]] - reciprocal link.
+- [[violence-vs-power|Violence vs Power]] - reciprocal link.
+- [[vita-activa|Vita Activa]] - reciprocal link.
 
 ## Sources
 

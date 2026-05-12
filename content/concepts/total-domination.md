@@ -2,7 +2,7 @@
 title: "Total Domination"
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [total-domination, hannah-arendt, totalitarianism, gulag, concentration-camps, ideology, terror, mass-society]
 aliases: [total domination, totalitarian domination, domination not extraction]
 confidence: medium
@@ -50,6 +50,10 @@ This is a non-libertarian diagnostic category. Arendt does not derive market ana
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt source on Eichmann and bureaucratic responsibility
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social precondition and camp-enforced consequence
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept that this article bounds
+
+- [[on-violence|On Violence]] - Arendt source clarifying how violence destroys power
+
+- [[violence-vs-power|Violence vs Power]] - power/violence distinction that sharpens total domination
 
 ## Sources
 

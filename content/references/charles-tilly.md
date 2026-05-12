@@ -2,7 +2,7 @@
 title: "Charles Tilly"
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 tags: [charles-tilly, historical-sociology, state, war-and-state-formation, comparative-historical-sociology]
 aliases: [Tilly, Charles Tilly historical sociology]
 confidence: medium
@@ -25,7 +25,7 @@ Two Tilly works are currently present in the wiki.
 
 [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] is the 1985 essay that directly compares war making and state making to organized crime. It anchors the protection-racket formulation and the four activities of war making, state making, protection, and extraction.
 
-[[coercion-capital-and-european-states|Coercion, Capital, and European States]] is present as a partial raw source: chapters 1, 3, and 6 only. Those chapters are enough to anchor the capital/coercion typology, the war-and-state-formation thesis, and the European state-system argument, but not enough to cite the absent chapters on citizens, lineages, or soldiers in 1990.
+[[coercion-capital-and-european-states|Coercion, Capital, and European States]] is now present as an expanded raw aggregate covering chapters 1-7. The 2026-05-12 append closes the previous gaps on European cities, citizens, national-state lineages, and soldiers in 1992.
 
 ## Place in This Wiki
 
@@ -40,7 +40,13 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 - [[war-and-state-formation|War and State Formation]] - concept article built from Tilly's framework
 - [[evolution-of-the-state|Evolution of the State]] - broader historical-state thread that now cites Tilly
 
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Chapter 4 concept from the expanded Tilly ingest
+
+- [[nationalism-and-state-formation|Nationalism and State Formation]] - Chapters 4 and 7 concept from the expanded Tilly ingest
+
+- [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Chapter 7 concept from the expanded Tilly ingest
+
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - full-text 1985 essay source
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - source text anchoring Tilly's role in this wiki; chapters 1, 3, and 6 only
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded aggregate now covering chapters 1-7
