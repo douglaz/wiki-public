@@ -25,7 +25,7 @@ Biopower does not simply abolish sovereign violence. It overlays it. Foucault's 
 
 ## Use in the Parasite Thesis
 
-The [[state-as-parasite-thesis|State as Parasite Thesis]] now mentions biopower only briefly. Foucault adds a non-libertarian vocabulary for symbiosis-disguise: the parasite can present itself as the manager of health, welfare, security, and population life.
+The [[state-as-parasite-thesis|State as Parasite Thesis]] now mentions biopower only briefly. Foucault's account is that modern power is *productive*, *normalizing*, and *care-coded* — exercised through public health, social insurance, security, welfare administration, and population statistics rather than primarily through visible coercion. Foucault himself does not frame this as parasitic disguise. A libertarian application of the description — reading care-coded administration as further texture on how modern states extend reach under sympathetic language — goes beyond his own claim and should be marked as application rather than as Foucault's position.
 
 ## See Also
 
