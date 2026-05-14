@@ -42,6 +42,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[liberalism|Liberalism]] - Mises's earlier (1927) classical-liberal manifesto
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's theoretical companion volume
 - [[libertarianism|Libertarianism]] - broader topic context
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis using the same logic to read the post-repeal supply response
 
 ## Sources
 

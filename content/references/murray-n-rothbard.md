@@ -60,6 +60,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing Rothbard's *Power and Market* triangular-intervention analysis
 
 ## Sources
 

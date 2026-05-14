@@ -63,6 +63,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[albert-jay-nock|Albert Jay Nock]] - author reference for the American transmission
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
 
 ## Sources
 

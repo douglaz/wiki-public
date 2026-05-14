@@ -38,6 +38,7 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[socialism|Socialism]] - companion 1922 critique of the rival system
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 successor warning against the same drift Mises diagnoses
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the rent-ceiling and Vienna passages from this book
 
 ## Sources
 

@@ -31,6 +31,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 
 ## See Also
 
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis using the dispersed-knowledge frame to read the post-repeal supply response
 - [[economic-calculation-problem|Economic Calculation Problem]] - complementary Misesian argument
 - [[friedrich-a-hayek|F. A. Hayek]] - originator
 - [[individualism-and-economic-order|Individualism and Economic Order]] - source volume containing the canonical 1945 essay

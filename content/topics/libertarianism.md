@@ -85,6 +85,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critique topic added for comparison
 
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - news-lens thesis applying the wiki's Austrian and intervention frames to a contemporary case
+
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy

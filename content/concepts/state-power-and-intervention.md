@@ -72,6 +72,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 ## See Also
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise characterization against this concept's source set
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis instantiating the intervention-as-cumulative-process frame in the Argentine rental-housing case
 - [[libertarianism|Libertarianism]] - broader doctrine organized around opposition to coercive political power
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline used to judge intervention
 - [[austrian-economics|Austrian Economics]] - economic framework used to analyze intervention

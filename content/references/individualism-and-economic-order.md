@@ -45,6 +45,7 @@ In this volume Hayek explicitly takes up the question Mises had pressed: whether
 - [[austrian-economics|Austrian Economics]] - school whose mature epistemology this book defines
 - [[road-to-serfdom|The Road to Serfdom]] - political application of the same argument
 - [[prices-and-production|Prices and Production]] - Hayek's monetary-theoretic companion volume
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis using the knowledge-problem layer to read the post-repeal supply response
 
 ## Sources
 
