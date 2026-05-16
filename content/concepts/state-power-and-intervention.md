@@ -75,6 +75,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise characterization against this concept's source set
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis instantiating the intervention-as-cumulative-process frame in the Argentine rental-housing case
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis instantiating the intervention-as-cumulative-process frame in the May 2026 Fed cut (third of the year)
+- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis instantiating the Rothbardian autistic/binary/triangular intervention typology in the ECB's confirmed digital-euro architecture
+- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article applying Rothbard's intervention typology to programmable central-bank money
 - [[libertarianism|Libertarianism]] - broader doctrine organized around opposition to coercive political power
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline used to judge intervention
 - [[austrian-economics|Austrian Economics]] - economic framework used to analyze intervention

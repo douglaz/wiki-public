@@ -45,6 +45,8 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the *Power and Market* "Triangular Intervention: Price Control" section
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's general intervention-as-cumulative-process treatment in *Power and Market*
+- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Rothbard's *Power and Market* autistic/binary/triangular intervention typology to programmable central-bank money
+- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the *Power and Market* tripartite intervention typology to CBDCs
 
 ## Sources
 

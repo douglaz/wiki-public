@@ -48,6 +48,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[franz-oppenheimer|Franz Oppenheimer]] - author of the state definition Rothbard adopts
 - [[albert-jay-nock|Albert Jay Nock]] - author of the social-power/state-power vocabulary Rothbard invokes
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Rothbard's ideological-camouflage thesis to the digital-euro architecture
 
 ## Sources
 
