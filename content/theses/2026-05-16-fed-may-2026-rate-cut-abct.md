@@ -79,7 +79,7 @@ The Oppenheimer-Rothbard frame in [[political-means-and-economic-means|Political
 
 ## Sources
 
-- **The Federal Reserve cut interest rates by 25 basis points in May 2026 (news post)** - news post that this thesis comments on
+- [The Federal Reserve cut interest rates by 25 basis points in May 2026 (news post)](/news/2026-05-16-the-federal-reserve-cut-interest-rates-by-25-basis-points-in-may-2026-the-third-cut-this-year-citing-cooling-labor-ma) - news post that this thesis comments on
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - Mises on the gross-market-rate distortion, the inevitability of the corrective crisis, and the doomed-to-failure verdict on continued expansion
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) - Rothbard on the cluster-of-errors mechanism, capital-structure distortion, and the mortgage-rate / housing-market application
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) - Hayek's capital-theoretic foundation

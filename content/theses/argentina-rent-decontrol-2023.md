@@ -69,7 +69,7 @@ The Oppenheimer-Rothbard frame in [[political-means-and-economic-means|Political
 
 ## Sources
 
-- **Argentina abolished rent price controls in late 2023 (news post)** - news post that this thesis comments on
+- [Argentina abolished rent price controls in late 2023 (news post)](/news/2026-05-12-argentina-abolished-rent-price-controls-in-late-2023-rental-listings-in-buenos-aires-more-than-doubled-in-the-first-six) - news post that this thesis comments on
 - [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's "ceiling on residential rents" passage and Vienna example
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's *Power and Market* analysis of triangular intervention and maximum-price control
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge essays

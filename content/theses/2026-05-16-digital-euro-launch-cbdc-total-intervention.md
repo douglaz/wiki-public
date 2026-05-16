@@ -81,7 +81,7 @@ The Oppenheimer-Rothbard frame in [[political-means-and-economic-means|Political
 
 ## Sources
 
-- **The European Central Bank confirmed in May 2026 that the digital euro will launch in Q1 2027 (news post)** - news post that this thesis comments on
+- [The European Central Bank confirmed in May 2026 that the digital euro will launch in Q1 2027 (news post)](/news/2026-05-16-the-european-central-bank-confirmed-in-may-2026-that-the-digital-euro-will-launch-in-q1-2027-with-a-3000-euro-per-reside) - news post that this thesis comments on
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - Hillebrand on CBDCs as total intervention, programmable control, the two-tier illusion, and the surveillance endpoint
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's *Power and Market* source for the autistic/binary/triangular intervention typology Hillebrand applies
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard on ideological camouflage of state action under sympathetic vocabulary
