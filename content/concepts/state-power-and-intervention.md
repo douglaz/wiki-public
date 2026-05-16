@@ -77,6 +77,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline used to judge intervention
 - [[austrian-economics|Austrian Economics]] - economic framework used to analyze intervention
 - [[sales-tax-incidence|Sales Tax Incidence]] - Rothbard's analysis of who ultimately bears a general sales tax
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - Rothbard's *Power and Market* maximum-price control analysis, a concrete instance of triangular intervention
+- [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - Misesian residential-rent-ceiling instance of the intervention frame
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternatives to state monopoly
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - author whose property-centered anti-state analysis is used repeatedly here
 - [[ludwig-von-mises|Ludwig von Mises]] - author of the calculation-debate-opening critique of socialism

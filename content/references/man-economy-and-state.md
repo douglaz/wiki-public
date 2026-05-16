@@ -30,6 +30,7 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[austrian-economics|Austrian Economics]] - broader economic topic built around this treatise
 - [[state-power-and-intervention|State Power and Intervention]] - draws on the book's intervention analysis
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's treatment of general sales tax incidence
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the *Power and Market* "Triangular Intervention: Price Control" treatment of maximum-price control
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws the present-good-for-future-good definition and the cash-vs-credit "is the transaction finished?" diagnostic from this book (Ch. 2 §11, Ch. 6 §2, Ch. 11)
 - [[libertarianism|Libertarianism]] - political doctrine that often relies on this economic base
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the wider corpus

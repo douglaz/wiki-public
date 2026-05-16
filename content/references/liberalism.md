@@ -39,6 +39,7 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 successor warning against the same drift Mises diagnoses
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the rent-ceiling and Vienna passages from this book
+- [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused author-on-topic article on the residential-rent-ceiling shortage passage from this book
 
 ## Sources
 

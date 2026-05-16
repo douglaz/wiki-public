@@ -2,15 +2,15 @@
 
 > Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
 
-Last updated: 2026-05-12
+Last updated: 2026-05-16
 
 ## Statistics
 
-- Sources: 63 raw documents
-- Articles: 91 compiled wiki articles
+- Sources: 64 raw documents
+- Articles: 93 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-12
-- Last lint: 2026-05-12
+- Last lint: 2026-05-16
 
 ## Quick Navigation
 
@@ -24,6 +24,7 @@ Last updated: 2026-05-12
 
 ## Recent Changes
 
+- 2026-05-16: news-lens — re-filed Argentina rent-decontrol news post under the 2026-05-16 slug, reused the existing `argentina-rent-decontrol-2023` thesis, and added focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles as X-thread citation targets; updated reciprocal See Also entries on the broad concept and reference pages.
 - 2026-05-12: news-lens — filed Argentina rent-decontrol news post and wrote endorse-stance thesis `argentina-rent-decontrol-2023`; added reciprocal See Also entries across 16 cited articles; regenerated indexes.
 - 2026-05-12: Closed four knowledge gaps with 10 new full-text raw aggregates, one expanded Tilly aggregate, 22 new compiled articles, the updated thesis, regenerated indexes, and a clean bidirectional See Also graph.
 - 2026-05-10: Ingested and compiled Tilly 1985, Arendt *Eichmann in Jerusalem*, and Solzhenitsyn *The Gulag Archipelago*: 3 new raw full-text sources, 6 new articles, and 11 updated articles for protection-racket sociology, banality of evil, total domination, and Gulag documentation.
