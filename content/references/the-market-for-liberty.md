@@ -1,5 +1,6 @@
 ---
 title: "The Market for Liberty"
+volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-04-25

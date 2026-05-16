@@ -1,5 +1,6 @@
 ---
 title: "Busting Myths about the State and the Libertarian Alternative"
+volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-04-25

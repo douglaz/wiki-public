@@ -1,5 +1,6 @@
 ---
 title: "The May 2026 Fed Rate Cut: ABCT Endorsement"
+volatility: warm
 type: thesis
 created: 2026-05-16
 updated: 2026-05-16

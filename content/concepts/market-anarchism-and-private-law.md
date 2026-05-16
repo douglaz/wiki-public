@@ -1,5 +1,6 @@
 ---
 title: "Market Anarchism and Private Law"
+volatility: warm
 category: concept
 created: 2026-04-21
 updated: 2026-05-10

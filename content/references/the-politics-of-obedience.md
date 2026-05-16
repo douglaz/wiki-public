@@ -1,5 +1,6 @@
 ---
 title: "The Politics of Obedience"
+volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-05-10

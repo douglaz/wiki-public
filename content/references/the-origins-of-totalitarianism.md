@@ -1,5 +1,6 @@
 ---
 title: "The Origins of Totalitarianism"
+volatility: warm
 category: reference
 created: 2026-05-10
 updated: 2026-05-12

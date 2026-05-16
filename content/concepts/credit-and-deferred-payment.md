@@ -1,5 +1,6 @@
 ---
 title: "Credit and Deferred Payment"
+volatility: warm
 category: concept
 created: 2026-05-09
 updated: 2026-05-09

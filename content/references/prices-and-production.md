@@ -1,5 +1,6 @@
 ---
 title: "Prices and Production and Other Works"
+volatility: warm
 category: reference
 created: 2026-05-05
 updated: 2026-05-05

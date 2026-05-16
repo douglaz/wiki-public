@@ -1,5 +1,6 @@
 ---
 title: "For a New Liberty"
+volatility: warm
 category: reference
 created: 2026-04-21
 updated: 2026-05-05

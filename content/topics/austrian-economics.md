@@ -1,5 +1,6 @@
 ---
 title: "Austrian Economics"
+volatility: warm
 category: topic
 created: 2026-04-21
 updated: 2026-05-10

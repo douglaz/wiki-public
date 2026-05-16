@@ -1,5 +1,6 @@
 ---
 title: "The Production of Security"
+volatility: warm
 category: reference
 created: 2026-05-06
 updated: 2026-05-10

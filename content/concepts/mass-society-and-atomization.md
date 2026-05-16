@@ -1,5 +1,6 @@
 ---
 title: "Mass Society and Atomization"
+volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-10

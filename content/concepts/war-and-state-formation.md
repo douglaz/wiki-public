@@ -1,5 +1,6 @@
 ---
 title: "War and State Formation"
+volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-12

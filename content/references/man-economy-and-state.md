@@ -1,5 +1,6 @@
 ---
 title: "Man, Economy, and State"
+volatility: warm
 category: reference
 created: 2026-04-21
 updated: 2026-04-22

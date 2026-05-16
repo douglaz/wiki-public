@@ -1,5 +1,6 @@
 ---
 title: "The Economics and Ethics of Private Property"
+volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-04-25

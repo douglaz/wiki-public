@@ -1,5 +1,6 @@
 ---
 title: "State Power and Intervention"
+volatility: warm
 category: concept
 created: 2026-04-21
 updated: 2026-05-12

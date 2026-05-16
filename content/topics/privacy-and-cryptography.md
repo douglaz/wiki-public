@@ -1,5 +1,6 @@
 ---
 title: "Privacy and Cryptography"
+volatility: warm
 category: topic
 created: 2026-05-10
 updated: 2026-05-10

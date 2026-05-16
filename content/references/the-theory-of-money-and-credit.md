@@ -1,5 +1,6 @@
 ---
 title: "The Theory of Money and Credit"
+volatility: warm
 category: reference
 created: 2026-05-09
 updated: 2026-05-09

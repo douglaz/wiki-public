@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Problem"
+volatility: warm
 category: concept
 created: 2026-05-05
 updated: 2026-05-10

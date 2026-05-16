@@ -1,5 +1,6 @@
 ---
 title: "Rothbard on Fed-Induced Booms"
+volatility: warm
 type: concept
 created: 2026-05-16
 updated: 2026-05-16

@@ -1,5 +1,6 @@
 ---
 title: "Sales Tax Incidence"
+volatility: warm
 category: concept
 created: 2026-04-22
 updated: 2026-04-25

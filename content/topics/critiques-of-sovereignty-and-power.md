@@ -1,5 +1,6 @@
 ---
 title: "Critiques of Sovereignty and Power"
+volatility: warm
 category: topic
 created: 2026-05-12
 updated: 2026-05-12

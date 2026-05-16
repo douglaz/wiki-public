@@ -1,5 +1,6 @@
 ---
 title: "Theory and History"
+volatility: warm
 category: reference
 created: 2026-05-05
 updated: 2026-05-05
