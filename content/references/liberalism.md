@@ -40,6 +40,7 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the rent-ceiling and Vienna passages from this book
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused author-on-topic article on the residential-rent-ceiling shortage passage from this book
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis noting Mises's minarchist position on central banking
 
 ## Sources
 

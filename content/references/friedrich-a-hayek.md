@@ -61,6 +61,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[prices-and-production|Prices and Production and Other Works]] - related work in this corpus
 - [[road-to-serfdom|The Road to Serfdom]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis applying the knowledge-problem reading to the post-repeal supply response
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying Hayek's capital-structure and knowledge-problem extensions to a Fed rate cut
 
 ## Sources
 

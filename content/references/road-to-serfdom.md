@@ -43,6 +43,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's theoretical companion volume
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis using the same logic to read the post-repeal supply response
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying Hayek's political logic to a central-bank rate decision
 
 ## Sources
 

@@ -64,6 +64,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis classifying a central-bank rate decision as use of the political means substituted for the economic means.
 
 ## Sources
 

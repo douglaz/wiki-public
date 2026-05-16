@@ -86,6 +86,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critique topic added for comparison
 
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - news-lens thesis applying the wiki's Austrian and intervention frames to a contemporary case
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - news-lens thesis applying ABCT to a contemporary Fed rate cut
 
 ## Sources
 

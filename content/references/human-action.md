@@ -43,6 +43,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[socialism|Socialism]] - related work in this corpus
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Ch. XX "Interest, Credit Expansion, and the Trade Cycle" on the gross-market-rate distortion
 
 ## Sources
 
