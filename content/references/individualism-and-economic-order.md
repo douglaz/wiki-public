@@ -12,7 +12,7 @@ summary: "Reference guide to Hayek's 1948 essay collection containing 'The Use o
 
 # Individualism and Economic Order
 
-> *Individualism and Economic Order* is Hayek's most concentrated statement of the case against central economic planning. It collects his contributions to the inter-war socialist-calculation debate, the canonical 1945 statement of the knowledge problem, and his clearest essays on competition and economic equilibrium. Together they form the theoretical engine behind *The Road to Serfdom* and behind the modern Austrian critique of comprehensive economic regulation.
+> [[individualism-and-economic-order|Individualism and Economic Order]] is Hayek's most concentrated statement of the case against central economic planning. It collects his contributions to the inter-war socialist-calculation debate, the canonical 1945 statement of the knowledge problem, and his clearest essays on competition and economic equilibrium. Together they form the theoretical engine behind [[road-to-serfdom|The Road to Serfdom]] and behind the modern Austrian critique of comprehensive economic regulation.
 
 ## What the Book Contains
 

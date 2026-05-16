@@ -12,7 +12,7 @@ summary: "Reference guide to Mises's 1922 critique of socialism, the original st
 
 # Socialism
 
-> *Socialism: An Economic and Sociological Analysis* is Mises's full-length attack on socialism, originally published in German as *Die Gemeinwirtschaft* (1922). It contains the canonical formulation of the economic-calculation argument — that a centrally-planned economy without genuine market prices for the means of production cannot rationally allocate resources — and extends the analysis well beyond economics into family, ethics, and incentives.
+> *Socialism: An Economic and Sociological Analysis* is Mises's full-length attack on socialism, originally published in German as [[socialism|Die Gemeinwirtschaft]] (1922). It contains the canonical formulation of the economic-calculation argument — that a centrally-planned economy without genuine market prices for the means of production cannot rationally allocate resources — and extends the analysis well beyond economics into family, ethics, and incentives.
 
 ## What the Book Argues
 
@@ -28,7 +28,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 
 ## Relation to Mises's Other Texts and the Calculation Debate
 
-*Socialism* opens a debate. Hayek's contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and "The Use of Knowledge in Society" — extend Mises's argument from "in principle impossible" to "in practice unsolvable because the requisite knowledge does not exist anywhere as a pre-given dataset." [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
+[[socialism|Socialism]] opens a debate. Hayek's contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and "The Use of Knowledge in Society" — extend Mises's argument from "in principle impossible" to "in practice unsolvable because the requisite knowledge does not exist anywhere as a pre-given dataset." [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
 
 ## See Also
 

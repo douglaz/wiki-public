@@ -18,7 +18,7 @@ summary: "Author reference for Hannah Arendt, whose works now present in the wik
 
 Hannah Arendt (1906-1975) was born in Hanover and raised in a German-Jewish milieu. She studied philosophy in Germany, completed a doctorate under Karl Jaspers at Heidelberg in 1929, fled Germany in 1933, lived in France as a refugee, and reached the United States in 1941. In the United States she became one of the major twentieth-century political thinkers and taught at institutions including the New School and the University of Chicago.
 
-Major works commonly associated with Arendt include *The Origins of Totalitarianism* (1951), *The Human Condition* (1958), *On Revolution* (1963), *Eichmann in Jerusalem* (1963), *Men in Dark Times* (1968), and the posthumous *The Life of the Mind* (1978).
+Major works commonly associated with Arendt include [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] (1951), [[the-human-condition|The Human Condition]] (1958), [[on-revolution|On Revolution]] (1963), [[eichmann-in-jerusalem|Eichmann in Jerusalem]] (1963), *Men in Dark Times* (1968), and the posthumous *The Life of the Mind* (1978).
 
 ## Works Present Here
 

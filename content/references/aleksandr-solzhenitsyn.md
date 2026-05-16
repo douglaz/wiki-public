@@ -12,13 +12,13 @@ summary: "Short author reference for Aleksandr Solzhenitsyn, Soviet dissident wr
 
 # Aleksandr Solzhenitsyn
 
-> Aleksandr Solzhenitsyn enters this wiki as the author of *The Gulag Archipelago* and a documentary witness to Soviet totalitarianism. His work converges with libertarian state critique at the totalitarian pole, but his political and religious outlook should not be represented as libertarian.
+> Aleksandr Solzhenitsyn enters this wiki as the author of [[the-gulag-archipelago|The Gulag Archipelago]] and a documentary witness to Soviet totalitarianism. His work converges with libertarian state critique at the totalitarian pole, but his political and religious outlook should not be represented as libertarian.
 
 ## Biographical Frame
 
 Aleksandr Solzhenitsyn (1918-2008) was born in Kislovodsk, Russia. He served as a Red Army artillery officer during the Second World War, was arrested in 1945 for remarks critical of Stalin, and spent eight years in Soviet camps followed by exile. He was awarded the Nobel Prize in Literature in 1970, was exiled from the Soviet Union in 1974, and returned to Russia in 1994.
 
-Major works include *One Day in the Life of Ivan Denisovich* (1962), *Cancer Ward* (1968), *The First Circle* (1968), *The Gulag Archipelago* (1973-1975), and the *Red Wheel* cycle.
+Major works include *One Day in the Life of Ivan Denisovich* (1962), *Cancer Ward* (1968), *The First Circle* (1968), [[the-gulag-archipelago|The Gulag Archipelago]] (1973-1975), and the *Red Wheel* cycle.
 
 ## Work Present Here
 

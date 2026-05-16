@@ -32,11 +32,11 @@ The school's macroeconomics is the [[austrian-business-cycle-theory|Austrian the
 
 ## Intervention as Process, Not Snapshot
 
-The *Power and Market* material in Rothbard's treatise treats intervention dynamically. Taxes, price controls, subsidies, monopoly grants, and inflation are not isolated knobs — they generate secondary distortions and pressures for further intervention. Mises, in [[liberalism|Liberalism]] and [[socialism|Socialism]], reaches the same conclusion via his analysis of "destructionism." Hayek, in [[road-to-serfdom|The Road to Serfdom]], reaches it via the rule-of-law and knowledge-problem arguments. The unified result feeds [[state-power-and-intervention|State Power and Intervention]]. Rothbard's [[sales-tax-incidence|Sales Tax Incidence]] is a concrete example of the same method applied to a standard textbook question.
+The [[power-and-market|Power and Market]] material in Rothbard's treatise treats intervention dynamically. Taxes, price controls, subsidies, monopoly grants, and inflation are not isolated knobs — they generate secondary distortions and pressures for further intervention. Mises, in [[liberalism|Liberalism]] and [[socialism|Socialism]], reaches the same conclusion via his analysis of "destructionism." Hayek, in [[road-to-serfdom|The Road to Serfdom]], reaches it via the rule-of-law and knowledge-problem arguments. The unified result feeds [[state-power-and-intervention|State Power and Intervention]]. Rothbard's [[sales-tax-incidence|Sales Tax Incidence]] is a concrete example of the same method applied to a standard textbook question.
 
 ## Relation to the Political Corpus
 
-The Austrian conclusions are repeatedly relied on by the wiki's libertarian political texts. *For a New Liberty* leans on calculation and intervention analysis even when its surface subject is law or war. *The Road to Serfdom* applies the knowledge problem to political philosophy. *Liberalism* defends a free society on consequentialist Austrian grounds. The wiki therefore treats Austrian economics as more than technical background. It is the economic argument for why the market order defended in [[libertarianism|Libertarianism]] is supposed to be productive, adaptive, and resistant to chaos, and it underwrites the non-state institutional proposals in [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
+The Austrian conclusions are repeatedly relied on by the wiki's libertarian political texts. [[for-a-new-liberty|For a New Liberty]] leans on calculation and intervention analysis even when its surface subject is law or war. [[road-to-serfdom|The Road to Serfdom]] applies the knowledge problem to political philosophy. [[liberalism|Liberalism]] defends a free society on consequentialist Austrian grounds. The wiki therefore treats Austrian economics as more than technical background. It is the economic argument for why the market order defended in [[libertarianism|Libertarianism]] is supposed to be productive, adaptive, and resistant to chaos, and it underwrites the non-state institutional proposals in [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
 ## Privacy and Cypherpunk Extension
 
@@ -55,7 +55,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[libertarianism|Libertarianism]] - broader doctrine to which the economics is attached here
 - [[state-power-and-intervention|State Power and Intervention]] - political economy of intervention
 - [[sales-tax-incidence|Sales Tax Incidence]] - Rothbard's application of Austrian price theory to tax incidence
-- [[credit-and-deferred-payment|Credit and Deferred Payment]] - structural definition of credit (present good for future good) presupposed by ABCT; draws across MES, *Human Action*, *EoL*, *Prices and Production*, and Hoppe's *EEPP*
+- [[credit-and-deferred-payment|Credit and Deferred Payment]] - structural definition of credit (present good for future good) presupposed by ABCT; draws across MES, [[human-action|Human Action]], *EoL*, [[prices-and-production|Prices and Production]], and Hoppe's *EEPP*
 - [[privacy-and-cryptography|Privacy and Cryptography]] - modern privacy and cypherpunk implementation extension of the Austrian framework
 - [[praxeology-of-privacy|Praxeology of Privacy]] - action-theoretic argument for privacy as selective disclosure
 - [[resistance-axiom|Resistance Axiom]] - assumption that cryptographic and decentralized systems can resist external control

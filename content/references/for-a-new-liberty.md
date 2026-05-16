@@ -12,11 +12,11 @@ summary: "Reference guide to Rothbard's movement-level overview of libertarian d
 
 # For a New Liberty
 
-> *For a New Liberty: The Libertarian Manifesto* is the best single entry point to the political side of this wiki's current corpus. Unlike a short essay or a catalog page, the full-text aggregate gives the entire arc of Rothbard's case: the anti-aggression axiom, property and exchange, the nature of the state, concrete policy applications, and strategic reflections about reducing statism.
+> [[for-a-new-liberty|For a New Liberty: The Libertarian Manifesto]] is the best single entry point to the political side of this wiki's current corpus. Unlike a short essay or a catalog page, the full-text aggregate gives the entire arc of Rothbard's case: the anti-aggression axiom, property and exchange, the nature of the state, concrete policy applications, and strategic reflections about reducing statism.
 
 ## Why This Book Matters Here
 
-If [[man-economy-and-state|Man, Economy, and State]] is the main economic treatise in the topic wiki, *For a New Liberty* is the main political synthesis. It is the book that most directly explains how the ethical claims in [[nonaggression-and-property-rights|Nonaggression and Property Rights]] are supposed to bear on taxes, war, courts, labor, education, police, and other familiar institutions.
+If [[man-economy-and-state|Man, Economy, and State]] is the main economic treatise in the topic wiki, [[for-a-new-liberty|For a New Liberty]] is the main political synthesis. It is the book that most directly explains how the ethical claims in [[nonaggression-and-property-rights|Nonaggression and Property Rights]] are supposed to bear on taxes, war, courts, labor, education, police, and other familiar institutions.
 
 ## Scope of the Full-Text Ingest
 
@@ -24,7 +24,7 @@ The current raw source aggregates 69 reading-order pages from the Mises online-b
 
 ## Relation to Other Rothbard Sources
 
-This book works as the bridge between Rothbard the economist and Rothbard the political theorist. It relies on the Austrian background summarized in [[austrian-economics|Austrian Economics]] while speaking in a more movement-facing register. It also complements *Anatomy of the State*, which is shorter and more concentrated, and it points toward the more explicitly natural-rights treatment associated with *The Ethics of Liberty*.
+This book works as the bridge between Rothbard the economist and Rothbard the political theorist. It relies on the Austrian background summarized in [[austrian-economics|Austrian Economics]] while speaking in a more movement-facing register. It also complements [[anatomy-of-the-state|Anatomy of the State]], which is shorter and more concentrated, and it points toward the more explicitly natural-rights treatment associated with [[the-ethics-of-liberty|The Ethics of Liberty]].
 
 ## See Also
 

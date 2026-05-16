@@ -19,7 +19,7 @@ summary: "Reference guide to Rothbard's place in this wiki as system-builder, ec
 - [[man-economy-and-state|Man, Economy, and State]] is the deepest economic work in the current wiki and anchors the Austrian layer.
 - [[for-a-new-liberty|For a New Liberty]] is the broadest single overview of the political philosophy, covering axiom, history, policy, and strategy.
 - [[anatomy-of-the-state|Anatomy of the State]] is the shortest direct route to Rothbard's account of political monopoly and ideological camouflage.
-- *The Ethics of Liberty* anchors the moral and natural-rights side of Rothbard's thought, with the full 1998 NYU Press edition (Hoppe introduction) ingested from the Mises Institute PDF.
+- [[the-ethics-of-liberty|The Ethics of Liberty]] anchors the moral and natural-rights side of Rothbard's thought, with the full 1998 NYU Press edition (Hoppe introduction) ingested from the Mises Institute PDF.
 - [[americas-great-depression|America's Great Depression]] is Rothbard the economic historian — the canonical Austrian reading of 1929–1933 and the source for his revisionist case against the "Hoover did nothing" narrative.
 - [[the-politics-of-obedience|The Politics of Obedience]] appears here through Rothbard's framing role and the strategic problem of consent.
 - [[lets-abolish-government|Let's Abolish Government]] shows Rothbard's role as a curator of anti-state predecessors, especially Spooner.
@@ -30,11 +30,11 @@ The present article graph reflects how often other sources route through Rothbar
 
 ## Economics, Ethics, and Strategy
 
-Rothbard's importance here is that the different strands reinforce each other. The economic reasoning in [[austrian-economics|Austrian Economics]] supports the critique of [[state-power-and-intervention|State Power and Intervention]]. The moral logic of [[nonaggression-and-property-rights|Nonaggression and Property Rights]] grounds the political program. *For a New Liberty* then turns those pieces into a movement-facing map of issues, opponents, and practical priorities.
+Rothbard's importance here is that the different strands reinforce each other. The economic reasoning in [[austrian-economics|Austrian Economics]] supports the critique of [[state-power-and-intervention|State Power and Intervention]]. The moral logic of [[nonaggression-and-property-rights|Nonaggression and Property Rights]] grounds the political program. [[for-a-new-liberty|For a New Liberty]] then turns those pieces into a movement-facing map of issues, opponents, and practical priorities.
 
 ## Suggested Reading Path
 
-For a fast entry into Rothbard as represented in this wiki, start with [[anatomy-of-the-state|Anatomy of the State]], then move to [[for-a-new-liberty|For a New Liberty]]. For the economics, continue into [[man-economy-and-state|Man, Economy, and State]] and the historical application in [[americas-great-depression|America's Great Depression]]. For the ethics, read *The Ethics of Liberty*, now ingested as a full-text aggregate from the Mises Institute PDF of the 1998 NYU Press edition.
+For a fast entry into Rothbard as represented in this wiki, start with [[anatomy-of-the-state|Anatomy of the State]], then move to [[for-a-new-liberty|For a New Liberty]]. For the economics, continue into [[man-economy-and-state|Man, Economy, and State]] and the historical application in [[americas-great-depression|America's Great Depression]]. For the ethics, read [[the-ethics-of-liberty|The Ethics of Liberty]], now ingested as a full-text aggregate from the Mises Institute PDF of the 1998 NYU Press edition.
 
 ## See Also
 
@@ -61,8 +61,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing Rothbard's *Power and Market* triangular-intervention analysis
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's *America's Great Depression* cluster-of-errors mechanism
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's [[americas-great-depression|America's Great Depression]] cluster-of-errors mechanism
 
 ## Sources
 

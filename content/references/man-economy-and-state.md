@@ -12,11 +12,11 @@ summary: "Reference guide to Rothbard's full Man, Economy, and State aggregate: 
 
 # Man, Economy, and State
 
-> *Man, Economy, and State* is the strongest single economic primary source currently ingested into this wiki. The raw file aggregates the Mises Institute online edition into one usable markdown source, giving the topic wiki the actual argument of the book rather than only a catalog description.
+> [[man-economy-and-state|Man, Economy, and State]] is the strongest single economic primary source currently ingested into this wiki. The raw file aggregates the Mises Institute online edition into one usable markdown source, giving the topic wiki the actual argument of the book rather than only a catalog description.
 
 ## What the Book Covers
 
-The book moves from the fundamentals of human action into direct and indirect exchange, prices, production, entrepreneurship, monopoly, and money. The attached *Power and Market* material extends the discussion to intervention, taxation, monopoly privilege, and the relation between market order and political coercion. That breadth is why the book anchors [[austrian-economics|Austrian Economics]] while also feeding directly into [[state-power-and-intervention|State Power and Intervention]].
+The book moves from the fundamentals of human action into direct and indirect exchange, prices, production, entrepreneurship, monopoly, and money. The attached [[power-and-market|Power and Market]] material extends the discussion to intervention, taxation, monopoly privilege, and the relation between market order and political coercion. That breadth is why the book anchors [[austrian-economics|Austrian Economics]] while also feeding directly into [[state-power-and-intervention|State Power and Intervention]].
 
 ## Why It Matters in This Wiki
 
@@ -31,7 +31,7 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[austrian-economics|Austrian Economics]] - broader economic topic built around this treatise
 - [[state-power-and-intervention|State Power and Intervention]] - draws on the book's intervention analysis
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's treatment of general sales tax incidence
-- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the *Power and Market* "Triangular Intervention: Price Control" treatment of maximum-price control
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the [[power-and-market|Power and Market]] "Triangular Intervention: Price Control" treatment of maximum-price control
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws the present-good-for-future-good definition and the cash-vs-credit "is the transaction finished?" diagnostic from this book (Ch. 2 §11, Ch. 6 §2, Ch. 11)
 - [[libertarianism|Libertarianism]] - political doctrine that often relies on this economic base
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the wider corpus
@@ -43,10 +43,10 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[prices-and-production|Prices and Production and Other Works]] - related work in this corpus
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the *Power and Market* "Triangular Intervention: Price Control" section
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's general intervention-as-cumulative-process treatment in *Power and Market*
-- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Rothbard's *Power and Market* autistic/binary/triangular intervention typology to programmable central-bank money
-- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the *Power and Market* tripartite intervention typology to CBDCs
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the [[power-and-market|Power and Market]] "Triangular Intervention: Price Control" section
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's general intervention-as-cumulative-process treatment in [[power-and-market|Power and Market]]
+- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Rothbard's [[power-and-market|Power and Market]] autistic/binary/triangular intervention typology to programmable central-bank money
+- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the [[power-and-market|Power and Market]] tripartite intervention typology to CBDCs
 
 ## Sources
 

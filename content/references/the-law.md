@@ -12,7 +12,7 @@ summary: "Reference guide to Bastiat's anti-plunder essay on law, liberty, prope
 
 # The Law
 
-> *The Law* is one of the shortest but most reusable sources in the current libertarian wiki. It matters because it gives a compact standard for distinguishing law as justice from law as organized plunder.
+> [[the-law|The Law]] is one of the shortest but most reusable sources in the current libertarian wiki. It matters because it gives a compact standard for distinguishing law as justice from law as organized plunder.
 
 ## What the Essay Argues
 

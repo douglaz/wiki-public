@@ -12,7 +12,7 @@ summary: "Reference guide to Molinari's 1849 essay — the founding text of the 
 
 # The Production of Security
 
-> *The Production of Security* is Gustave de Molinari's 1849 essay arguing that the production of security — police, courts, and defense — should, like every other commodity, be subject to market competition. It is the earliest text in this wiki's corpus that systematically treats the state's monopoly on protection as an artificial restriction on free trade rather than a natural necessity.
+> [[the-production-of-security|The Production of Security]] is Gustave de Molinari's 1849 essay arguing that the production of security — police, courts, and defense — should, like every other commodity, be subject to market competition. It is the earliest text in this wiki's corpus that systematically treats the state's monopoly on protection as an artificial restriction on free trade rather than a natural necessity.
 
 ## What the Essay Argues
 
@@ -28,7 +28,7 @@ The current raw source is the Mises Institute's 2009 PDF reissue (66 pages, CC-B
 
 ## Relation to the Wiki's Market-Anarchist Sources
 
-Three texts in this wiki argue for private/competitive security: Molinari (1849), the Tannehills' [[the-market-for-liberty|The Market for Liberty]] (1970), and Rothbard's chapter 12 in [[for-a-new-liberty|For a New Liberty]] (1973). Molinari is the source the other two acknowledge. Hoppe's [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] develop the same case in property-rights and public-goods-theory terms. Among the wiki's classical-liberal authors, [[ludwig-von-mises|Mises]] — though sympathetic to Molinari's economics — stops at minarchism, and Rothbard's footnote in chapter 12 of *For a New Liberty* explicitly notes that he goes further than Mises in following Molinari's logic to its conclusion.
+Three texts in this wiki argue for private/competitive security: Molinari (1849), the Tannehills' [[the-market-for-liberty|The Market for Liberty]] (1970), and Rothbard's chapter 12 in [[for-a-new-liberty|For a New Liberty]] (1973). Molinari is the source the other two acknowledge. Hoppe's [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] develop the same case in property-rights and public-goods-theory terms. Among the wiki's classical-liberal authors, [[ludwig-von-mises|Mises]] — though sympathetic to Molinari's economics — stops at minarchism, and Rothbard's footnote in chapter 12 of [[for-a-new-liberty|For a New Liberty]] explicitly notes that he goes further than Mises in following Molinari's logic to its conclusion.
 
 For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the counterfactual. If security can be produced by contract and competition, then historical state formation does not prove monopoly protection necessary. [[democracy-the-god-that-failed|Democracy: The God That Failed]] later points toward the same private-law alternative from Hoppe's regime-comparison direction; chapter 12 makes private defense and insurance the constructive answer to the alleged need for collective state security.
 

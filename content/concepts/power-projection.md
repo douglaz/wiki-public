@@ -12,7 +12,7 @@ summary: "Lowery's analytic frame for comparing physical-cost power projection w
 
 # Power Projection
 
-> Power projection, in Lowery's *Softwar*, is the use of power to secure resources by changing the physical cost of attack. The thesis contrasts physical-cost power projection with abstract power projection and then argues that proof-of-work may allow physical-cost competition to operate in cyberspace.
+> Power projection, in Lowery's [[softwar|Softwar]], is the use of power to secure resources by changing the physical cost of attack. The thesis contrasts physical-cost power projection with abstract power projection and then argues that proof-of-work may allow physical-cost competition to operate in cyberspace.
 
 ## Physical-Cost Power
 

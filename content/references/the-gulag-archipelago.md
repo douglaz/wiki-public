@@ -12,7 +12,7 @@ summary: "Reference guide to Solzhenitsyn's documentary-literary investigation o
 
 # The Gulag Archipelago
 
-> *The Gulag Archipelago* is Aleksandr Solzhenitsyn's documentary-literary investigation of arrests, interrogations, transit, labor camps, exile, and Soviet mass terror. In this wiki it supplies empirical and testimonial material for the totalitarianism thread, especially Arendt's distinction between ordinary extraction and total domination.
+> [[the-gulag-archipelago|The Gulag Archipelago]] is Aleksandr Solzhenitsyn's documentary-literary investigation of arrests, interrogations, transit, labor camps, exile, and Soviet mass terror. In this wiki it supplies empirical and testimonial material for the totalitarianism thread, especially Arendt's distinction between ordinary extraction and total domination.
 
 ## Text Status
 

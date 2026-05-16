@@ -24,7 +24,7 @@ The theory has three moving pieces:
 
 ## Sources in This Wiki
 
-[[prices-and-production|Prices and Production and Other Works]] is the principal Hayekian source — collecting *Monetary Theory and the Trade Cycle* (1929/1933), *Prices and Production* (1931/1935), *Monetary Nationalism and International Stability* (1937), and *Profits, Interest, and Investment* (1939). [[human-action|Human Action]] and [[man-economy-and-state|Man, Economy, and State]] carry the theory forward in Mises's and Rothbard's mature treatises respectively. [[americas-great-depression|America's Great Depression]] is the wiki's principal historical application — Rothbard's 1963 reading of 1929–1933 in terms of the framework.
+[[prices-and-production|Prices and Production and Other Works]] is the principal Hayekian source — collecting *Monetary Theory and the Trade Cycle* (1929/1933), [[prices-and-production|Prices and Production]] (1931/1935), *Monetary Nationalism and International Stability* (1937), and *Profits, Interest, and Investment* (1939). [[human-action|Human Action]] and [[man-economy-and-state|Man, Economy, and State]] carry the theory forward in Mises's and Rothbard's mature treatises respectively. [[americas-great-depression|America's Great Depression]] is the wiki's principal historical application — Rothbard's 1963 reading of 1929–1933 in terms of the framework.
 
 ## Application to the Great Depression
 
@@ -46,7 +46,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - underlying definition of credit (present good for future good) that ABCT presupposes; explains the commodity-credit vs. circulation-credit distinction in structural terms
 - [[austrian-economics|Austrian Economics]] - school whose macroeconomics this is
 - [[friedrich-a-hayek|F. A. Hayek]] - principal source
-- [[ludwig-von-mises|Ludwig von Mises]] - earlier (1912) source in *The Theory of Money and Credit* and continuing treatment in *Human Action*
+- [[ludwig-von-mises|Ludwig von Mises]] - earlier (1912) source in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] and continuing treatment in [[human-action|Human Action]]
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - 1912 origin of the cycle theory's monetary side, ingested 2026-05-09
 - [[murray-n-rothbard|Murray N. Rothbard]] - heir who applied the theory to the Great Depression
 - [[americas-great-depression|America's Great Depression]] - Rothbard's historical application to 1929–1933

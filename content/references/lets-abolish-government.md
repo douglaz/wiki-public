@@ -12,7 +12,7 @@ summary: "Reference guide to the Rothbard-curated Spooner collection on constitu
 
 # Let's Abolish Government
 
-> *Let's Abolish Government* gives this wiki a long-form Spooner source rather than a short quotation set or a single famous excerpt. It matters because it expands the anti-state corpus backward into nineteenth-century constitutional and legal dissent.
+> [[lets-abolish-government|Let's Abolish Government]] gives this wiki a long-form Spooner source rather than a short quotation set or a single famous excerpt. It matters because it expands the anti-state corpus backward into nineteenth-century constitutional and legal dissent.
 
 ## What the Collection Contains
 

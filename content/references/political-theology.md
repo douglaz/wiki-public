@@ -12,7 +12,7 @@ summary: "Reference guide to Carl Schmitt's Political Theology, the sovereign-de
 
 # Political Theology
 
-> *Political Theology* is [[carl-schmitt|Carl Schmitt]]'s 1922 decisionist account of sovereignty. It matters here because it names the state-of-exception problem: legal order depends on a power that can decide when normal legality is suspended.
+> [[political-theology|Political Theology]] is [[carl-schmitt|Carl Schmitt]]'s 1922 decisionist account of sovereignty. It matters here because it names the state-of-exception problem: legal order depends on a power that can decide when normal legality is suspended.
 
 ## Text Status
 

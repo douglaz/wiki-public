@@ -12,7 +12,7 @@ summary: "Short author reference for Max Hillebrand as represented in this wiki 
 
 # Max Hillebrand
 
-> Max Hillebrand enters this wiki through *The Praxeology of Privacy*, a public-domain Towards Liberty book that argues from Austrian and Rothbardian-Hoppean premises toward cypherpunk implementation. This article keeps the profile narrow because the current wiki has one Hillebrand source.
+> Max Hillebrand enters this wiki through [[the-praxeology-of-privacy|The Praxeology of Privacy]], a public-domain Towards Liberty book that argues from Austrian and Rothbardian-Hoppean premises toward cypherpunk implementation. This article keeps the profile narrow because the current wiki has one Hillebrand source.
 
 ## Work Present Here
 
@@ -32,7 +32,7 @@ The distinctive contribution is not a new Austrian economics textbook. It is the
 - [[praxeology-of-privacy|Praxeology of Privacy]] - core concept drawn from the book
 - [[resistance-axiom|Resistance Axiom]] - methodological assumption Hillebrand uses for resistant systems
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map where Hillebrand's implementation material belongs
-- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article drawn from Ch. 10 of *The Praxeology of Privacy*
+- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article drawn from Ch. 10 of [[the-praxeology-of-privacy|The Praxeology of Privacy]]
 - [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Hillebrand's CBDC frame to the ECB's confirmed digital-euro design
 
 ## Sources

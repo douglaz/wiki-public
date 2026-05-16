@@ -12,7 +12,7 @@ summary: "Arendt's account of the recurring revolutionary council tradition as a
 
 # Council System
 
-> Council system names Arendt's recurring revolutionary form of local, participatory self-government. In *On Revolution* it is a lost treasure: repeatedly rediscovered in revolutions, repeatedly displaced by parties, bureaucracy, or centralized state forms.
+> Council system names Arendt's recurring revolutionary form of local, participatory self-government. In [[on-revolution|On Revolution]] it is a lost treasure: repeatedly rediscovered in revolutions, repeatedly displaced by parties, bureaucracy, or centralized state forms.
 
 ## Concept
 

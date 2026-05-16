@@ -12,7 +12,7 @@ summary: "Arendt's term for the joy and dignity of participating in public freed
 
 # Public Happiness
 
-> Public happiness is Arendt's name for the experience of freedom found in public participation, not merely in private security or liberation from oppression. It is one of the key positive concepts in *On Revolution*.
+> Public happiness is Arendt's name for the experience of freedom found in public participation, not merely in private security or liberation from oppression. It is one of the key positive concepts in [[on-revolution|On Revolution]].
 
 ## Concept
 

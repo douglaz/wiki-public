@@ -24,7 +24,7 @@ The argument begins from the broader libertarian claim that property owners reta
 
 ## The Basic Institutional Picture
 
-*The Market for Liberty* provides the clearest practical sketch in the current wiki. Private defense agencies sell protection services to customers and survive only if they protect persons and property effectively. They compete rather than coerce, because any agency that tries to compel patronage stops behaving like a market firm and starts behaving like a government. In the Tannehills' model, these agencies focus first on prevention: guards, patrols, alarms, rapid response, investigation, and technical means of discouraging aggression.
+[[the-market-for-liberty|The Market for Liberty]] provides the clearest practical sketch in the current wiki. Private defense agencies sell protection services to customers and survive only if they protect persons and property effectively. They compete rather than coerce, because any agency that tries to compel patronage stops behaving like a market firm and starts behaving like a government. In the Tannehills' model, these agencies focus first on prevention: guards, patrols, alarms, rapid response, investigation, and technical means of discouraging aggression.
 
 ## Insurance as the Coordinating Core
 

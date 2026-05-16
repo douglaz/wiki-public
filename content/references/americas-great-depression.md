@@ -12,7 +12,7 @@ summary: "Reference guide to Rothbard's 1963 application of Austrian Business Cy
 
 # America's Great Depression
 
-> *America's Great Depression* is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — Mises and Hayek's business-cycle theory and a defense of it against rivals — and Part II applies that apparatus to the United States in the 1920s and to the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
+> [[americas-great-depression|America's Great Depression]] is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — Mises and Hayek's business-cycle theory and a defense of it against rivals — and Part II applies that apparatus to the United States in the 1920s and to the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
 
 ## What the Book Argues
 
@@ -22,7 +22,7 @@ Part II argues that the 1920s were a period of substantial credit inflation engi
 
 ## Why It Matters in This Wiki
 
-This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; *America's Great Depression* is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist (*Man, Economy, and State*), political theorist (*For a New Liberty*), and ethicist (*The Ethics of Liberty*), but not as economic historian. The book is also the source for the standard Austrian retort to the "Hoover did nothing" reading of 1929–1932 that Keynesian and progressive narratives rest on.
+This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; [[americas-great-depression|America's Great Depression]] is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist ([[man-economy-and-state|Man, Economy, and State]]), political theorist ([[for-a-new-liberty|For a New Liberty]]), and ethicist ([[the-ethics-of-liberty|The Ethics of Liberty]]), but not as economic historian. The book is also the source for the standard Austrian retort to the "Hoover did nothing" reading of 1929–1932 that Keynesian and progressive narratives rest on.
 
 ## Scope of the Full-Text Ingest
 
@@ -30,7 +30,7 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 
 ## Relation to Other Texts in This Wiki
 
-*America's Great Depression* is the historical companion to [[man-economy-and-state|Man, Economy, and State]] — same author, same theoretical framework, but applied to a particular episode rather than developed abstractly. It also pairs naturally with [[prices-and-production|Hayek's Prices and Production]] and [[human-action|Mises's Human Action]], both of which Rothbard treats as the theoretical foundation. The historical-revisionist thrust connects to [[for-a-new-liberty|For a New Liberty]] chapter on money and the business cycle, where Rothbard summarizes the same argument in movement-facing form.
+[[americas-great-depression|America's Great Depression]] is the historical companion to [[man-economy-and-state|Man, Economy, and State]] — same author, same theoretical framework, but applied to a particular episode rather than developed abstractly. It also pairs naturally with [[prices-and-production|Hayek's Prices and Production]] and [[human-action|Mises's Human Action]], both of which Rothbard treats as the theoretical foundation. The historical-revisionist thrust connects to [[for-a-new-liberty|For a New Liberty]] chapter on money and the business cycle, where Rothbard summarizes the same argument in movement-facing form.
 
 ## See Also
 

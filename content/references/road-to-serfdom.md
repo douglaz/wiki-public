@@ -12,7 +12,7 @@ summary: "Reference guide to Hayek's 1944 warning that central economic planning
 
 # The Road to Serfdom
 
-> *The Road to Serfdom* is Hayek's wartime address to the British intelligentsia drifting toward postwar collectivism. He argues that comprehensive economic planning cannot be reconciled with personal liberty: planners must impose a single, ranked set of social ends on a population whose members have their own. The result is the erosion of the rule of law and the rise of arbitrary power.
+> [[road-to-serfdom|The Road to Serfdom]] is Hayek's wartime address to the British intelligentsia drifting toward postwar collectivism. He argues that comprehensive economic planning cannot be reconciled with personal liberty: planners must impose a single, ranked set of social ends on a population whose members have their own. The result is the erosion of the rule of law and the rise of arbitrary power.
 
 ## What the Book Argues
 
@@ -24,7 +24,7 @@ This is the wiki's first Hayek text and the most famous classical-liberal book o
 
 ## Scope of the Full-Text Ingest
 
-The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of *The Road to Serfdom* (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas." A full unabridged ingest would require a different source.
+The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of [[road-to-serfdom|The Road to Serfdom]] (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas." A full unabridged ingest would require a different source.
 
 ## Relation to Hayek's Other Texts
 

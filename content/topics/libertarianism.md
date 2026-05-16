@@ -16,11 +16,11 @@ summary: "Topic map of this wiki's libertarian corpus: private property, volunta
 
 ## Moral Baseline
 
-Rothbard's full-text *For a New Liberty* makes the anti-aggression axiom the doctrine's plain starting point, and the other books largely build outward from that claim. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] is therefore not a side issue in this wiki. It is the rule by which law, taxation, war, regulation, and social order are judged. Bastiat's *The Law* and [[hans-hermann-hoppe|Hoppe]]'s property-based works reinforce the same structure by treating liberty, property, and contract as mutually supporting rather than as separate spheres.
+Rothbard's full-text [[for-a-new-liberty|For a New Liberty]] makes the anti-aggression axiom the doctrine's plain starting point, and the other books largely build outward from that claim. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] is therefore not a side issue in this wiki. It is the rule by which law, taxation, war, regulation, and social order are judged. Bastiat's [[the-law|The Law]] and [[hans-hermann-hoppe|Hoppe]]'s property-based works reinforce the same structure by treating liberty, property, and contract as mutually supporting rather than as separate spheres.
 
 ## The State as Exception
 
-The current corpus is unusually hostile to the state as such. *Anatomy of the State* distinguishes society from the political apparatus that rules it. *The Politics of Obedience* explains how domination persists through habit, ideology, and consent. Spooner's *Let's Abolish Government* attacks the claim that constitutional forms manufacture legitimate authority. These sources converge in [[state-power-and-intervention|State Power and Intervention]]: the state is criticized not simply for bad policy choices but for claiming rights that ordinary persons do not have.
+The current corpus is unusually hostile to the state as such. [[anatomy-of-the-state|Anatomy of the State]] distinguishes society from the political apparatus that rules it. [[the-politics-of-obedience|The Politics of Obedience]] explains how domination persists through habit, ideology, and consent. Spooner's [[lets-abolish-government|Let's Abolish Government]] attacks the claim that constitutional forms manufacture legitimate authority. These sources converge in [[state-power-and-intervention|State Power and Intervention]]: the state is criticized not simply for bad policy choices but for claiming rights that ordinary persons do not have.
 
 ## Historical State Formation
 

@@ -12,7 +12,7 @@ summary: "Reference guide to Charles Tilly's historical-sociological account of 
 
 # Coercion, Capital, and European States
 
-> *Coercion, Capital, and European States* is Charles Tilly's thousand-year account of how European rulers built durable state organizations through war-making, extraction, coercive consolidation, and bargaining with holders of capital. It gives this wiki a non-libertarian historical-sociology counterpart to the Oppenheimer/Nock/Rothbard state critique.
+> [[coercion-capital-and-european-states|Coercion, Capital, and European States]] is Charles Tilly's thousand-year account of how European rulers built durable state organizations through war-making, extraction, coercive consolidation, and bargaining with holders of capital. It gives this wiki a non-libertarian historical-sociology counterpart to the Oppenheimer/Nock/Rothbard state critique.
 
 ## Text Status
 

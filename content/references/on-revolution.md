@@ -12,7 +12,7 @@ summary: "Reference guide to Hannah Arendt's 1963 comparison of the American and
 
 # On Revolution
 
-> *On Revolution* is [[hannah-arendt|Hannah Arendt]]'s comparison of modern revolutions, especially the American and French cases. It is useful here because it distinguishes liberation from public freedom and treats political founding as a durable public activity rather than merely a transfer of rule.
+> [[on-revolution|On Revolution]] is [[hannah-arendt|Hannah Arendt]]'s comparison of modern revolutions, especially the American and French cases. It is useful here because it distinguishes liberation from public freedom and treats political founding as a durable public activity rather than merely a transfer of rule.
 
 ## Text Status
 

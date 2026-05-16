@@ -12,7 +12,7 @@ summary: "Reference guide to Carl Schmitt's The Concept of the Political, especi
 
 # The Concept of the Political
 
-> *The Concept of the Political* is [[carl-schmitt|Carl Schmitt]]'s attempt to define the political by its own criterion: the distinction between friend and enemy. In this wiki it is a non-libertarian critique of liberal depoliticization and the state's claim to decide public conflict.
+> [[the-concept-of-the-political|The Concept of the Political]] is [[carl-schmitt|Carl Schmitt]]'s attempt to define the political by its own criterion: the distinction between friend and enemy. In this wiki it is a non-libertarian critique of liberal depoliticization and the state's claim to decide public conflict.
 
 ## Text Status
 

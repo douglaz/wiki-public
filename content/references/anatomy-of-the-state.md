@@ -12,7 +12,7 @@ summary: "Reference guide to Rothbard's concise anti-state essay on political mo
 
 # Anatomy of the State
 
-> *Anatomy of the State* is the shortest direct route in this wiki to Rothbard's account of what the state is, how it preserves itself, and why it lives parasitically on society. It is brief, but it supplies much of the anti-state vocabulary that later compiled articles rely on.
+> [[anatomy-of-the-state|Anatomy of the State]] is the shortest direct route in this wiki to Rothbard's account of what the state is, how it preserves itself, and why it lives parasitically on society. It is brief, but it supplies much of the anti-state vocabulary that later compiled articles rely on.
 
 ## What the Book Argues
 
@@ -32,7 +32,7 @@ The current raw source aggregates 7 reading-order pages from the Mises online-bo
 
 ## Relation to Other Rothbard Texts
 
-In the current reference set, this book is the compressed companion to [[for-a-new-liberty|For a New Liberty]]. The latter broadens the political program and applications, while *Anatomy of the State* strips the issue down to the core structure of political monopoly. It also pairs naturally with [[the-politics-of-obedience|The Politics of Obedience]], which focuses more heavily on consent, habit, and acquiescence.
+In the current reference set, this book is the compressed companion to [[for-a-new-liberty|For a New Liberty]]. The latter broadens the political program and applications, while [[anatomy-of-the-state|Anatomy of the State]] strips the issue down to the core structure of political monopoly. It also pairs naturally with [[the-politics-of-obedience|The Politics of Obedience]], which focuses more heavily on consent, habit, and acquiescence.
 
 ## See Also
 

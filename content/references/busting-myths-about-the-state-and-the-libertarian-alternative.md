@@ -12,7 +12,7 @@ summary: "Reference guide to Zack Rofer's accessible libertarian primer on commo
 
 # Busting Myths about the State and the Libertarian Alternative
 
-> *Busting Myths about the State and the Libertarian Alternative* is one of the most accessible books in the current source set. It matters in this wiki because it translates core libertarian claims into a direct myth-versus-argument format aimed at persuasion rather than at full-scale treatise building.
+> [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] is one of the most accessible books in the current source set. It matters in this wiki because it translates core libertarian claims into a direct myth-versus-argument format aimed at persuasion rather than at full-scale treatise building.
 
 ## What the Book Covers
 

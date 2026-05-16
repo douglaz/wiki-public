@@ -12,7 +12,7 @@ summary: "Reference guide to Hannah Arendt's 1963 report on Adolf Eichmann's Jer
 
 # Eichmann in Jerusalem
 
-> *Eichmann in Jerusalem* is Hannah Arendt's report on Adolf Eichmann's trial and her source for the phrase "the banality of evil." It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
+> [[eichmann-in-jerusalem|Eichmann in Jerusalem]] is Hannah Arendt's report on Adolf Eichmann's trial and her source for the phrase "the banality of evil." It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
 
 ## Text Status
 
@@ -38,7 +38,7 @@ The wiki should handle the controversy neutrally. Arendt was not exculpating Eic
 
 ## Companion to Origins
 
-[[the-origins-of-totalitarianism|The Origins of Totalitarianism]] analyzes totalitarian movements, ideology, terror, camps, and total domination. *Eichmann in Jerusalem* does not replace that account. It narrows the lens from the regime to the participant: the person who organized deportations, obeyed orders, treated legality as regime command, and could still appear ordinary rather than monstrous.
+[[the-origins-of-totalitarianism|The Origins of Totalitarianism]] analyzes totalitarian movements, ideology, terror, camps, and total domination. [[eichmann-in-jerusalem|Eichmann in Jerusalem]] does not replace that account. It narrows the lens from the regime to the participant: the person who organized deportations, obeyed orders, treated legality as regime command, and could still appear ordinary rather than monstrous.
 
 That makes [[banality-of-evil|Banality of Evil]] a bridge concept between [[totalitarianism|Totalitarianism]] and [[mass-society-and-atomization|Mass Society and Atomization]].
 

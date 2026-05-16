@@ -12,7 +12,7 @@ summary: "Reference guide to Mises's *The Theory of Money and Credit* (1912 Germ
 
 # The Theory of Money and Credit
 
-*The Theory of Money and Credit* (1912) is the foundation text of Austrian monetary economics. Mises, then 31, pulled together marginal-utility value theory, the structure of banking, and the time structure of credit into a single causal-realist account that treated money as just another good whose value is determined on the market — and showed how that account dissolves the long-running puzzles of monetary theory. The 1953 Yale "new edition" the wiki ingests adds *Monetary Reconstruction*, Mises's postwar essay on returning to sound money.
+[[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912) is the foundation text of Austrian monetary economics. Mises, then 31, pulled together marginal-utility value theory, the structure of banking, and the time structure of credit into a single causal-realist account that treated money as just another good whose value is determined on the market — and showed how that account dissolves the long-running puzzles of monetary theory. The 1953 Yale "new edition" the wiki ingests adds *Monetary Reconstruction*, Mises's postwar essay on returning to sound money.
 
 ## What the Book Argues
 
@@ -47,7 +47,7 @@ Some pdftotext artifacts remain — running headers occasionally interleave with
 
 ## Relation to Mises's Other Texts
 
-TMC is the earliest of the Mises books in this wiki. It precedes [[socialism|Socialism]] (1922), [[liberalism|Liberalism]] (1927), [[human-action|Human Action]] (1949), and [[theory-and-history|Theory and History]] (1957). Mises's mature monetary theory in *Human Action* Ch. XVII–XX is recognisably the same system as TMC, but more compressed and integrated with the wider praxeological framework. Where the two diverge in detail, *Human Action* is normally treated as the more authoritative statement; TMC is the historical primary source.
+TMC is the earliest of the Mises books in this wiki. It precedes [[socialism|Socialism]] (1922), [[liberalism|Liberalism]] (1927), [[human-action|Human Action]] (1949), and [[theory-and-history|Theory and History]] (1957). Mises's mature monetary theory in [[human-action|Human Action]] Ch. XVII–XX is recognisably the same system as TMC, but more compressed and integrated with the wider praxeological framework. Where the two diverge in detail, [[human-action|Human Action]] is normally treated as the more authoritative statement; TMC is the historical primary source.
 
 The book also stands as the immediate Austrian background to [[friedrich-a-hayek|Hayek]]'s monetary work in [[prices-and-production|Prices and Production]] and [[murray-n-rothbard|Rothbard]]'s in [[man-economy-and-state|Man, Economy, and State]] Ch. 11.
 

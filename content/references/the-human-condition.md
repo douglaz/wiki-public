@@ -12,7 +12,7 @@ summary: "Reference guide to Hannah Arendt's 1958 account of vita activa: labor,
 
 # The Human Condition
 
-> *The Human Condition* is [[hannah-arendt|Hannah Arendt]]'s account of human active life: labor, work, and action. It gives the wiki a non-libertarian vocabulary for public freedom, plurality, and the loss of politics into social administration.
+> [[the-human-condition|The Human Condition]] is [[hannah-arendt|Hannah Arendt]]'s account of human active life: labor, work, and action. It gives the wiki a non-libertarian vocabulary for public freedom, plurality, and the loss of politics into social administration.
 
 ## Text Status
 
@@ -26,7 +26,7 @@ Arendt's public/private distinction is not the same as the modern libertarian st
 
 ## Place in This Wiki
 
-The work supports [[vita-activa|Vita Activa]] and [[the-rise-of-the-social|The Rise of the Social]]. It also makes *On Violence* easier to read: power is rooted in action in concert, not in instruments of coercion.
+The work supports [[vita-activa|Vita Activa]] and [[the-rise-of-the-social|The Rise of the Social]]. It also makes [[on-violence|On Violence]] easier to read: power is rooted in action in concert, not in instruments of coercion.
 
 The book should be handled carefully. Arendt's suspicion of the social question is not a libertarian defense of markets; it is a republican worry that necessity and administration can displace public freedom.
 

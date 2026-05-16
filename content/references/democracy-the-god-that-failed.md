@@ -12,7 +12,7 @@ summary: "Reference guide to Hoppe's 2001 regime-comparison book on monarchy, de
 
 # Democracy: The God That Failed
 
-> *Democracy: The God That Failed* is Hoppe's regime-comparison book: a thirteen-essay argument that the transition from monarchy to mass democracy changed the incentive structure of political rule, raised social time preference, weakened property security, and accelerated the growth of the modern state.
+> [[democracy-the-god-that-failed|Democracy: The God That Failed]] is Hoppe's regime-comparison book: a thirteen-essay argument that the transition from monarchy to mass democracy changed the incentive structure of political rule, raised social time preference, weakened property security, and accelerated the growth of the modern state.
 
 ## Argument
 
@@ -30,7 +30,7 @@ The book's constructive alternative is "natural order": private-law society, pri
 
 ## Place in Hoppe's Corpus
 
-Within this wiki, [[hans-hermann-hoppe|Hans-Hermann Hoppe]] is already represented by property-rights, socialism, taxation, and private-security arguments. *Democracy* adds the historical and sociological layer. It ties the property framework from *A Theory of Socialism and Capitalism* and *The Economics and Ethics of Private Property* to a theory of regime incentives: why democratic states, once accepted as legitimate, tend to grow differently from monarchic states.
+Within this wiki, [[hans-hermann-hoppe|Hans-Hermann Hoppe]] is already represented by property-rights, socialism, taxation, and private-security arguments. [[democracy-the-god-that-failed|Democracy]] adds the historical and sociological layer. It ties the property framework from *A Theory of Socialism and Capitalism* and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] to a theory of regime incentives: why democratic states, once accepted as legitimate, tend to grow differently from monarchic states.
 
 For [[evolution-of-the-state|Evolution of the State]], this matters because Hoppe is not offering an origin theory like Oppenheimer. The state already exists. The question is what changes when political control shifts from private dynastic rule to public electoral management.
 

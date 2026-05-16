@@ -12,7 +12,7 @@ summary: "Reference guide to Jason Lowery's 2023 MIT SDM master's thesis arguing
 
 # Softwar
 
-> *Softwar* is Jason Lowery's 2023 MIT System Design and Management master's thesis on Bitcoin, proof-of-work, and national strategic security. Its distinctive claim is that Bitcoin can be analyzed as electro-cyber power projection: a way to impose real physical costs in, from, and through cyberspace.
+> [[softwar|Softwar]] is Jason Lowery's 2023 MIT System Design and Management master's thesis on Bitcoin, proof-of-work, and national strategic security. Its distinctive claim is that Bitcoin can be analyzed as electro-cyber power projection: a way to impose real physical costs in, from, and through cyberspace.
 
 ## What the Thesis Argues
 

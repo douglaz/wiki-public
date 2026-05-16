@@ -12,7 +12,7 @@ summary: "Reference guide to the Tannehills' full-scale case for private law, ar
 
 # The Market for Liberty
 
-> *The Market for Liberty* is the most explicit institutional blueprint for anarcho-capitalist order in the current book set. It matters because it does not stop at criticizing the state; it tries to describe what courts, protection, arbitration, title systems, and social coordination would look like without political monopoly.
+> [[the-market-for-liberty|The Market for Liberty]] is the most explicit institutional blueprint for anarcho-capitalist order in the current book set. It matters because it does not stop at criticizing the state; it tries to describe what courts, protection, arbitration, title systems, and social coordination would look like without political monopoly.
 
 ## What the Book Covers
 

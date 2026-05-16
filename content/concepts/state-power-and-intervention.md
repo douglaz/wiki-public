@@ -16,7 +16,7 @@ summary: "Libertarian account of the state as legalized privilege: conquest orig
 
 ## What Makes the State Distinctive
 
-*Anatomy of the State* and *For a New Liberty* both insist that society and state are not the same thing. Bastiat's *The Law* sharpens the point by arguing that once law is used to transfer wealth or status, it becomes an instrument of plunder rather than justice. [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] frames the state as institutionalized interference with property rights and forced membership. In this wiki, then, the state is not just a big organization. It is a rule-breaking organization that claims a legal exemption from the norms summarized in [[nonaggression-and-property-rights|Nonaggression and Property Rights]].
+[[anatomy-of-the-state|Anatomy of the State]] and [[for-a-new-liberty|For a New Liberty]] both insist that society and state are not the same thing. Bastiat's [[the-law|The Law]] sharpens the point by arguing that once law is used to transfer wealth or status, it becomes an instrument of plunder rather than justice. [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] frames the state as institutionalized interference with property rights and forced membership. In this wiki, then, the state is not just a big organization. It is a rule-breaking organization that claims a legal exemption from the norms summarized in [[nonaggression-and-property-rights|Nonaggression and Property Rights]].
 
 ## Historical Evolution Layer
 
@@ -56,7 +56,7 @@ That distinction sharpens rather than weakens the anti-state analysis. The moder
 
 ## Intervention as a Cumulative Process
 
-[[man-economy-and-state|Man, Economy, and State]] matters here because it turns moral complaint into economic analysis. The *Power and Market* material treats taxes, price controls, monopoly grants, and other interventions as disturbances that create further distortions and pressures for more intervention. The same logic is set out earlier and more directly by [[ludwig-von-mises|Mises]] under the label "destructionism" in [[socialism|Socialism]] and applied politically in [[liberalism|Liberalism]]. [[hans-hermann-hoppe|Hoppe]] restates it in property-rights form, and the accessible polemic *Busting Myths about the State and the Libertarian Alternative* applies it issue by issue. Intervention is therefore not a one-off technique in this corpus. It is a destabilizing process. The argument Rothbard makes in [[sales-tax-incidence|Sales Tax Incidence]] is one concrete case of that wider approach.
+[[man-economy-and-state|Man, Economy, and State]] matters here because it turns moral complaint into economic analysis. The [[power-and-market|Power and Market]] material treats taxes, price controls, monopoly grants, and other interventions as disturbances that create further distortions and pressures for more intervention. The same logic is set out earlier and more directly by [[ludwig-von-mises|Mises]] under the label "destructionism" in [[socialism|Socialism]] and applied politically in [[liberalism|Liberalism]]. [[hans-hermann-hoppe|Hoppe]] restates it in property-rights form, and the accessible polemic [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] applies it issue by issue. Intervention is therefore not a one-off technique in this corpus. It is a destabilizing process. The argument Rothbard makes in [[sales-tax-incidence|Sales Tax Incidence]] is one concrete case of that wider approach.
 
 ## The Calculation and Knowledge Arguments
 
@@ -64,7 +64,7 @@ The wiki's case against central planning rests on two complementary Austrian the
 
 ## Obedience, Myth, and Legitimacy
 
-The present source set does not explain state power by force alone. *The Politics of Obedience* emphasizes custom, collaboration, and the withdrawal of consent. Spooner's *Let's Abolish Government* attacks the claim that constitutions or voting rituals create actual obligation. Rothbard's anti-state writings add the role of ideology and intellectual legitimation. Together these books depict state power as partly military, partly fiscal, and partly psychological.
+The present source set does not explain state power by force alone. [[the-politics-of-obedience|The Politics of Obedience]] emphasizes custom, collaboration, and the withdrawal of consent. Spooner's [[lets-abolish-government|Let's Abolish Government]] attacks the claim that constitutions or voting rituals create actual obligation. Rothbard's anti-state writings add the role of ideology and intellectual legitimation. Together these books depict state power as partly military, partly fiscal, and partly psychological.
 
 ## From Critique to Alternative
 
@@ -81,7 +81,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline used to judge intervention
 - [[austrian-economics|Austrian Economics]] - economic framework used to analyze intervention
 - [[sales-tax-incidence|Sales Tax Incidence]] - Rothbard's analysis of who ultimately bears a general sales tax
-- [[rothbard-on-price-controls|Rothbard on Price Controls]] - Rothbard's *Power and Market* maximum-price control analysis, a concrete instance of triangular intervention
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - Rothbard's [[power-and-market|Power and Market]] maximum-price control analysis, a concrete instance of triangular intervention
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - Misesian residential-rent-ceiling instance of the intervention frame
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternatives to state monopoly
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - author whose property-centered anti-state analysis is used repeatedly here

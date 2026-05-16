@@ -16,7 +16,7 @@ summary: "Normative core of the current corpus: self-ownership, property, contra
 
 ## Axiom and Scope
 
-*For a New Liberty* states the rule in its familiar form: no person or group may aggress against the person or property of another. The importance of the formula in this corpus is that it does not stop at a plea for civility. It reaches taxation, war, regulation, confiscation, compulsory labor, and monopoly law. The rule is therefore both interpersonal and institutional, which is why it sits at the center of [[libertarianism|Libertarianism]].
+[[for-a-new-liberty|For a New Liberty]] states the rule in its familiar form: no person or group may aggress against the person or property of another. The importance of the formula in this corpus is that it does not stop at a plea for civility. It reaches taxation, war, regulation, confiscation, compulsory labor, and monopoly law. The rule is therefore both interpersonal and institutional, which is why it sits at the center of [[libertarianism|Libertarianism]].
 
 ## Why Property Is Part of the Rule
 
@@ -34,7 +34,7 @@ That distinction matters. Compelling a person to disclose, entering a home or de
 
 ## Contract, Law, and Retaliation
 
-The Tannehills' *The Market for Liberty* pushes the same point into institutional form. If persons and property are primary, then courts, arbitration, defense, and insurance should be organized around restitution and defense rather than around political privilege. Bastiat's *The Law* sharpens the contrast: when law takes from one to give to another, legality does not cleanse the act. In the present wiki graph, that connection runs directly into [[state-power-and-intervention|State Power and Intervention]] and [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
+The Tannehills' [[the-market-for-liberty|The Market for Liberty]] pushes the same point into institutional form. If persons and property are primary, then courts, arbitration, defense, and insurance should be organized around restitution and defense rather than around political privilege. Bastiat's [[the-law|The Law]] sharpens the contrast: when law takes from one to give to another, legality does not cleanse the act. In the present wiki graph, that connection runs directly into [[state-power-and-intervention|State Power and Intervention]] and [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
 ## Two Defenses: Natural Rights vs. Consequentialism
 

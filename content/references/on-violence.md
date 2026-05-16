@@ -12,11 +12,11 @@ summary: "Reference guide to Hannah Arendt's 1970 essay distinguishing power, st
 
 # On Violence
 
-> *On Violence* is [[hannah-arendt|Hannah Arendt]]'s late-1960s essay on war, revolution, student movements, race politics, and the conceptual confusion that treats violence as the essence of power. In this wiki it matters because it sharpens the boundary between ordinary state coercion, sustainable power, and totalitarian terror.
+> [[on-violence|On Violence]] is [[hannah-arendt|Hannah Arendt]]'s late-1960s essay on war, revolution, student movements, race politics, and the conceptual confusion that treats violence as the essence of power. In this wiki it matters because it sharpens the boundary between ordinary state coercion, sustainable power, and totalitarian terror.
 
 ## Text Status
 
-The raw source is an OCR extraction of the *On Violence* essay from a Monoskop scan of *Crises of the Republic*. The scan was image-only, so the text was OCRed locally on 2026-05-12. It includes the essay's three main sections and notes as recovered by OCR.
+The raw source is an OCR extraction of the [[on-violence|On Violence]] essay from a Monoskop scan of *Crises of the Republic*. The scan was image-only, so the text was OCRed locally on 2026-05-12. It includes the essay's three main sections and notes as recovered by OCR.
 
 ## Argument Map
 
@@ -36,7 +36,7 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[violence-vs-power|Violence vs Power]] - concept distilled from this essay
 - [[the-human-condition|The Human Condition]] - Arendt's fuller account of action, plurality, and public power
 - [[on-revolution|On Revolution]] - companion work on founding, public freedom, and council traditions
-- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - regime-level account that *On Violence* helps bound
+- [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - regime-level account that [[on-violence|On Violence]] helps bound
 - [[totalitarianism|Totalitarianism]] - concept sharpened by the power/violence distinction
 - [[total-domination|Total Domination]] - endpoint where violence and terror destroy spontaneous power
 - [[banality-of-evil|Banality of Evil]] - participant-side Arendt concept

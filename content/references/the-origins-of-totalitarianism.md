@@ -12,13 +12,13 @@ summary: "Reference guide to Hannah Arendt's 1951 study of antisemitism, imperia
 
 # The Origins of Totalitarianism
 
-> *The Origins of Totalitarianism* is [[hannah-arendt|Hannah Arendt]]'s account of how nineteenth-century antisemitism, imperialism, statelessness, mass society, ideology, and terror created the conditions for twentieth-century totalitarian rule. It gives this wiki the missing distinction between ordinary dictatorship and totalitarianism as a novel political form.
+> [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is [[hannah-arendt|Hannah Arendt]]'s account of how nineteenth-century antisemitism, imperialism, statelessness, mass society, ideology, and terror created the conditions for twentieth-century totalitarian rule. It gives this wiki the missing distinction between ordinary dictatorship and totalitarianism as a novel political form.
 
 ## Text Status
 
 The raw source is a full-text OCR ingest from a non-official Internet Archive scan of the 1973 Harvest / Harcourt edition with added prefaces. The scan includes the prefaces, all three parts, all thirteen chapters, and the bibliography. The page-number index is present in the source PDF but omitted from the raw markdown because it is not useful as searchable text.
 
-The canonical citation for wiki purposes is the Harcourt Brace Jovanovich / Harvest 1973 edition of *The Origins of Totalitarianism*. The original book appeared in 1951, with later revised editions in 1958 and 1968 before the 1973 Harvest reprint represented by the scan.
+The canonical citation for wiki purposes is the Harcourt Brace Jovanovich / Harvest 1973 edition of [[the-origins-of-totalitarianism|The Origins of Totalitarianism]]. The original book appeared in 1951, with later revised editions in 1958 and 1968 before the 1973 Harvest reprint represented by the scan.
 
 ## Provenance and Rights
 

@@ -12,7 +12,7 @@ summary: "Reference guide to Rothbard's Power and Market (1970) — the standalo
 
 # Power and Market
 
-> *Power and Market: Government and the Economy* (1970) is Rothbard's standalone analytic treatment of government intervention in the market economy. Where *Man, Economy, and State* lays out the free-market system as a positive object, *Power and Market* takes the same praxeological apparatus and turns it on the State. The wiki tracks the two volumes separately because their subject matter is distinct — market process versus intervention.
+> *Power and Market: Government and the Economy* (1970) is Rothbard's standalone analytic treatment of government intervention in the market economy. Where [[man-economy-and-state|Man, Economy, and State]] lays out the free-market system as a positive object, [[power-and-market|Power and Market]] takes the same praxeological apparatus and turns it on the State. The wiki tracks the two volumes separately because their subject matter is distinct — market process versus intervention.
 
 ## What the Book Covers
 
@@ -20,28 +20,28 @@ The book proceeds in seven chapters. Chapter 1 ("Defenses on the Free Market") c
 
 ## Why It Matters in This Wiki
 
-The book is the primary source for the wiki's [[state-power-and-intervention|State Power and Intervention]] analysis and the autistic/binary/triangular typology that is now used across multiple downstream theses — including programmable central-bank money. It is also the canonical Rothbardian statement on [[rothbard-on-price-controls|maximum-price control]] (Ch. 3) and on [[sales-tax-incidence|general sales tax incidence]] (Ch. 4). The wiki cites *Power and Market* whenever a claim is about Rothbard-on-government rather than Rothbard-on-the-market.
+The book is the primary source for the wiki's [[state-power-and-intervention|State Power and Intervention]] analysis and the autistic/binary/triangular typology that is now used across multiple downstream theses — including programmable central-bank money. It is also the canonical Rothbardian statement on [[rothbard-on-price-controls|maximum-price control]] (Ch. 3) and on [[sales-tax-incidence|general sales tax incidence]] (Ch. 4). The wiki cites [[power-and-market|Power and Market]] whenever a claim is about Rothbard-on-government rather than Rothbard-on-the-market.
 
-The split from *Man, Economy, and State* matters because the methods differ. *MES* is structural Austrian economics — action, exchange, production, money. *Power and Market* applies that machinery to State action and produces categorical predictions: which interventions raise utility, which lower it, which generate further intervention, which can never be neutral in their incidence. Theses in this wiki rely on those categorical predictions rather than on the structural theory directly.
+The split from [[man-economy-and-state|Man, Economy, and State]] matters because the methods differ. *MES* is structural Austrian economics — action, exchange, production, money. [[power-and-market|Power and Market]] applies that machinery to State action and produces categorical predictions: which interventions raise utility, which lower it, which generate further intervention, which can never be neutral in their incidence. Theses in this wiki rely on those categorical predictions rather than on the structural theory directly.
 
 ## Provenance and Compile Value
 
-The raw source was assembled on 2026-05-16 from the Mises Institute online-book HTML export (Drupal `book/export/html/64039`), which yields the entire book in a single document with the original article/section nesting preserved. This gives the wiki the full text of all seven chapters plus the bibliography in the canonical heading structure — chapters as H2, lettered/numbered sections as H3, sub-subsections as H4. The full text supports direct quotation in downstream theses; prior to this ingest, *Power and Market* material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
+The raw source was assembled on 2026-05-16 from the Mises Institute online-book HTML export (Drupal `book/export/html/64039`), which yields the entire book in a single document with the original article/section nesting preserved. This gives the wiki the full text of all seven chapters plus the bibliography in the canonical heading structure — chapters as H2, lettered/numbered sections as H3, sub-subsections as H4. The full text supports direct quotation in downstream theses; prior to this ingest, [[power-and-market|Power and Market]] material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
 
 ## See Also
 
-- [[man-economy-and-state|Man, Economy, and State]] - the 1962 sister volume; *Power and Market* is its 1970 companion on intervention
+- [[man-economy-and-state|Man, Economy, and State]] - the 1962 sister volume; [[power-and-market|Power and Market]] is its 1970 companion on intervention
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the wider corpus
 - [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process concept article that draws directly on this book
-- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that *Power and Market* extends praxeologically
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that [[power-and-market|Power and Market]] extends praxeologically
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's Ch. 4 treatment of general sales tax incidence
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 "Triangular Intervention: Price Control" treatment
 - [[economic-calculation-problem|Economic Calculation Problem]] - Misesian core the triangular-intervention analysis sits on
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative axiom Ch. 1 operationalizes for defense-on-the-market
 - [[austrian-economics|Austrian Economics]] - school whose intervention analysis this book is the canonical Rothbardian statement of
 - [[libertarianism|Libertarianism]] - political doctrine that often relies on this book's intervention typology
-- [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's methodological source; *Power and Market*'s praxeological critiques extend Mises's intervention chapter from *Human Action*
-- [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's later natural-rights treatise; Ch. 6 of *Power and Market* prefigures its antimarket-ethics critique
+- [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's methodological source; [[power-and-market|Power and Market]]'s praxeological critiques extend Mises's intervention chapter from [[human-action|Human Action]]
+- [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's later natural-rights treatise; Ch. 6 of [[power-and-market|Power and Market]] prefigures its antimarket-ethics critique
 - [[for-a-new-liberty|For a New Liberty]] - Rothbard's movement-level overview that relies on this book's intervention analysis as its economic base
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the Ch. 3 "Triangular Intervention: Price Control" section
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Rothbard's general intervention-as-cumulative-process treatment

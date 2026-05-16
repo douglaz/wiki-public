@@ -12,7 +12,7 @@ summary: "Reference guide to Michel Foucault's Discipline and Punish, especially
 
 # Discipline and Punish
 
-> *Discipline and Punish* is [[michel-foucault|Michel Foucault]]'s genealogy of modern punishment and discipline. It matters here because it shows a non-libertarian path from spectacular sovereign punishment to diffuse institutional control.
+> [[discipline-and-punish|Discipline and Punish]] is [[michel-foucault|Michel Foucault]]'s genealogy of modern punishment and discipline. It matters here because it shows a non-libertarian path from spectacular sovereign punishment to diffuse institutional control.
 
 ## Text Status
 

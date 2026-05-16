@@ -12,7 +12,7 @@ summary: "Short author reference for Albert Jay Nock, the American essayist and 
 
 # Albert Jay Nock
 
-> Albert Jay Nock enters this wiki as the American writer who turns Oppenheimer's state sociology into a diagnosis of American political development. His importance here is concentrated in *Our Enemy, the State*, the social-power/state-power vocabulary, and the Old Right anti-statist transmission line.
+> Albert Jay Nock enters this wiki as the American writer who turns Oppenheimer's state sociology into a diagnosis of American political development. His importance here is concentrated in [[our-enemy-the-state|Our Enemy, the State]], the social-power/state-power vocabulary, and the Old Right anti-statist transmission line.
 
 ## Biographical Frame
 
@@ -22,7 +22,7 @@ The supplied extraction of [[our-enemy-the-state|Our Enemy, the State]] includes
 
 ## The Remnant and the State
 
-Nock's later "remnant" idea is strategic rather than strictly theoretical: when mass persuasion is unlikely, the writer speaks to a scattered minority capable of understanding the argument. That posture fits the pessimistic ending of *Our Enemy, the State*, where Nock doubts that state aggrandizement can be practically reversed by ordinary politics.
+Nock's later "remnant" idea is strategic rather than strictly theoretical: when mass persuasion is unlikely, the writer speaks to a scattered minority capable of understanding the argument. That posture fits the pessimistic ending of [[our-enemy-the-state|Our Enemy, the State]], where Nock doubts that state aggrandizement can be practically reversed by ordinary politics.
 
 For this wiki, the main theoretical contribution is not the remnant idea by itself. It is Nock's synthesis of [[franz-oppenheimer|Franz Oppenheimer]] with American history. Nock distinguishes social power from state power and treats the state as an apparatus for converting the former into the latter.
 

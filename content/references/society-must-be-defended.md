@@ -12,7 +12,7 @@ summary: "Reference guide to Michel Foucault's 1975-1976 lectures on war, sovere
 
 # Society Must Be Defended
 
-> *Society Must Be Defended* is [[michel-foucault|Michel Foucault]]'s 1975-1976 lecture course on war, sovereignty, race, discipline, and biopower. It matters here because it explains a modern power that presents itself as managing life, health, population, and security.
+> [[society-must-be-defended|Society Must Be Defended]] is [[michel-foucault|Michel Foucault]]'s 1975-1976 lecture course on war, sovereignty, race, discipline, and biopower. It matters here because it explains a modern power that presents itself as managing life, health, population, and security.
 
 ## Text Status
 

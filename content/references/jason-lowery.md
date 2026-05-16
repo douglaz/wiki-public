@@ -12,7 +12,7 @@ summary: "Short author reference for Jason P. Lowery as represented by *Softwar*
 
 # Jason Lowery
 
-> Jason P. Lowery enters this wiki through *Softwar*, a 2023 MIT System Design and Management master's thesis. The current profile stays narrow: it uses biographical details stated in the thesis itself and treats Lowery as a national-security author, not as a libertarian theorist.
+> Jason P. Lowery enters this wiki through [[softwar|Softwar]], a 2023 MIT System Design and Management master's thesis. The current profile stays narrow: it uses biographical details stated in the thesis itself and treats Lowery as a national-security author, not as a libertarian theorist.
 
 ## Work Present Here
 
@@ -22,7 +22,7 @@ The thesis identifies Lowery as a Major, a Department of Defense-sponsored US Na
 
 ## Education and Context
 
-The title page lists a Master of Science in Astronautical Engineering from the Air Force Institute of Technology in 2017 and a Bachelor of Science in Mechanical Engineering from Baylor University in 2010. That context matters because *Softwar* is not primarily a monetary-economics text. It is written from a systems, military-strategy, and national-security perspective.
+The title page lists a Master of Science in Astronautical Engineering from the Air Force Institute of Technology in 2017 and a Bachelor of Science in Mechanical Engineering from Baylor University in 2010. That context matters because [[softwar|Softwar]] is not primarily a monetary-economics text. It is written from a systems, military-strategy, and national-security perspective.
 
 ## Place in This Wiki
 

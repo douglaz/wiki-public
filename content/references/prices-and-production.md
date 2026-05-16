@@ -12,14 +12,14 @@ summary: "Reference guide to the Mises Institute's collected edition of Hayek's 
 
 # Prices and Production and Other Works
 
-> *Prices and Production and Other Works* is the Mises Institute's collected edition of Hayek's principal works on money, capital, and the business cycle, with an editorial introduction by Joseph Salerno. Together the four texts develop the Austrian theory of the business cycle: credit expansion by the banking system distorts the structure of production and produces an inevitable corrective downturn.
+> [[prices-and-production|Prices and Production and Other Works]] is the Mises Institute's collected edition of Hayek's principal works on money, capital, and the business cycle, with an editorial introduction by Joseph Salerno. Together the four texts develop the Austrian theory of the business cycle: credit expansion by the banking system distorts the structure of production and produces an inevitable corrective downturn.
 
 ## What the Volume Contains
 
 The collection brings together four works originally published 1929–1939:
 
 - ***Monetary Theory and the Trade Cycle*** (1929 / English 1933) — Hayek's earliest statement, situating the cycle in monetary disturbances rather than non-monetary "real" causes.
-- ***Prices and Production*** (1931, expanded 1935) — the central theoretical statement, presenting the structure of production via the famous Hayekian triangles and showing how credit-expansion-induced lower-than-natural interest rates lengthen and distort the production structure.
+- **[[prices-and-production|Prices and Production]]** (1931, expanded 1935) — the central theoretical statement, presenting the structure of production via the famous Hayekian triangles and showing how credit-expansion-induced lower-than-natural interest rates lengthen and distort the production structure.
 - ***Monetary Nationalism and International Stability*** (1937) — Hayek's defense of an international gold-standard-like discipline against the rise of national fiat-money management.
 - ***Profits, Interest, and Investment*** (1939) — later refinements responding to interwar critiques and to Keynes's *General Theory*.
 
@@ -44,7 +44,7 @@ This is the technical-economic side of Hayek's project. Its concerns barely surf
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's continuation in the same theoretical line
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's epistemological companion volume
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the monetary tradition Hayek extends here
-- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that laid the proto-cycle groundwork Hayek's *Prices and Production* lectures (1931) develop into the mature ABCT
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that laid the proto-cycle groundwork Hayek's [[prices-and-production|Prices and Production]] lectures (1931) develop into the mature ABCT
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Hayek's capital-theoretic foundation
 

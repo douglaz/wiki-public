@@ -20,7 +20,7 @@ Mises identifies the foundation of social cooperation as private ownership of th
 
 ## Why It Matters in This Wiki
 
-*Liberalism* is the most accessible Mises text in the current corpus. It bridges the technical economics of [[human-action|Human Action]] and the libertarian political program represented in the wiki by [[for-a-new-liberty|For a New Liberty]]. Its consequentialist defense of liberty also marks the methodological gap between Mises and Rothbard — a gap [[the-ethics-of-liberty|The Ethics of Liberty]] argues across by reasserting the natural-rights foundation Mises set aside.
+[[liberalism|Liberalism]] is the most accessible Mises text in the current corpus. It bridges the technical economics of [[human-action|Human Action]] and the libertarian political program represented in the wiki by [[for-a-new-liberty|For a New Liberty]]. Its consequentialist defense of liberty also marks the methodological gap between Mises and Rothbard — a gap [[the-ethics-of-liberty|The Ethics of Liberty]] argues across by reasserting the natural-rights foundation Mises set aside.
 
 ## Scope of the Full-Text Ingest
 
@@ -28,7 +28,7 @@ The current raw source is the Mises Institute's PDF of the 3rd English edition (
 
 ## Relation to Mises's Other Texts
 
-This book is the political-philosophy companion to [[socialism|Socialism]] (1922) and the predecessor to the political chapters of [[human-action|Human Action]] (1949). Together they form a tight three-text loop: *Socialism* shows why central planning cannot work, *Liberalism* shows what an alternative society looks like, and *Human Action* embeds both arguments in a complete deductive system.
+This book is the political-philosophy companion to [[socialism|Socialism]] (1922) and the predecessor to the political chapters of [[human-action|Human Action]] (1949). Together they form a tight three-text loop: [[socialism|Socialism]] shows why central planning cannot work, [[liberalism|Liberalism]] shows what an alternative society looks like, and [[human-action|Human Action]] embeds both arguments in a complete deductive system.
 
 ## See Also
 

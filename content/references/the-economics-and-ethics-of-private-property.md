@@ -12,7 +12,7 @@ summary: "Reference guide to Hoppe's collected essays on property, taxation, mon
 
 # The Economics and Ethics of Private Property
 
-> *The Economics and Ethics of Private Property* is the widest-ranging Hoppe book currently ingested into this wiki. It matters because it takes a property-centered framework and applies it across taxation, public goods, money, banking, class analysis, security, war, and ethics.
+> [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] is the widest-ranging Hoppe book currently ingested into this wiki. It matters because it takes a property-centered framework and applies it across taxation, public goods, money, banking, class analysis, security, war, and ethics.
 
 ## What the Book Covers
 

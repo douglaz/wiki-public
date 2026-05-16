@@ -12,7 +12,7 @@ summary: "Reference guide to Rothbard's natural-rights treatise (1982/1998) on t
 
 # The Ethics of Liberty
 
-> *The Ethics of Liberty* is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. Written in 1982 and reissued in 1998 with an introduction by Hans-Hermann Hoppe, it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
+> [[the-ethics-of-liberty|The Ethics of Liberty]] is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. Written in 1982 and reissued in 1998 with an introduction by Hans-Hermann Hoppe, it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
 
 ## What the Book Argues
 
@@ -20,7 +20,7 @@ Rothbard's argument moves from natural-law ethics through self-ownership to a th
 
 ## Why It Matters in This Wiki
 
-This is the natural-rights side of Rothbard's system. [[man-economy-and-state|Man, Economy, and State]] gives the economics; [[for-a-new-liberty|For a New Liberty]] gives the political program; *The Ethics of Liberty* gives the moral argument that the program is justified. It is the deepest Rothbardian source for [[nonaggression-and-property-rights|Nonaggression and Property Rights]] and the explicit philosophical contrast to Mises's consequentialist defense of liberty.
+This is the natural-rights side of Rothbard's system. [[man-economy-and-state|Man, Economy, and State]] gives the economics; [[for-a-new-liberty|For a New Liberty]] gives the political program; [[the-ethics-of-liberty|The Ethics of Liberty]] gives the moral argument that the program is justified. It is the deepest Rothbardian source for [[nonaggression-and-property-rights|Nonaggression and Property Rights]] and the explicit philosophical contrast to Mises's consequentialist defense of liberty.
 
 ## Scope of the Full-Text Ingest
 

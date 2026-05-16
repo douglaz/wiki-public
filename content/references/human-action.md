@@ -20,7 +20,7 @@ Mises's claim is that economics is a deductive science of human action (praxeolo
 
 ## Why It Matters in This Wiki
 
-This is the missing foundation that the Rothbardian core of the wiki was built on without being represented in source. [[man-economy-and-state|Man, Economy, and State]] is explicitly continuous with *Human Action* — Rothbard saw it as a textbook elaboration of Mises's framework. The wiki's [[austrian-economics|Austrian Economics]] topic article and the [[sales-tax-incidence|Sales Tax Incidence]] and [[state-power-and-intervention|State Power and Intervention]] concept articles all inherit their analytical machinery from this book.
+This is the missing foundation that the Rothbardian core of the wiki was built on without being represented in source. [[man-economy-and-state|Man, Economy, and State]] is explicitly continuous with [[human-action|Human Action]] — Rothbard saw it as a textbook elaboration of Mises's framework. The wiki's [[austrian-economics|Austrian Economics]] topic article and the [[sales-tax-incidence|Sales Tax Incidence]] and [[state-power-and-intervention|State Power and Intervention]] concept articles all inherit their analytical machinery from this book.
 
 ## Scope of the Full-Text Ingest
 
@@ -28,12 +28,12 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 
 ## Relation to Mises's Other Texts
 
-*Human Action* is the synthesis of Mises's earlier monographic work. The economic-calculation argument first appeared in [[socialism|Socialism]] (1922); the political application to free society is in [[liberalism|Liberalism]] (1927); the methodological apparatus is examined directly in [[theory-and-history|Theory and History]] (1957). Hayek's contributions to the same tradition, especially [[individualism-and-economic-order|Individualism and Economic Order]] and [[prices-and-production|Prices and Production]], are sibling rather than derivative works.
+[[human-action|Human Action]] is the synthesis of Mises's earlier monographic work. The economic-calculation argument first appeared in [[socialism|Socialism]] (1922); the political application to free society is in [[liberalism|Liberalism]] (1927); the methodological apparatus is examined directly in [[theory-and-history|Theory and History]] (1957). Hayek's contributions to the same tradition, especially [[individualism-and-economic-order|Individualism and Economic Order]] and [[prices-and-production|Prices and Production]], are sibling rather than derivative works.
 
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - author node for the wider Mises corpus
-- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's earlier (1912) treatise; *Human Action*'s monetary theory in Ch. XVII–XX is the integrated re-statement of the TMC system
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's earlier (1912) treatise; [[human-action|Human Action]]'s monetary theory in Ch. XVII–XX is the integrated re-statement of the TMC system
 - [[austrian-economics|Austrian Economics]] - topic map this treatise anchors
 - [[praxeology|Praxeology]] - the methodological core of the book
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws on Mises's pairing of "credit transactions and deferred payments" (Ch. XX) and the commodity-vs-circulation-credit distinction (Ch. XVII)

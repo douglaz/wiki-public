@@ -31,7 +31,7 @@ Until this compile pass, the wiki's Mises was a reconstruction — visible only 
 
 ## Mises and Rothbard
 
-[[murray-n-rothbard|Murray Rothbard]] studied with Mises in New York and described his own [[man-economy-and-state|Man, Economy, and State]] as a textbook elaboration of *Human Action*. The two diverge on ethics: [[liberalism|Mises's classical-liberalism]] is consequentialist and value-free, while Rothbard's [[the-ethics-of-liberty|The Ethics of Liberty]] is explicitly natural-rights and revives the Lockean tradition Mises set aside. They also diverge somewhat on the strict apriorism of the praxeological method — Mises holds it more strictly than later Rothbardians do.
+[[murray-n-rothbard|Murray Rothbard]] studied with Mises in New York and described his own [[man-economy-and-state|Man, Economy, and State]] as a textbook elaboration of [[human-action|Human Action]]. The two diverge on ethics: [[liberalism|Mises's classical-liberalism]] is consequentialist and value-free, while Rothbard's [[the-ethics-of-liberty|The Ethics of Liberty]] is explicitly natural-rights and revives the Lockean tradition Mises set aside. They also diverge somewhat on the strict apriorism of the praxeological method — Mises holds it more strictly than later Rothbardians do.
 
 ## Mises and Hayek
 
@@ -57,7 +57,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - related concept
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 founding text of Austrian monetary theory
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand's privacy application of Mises's action axiom
-- [[credit-and-deferred-payment|Credit and Deferred Payment]] - concept article drawing on Mises's structural definition of credit (TMC p. 268) and on his *Human Action* treatment of credit transactions and deferred payments
+- [[credit-and-deferred-payment|Credit and Deferred Payment]] - concept article drawing on Mises's structural definition of credit (TMC p. 268) and on his [[human-action|Human Action]] treatment of credit transactions and deferred payments
 - [[human-action|Human Action]] - related work in this corpus
 - [[liberalism|Liberalism]] - related work in this corpus
 - [[man-economy-and-state|Man, Economy, and State]] - related work in this corpus
@@ -66,8 +66,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[state-power-and-intervention|State Power and Intervention]] - related concept
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - related concept
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing Mises's *Liberalism* rent-ceiling and Vienna passages
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Mises's *Human Action* Ch. XX on the gross-market-rate distortion
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis citing Mises's [[human-action|Human Action]] Ch. XX on the gross-market-rate distortion
 
 ## Sources
 

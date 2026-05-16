@@ -12,7 +12,7 @@ summary: "Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing 
 
 # The Praxeology of Privacy
 
-> *The Praxeology of Privacy* is Max Hillebrand's public-domain v0.2.0 book on privacy as economic logic rather than lifestyle preference. It joins Misesian praxeology, Hoppean argumentation ethics, Voskuil's resistance axiom, Austrian monetary theory, Bitcoin, and cypherpunk cryptography into a single theory-to-implementation argument.
+> [[the-praxeology-of-privacy|The Praxeology of Privacy]] is Max Hillebrand's public-domain v0.2.0 book on privacy as economic logic rather than lifestyle preference. It joins Misesian praxeology, Hoppean argumentation ethics, Voskuil's resistance axiom, Austrian monetary theory, Bitcoin, and cypherpunk cryptography into a single theory-to-implementation argument.
 
 ## What the Book Argues
 
