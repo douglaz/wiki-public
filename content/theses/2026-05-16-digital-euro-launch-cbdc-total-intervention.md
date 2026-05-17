@@ -1,5 +1,5 @@
 ---
-title: "The Digital Euro Launch as CBDC Total Intervention: Endorsement"
+title: "The Digital Euro Launch as CBDC Total Intervention: Analysis"
 volatility: warm
 type: thesis
 created: 2026-05-16
@@ -12,7 +12,7 @@ summary: "The ECB's confirmed Q1 2027 digital euro — with a €3,000 per-resid
 one_liner: "A per-resident holding cap and an automatic expiry timer turn money from a freely held store of value into a conditional permission the issuer can rewrite unilaterally; the wiki's frame names this as CBDC total intervention, not a payment-system upgrade."
 ---
 
-# The Digital Euro Launch as CBDC Total Intervention: Endorsement
+# The Digital Euro Launch as CBDC Total Intervention: Analysis
 
 > The ECB's confirmed digital-euro architecture — a [[hillebrand-on-cbdcs|per-resident holding cap and automatic expiry on unspent balances]] — instantiates the [[state-power-and-intervention|Rothbardian intervention typology]] in the form Hillebrand's [[praxeology-of-privacy|praxeology of privacy]] predicts: autistic, binary, and triangular intervention fused into the monetary medium itself.
 

@@ -19,7 +19,7 @@ The frame is mechanical and one-directional: rate suppression by the monetary au
 
 ## See Also
 
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying this mechanism to the May 2026 cut
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying this mechanism to the May 2026 cut
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the wider theory in which this mechanism sits
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - definitional background on commodity vs. circulation credit
 - [[economic-calculation-problem|Economic Calculation Problem]] - the broader Misesian frame

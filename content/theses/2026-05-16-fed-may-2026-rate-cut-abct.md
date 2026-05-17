@@ -1,5 +1,5 @@
 ---
-title: "The May 2026 Fed Rate Cut: ABCT Endorsement"
+title: "The May 2026 Fed Rate Cut: ABCT Analysis"
 volatility: warm
 type: thesis
 created: 2026-05-16
@@ -12,7 +12,7 @@ summary: "The May 2026 Fed rate cut and the immediate mortgage-rate / home-sales
 one_liner: "A central bank rate cut is the engine of the Mises-Rothbard boom, not its neutral observer; mortgage-rate drop and a housing-demand spike in the same week are the predicted near-term symptoms."
 ---
 
-# The May 2026 Fed Rate Cut: ABCT Endorsement
+# The May 2026 Fed Rate Cut: ABCT Analysis
 
 > A 25-basis-point cut, the third of the year, immediately reflected in a lower mortgage rate and a 4% rise in home sales, instantiates [[austrian-business-cycle-theory|the Mises-Rothbard credit-expansion mechanism]]: rate suppression by the monetary authority distorts the structure of production through interest-rate-sensitive durable sectors first.
 

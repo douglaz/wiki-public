@@ -1,5 +1,5 @@
 ---
-title: "Argentina's 2023 Rent Decontrol: An Endorsement"
+title: "Argentina's 2023 Rent Decontrol: An Analysis"
 volatility: warm
 type: thesis
 created: 2026-05-12
@@ -12,7 +12,7 @@ summary: "Argentina's late-2023 repeal of residential rent price controls produc
 one_liner: "Argentina's 2023 rent decontrol — listings doubled in six months, real rents fell — instantiates the Mises-Rothbard price-control analysis: ceilings manufacture shortages; repeal restores supply."
 ---
 
-# Argentina's 2023 Rent Decontrol: An Endorsement
+# Argentina's 2023 Rent Decontrol: An Analysis
 
 > Argentina's 2023 rent decontrol — listings doubled in six months, real rents fell — instantiates the Mises-Rothbard price-control analysis ([Economic Calculation Problem](../concepts/economic-calculation-problem.md)): ceilings manufacture shortages; repeal restores supply.
 

@@ -147,7 +147,7 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 - [[the-ethics-of-liberty|The Ethics of Liberty]] — Rothbard's legal/ethical re-statement of the structural definition (debt = present property exchanged for future property; non-delivery = theft)
 - [[prices-and-production|Prices and Production and Other Works]] — Hayek on book credit (p. 290) and other forms of commercial credit as substitutes for cash payment
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — the macroeconomic theory built on top of this definition, focusing on credit expansion specifically
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] — thesis applying the credit-expansion (circulation-credit) mechanism to the May 2026 Fed cut
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] — thesis applying the credit-expansion (circulation-credit) mechanism to the May 2026 Fed cut
 - [[austrian-economics|Austrian Economics]] — broader methodological setting (praxeology, time preference, capital theory) that the credit definition presupposes
 - [[murray-n-rothbard|Murray N. Rothbard]] — author reference for [[man-economy-and-state|Man, Economy, and State]] and [[the-ethics-of-liberty|The Ethics of Liberty]]
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference for [[human-action|Human Action]]

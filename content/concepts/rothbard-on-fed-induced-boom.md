@@ -19,7 +19,7 @@ A rate cut, in this frame, is neither neutral nor merely "supportive." It is the
 
 ## See Also
 
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying this mechanism to the May 2026 cut
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying this mechanism to the May 2026 cut
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the theory Rothbard applies historically
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - the upstream Misesian statement of the same mechanism
 - [[state-power-and-intervention|State Power and Intervention]] - central banking as a form of intervention

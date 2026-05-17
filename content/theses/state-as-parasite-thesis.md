@@ -130,6 +130,7 @@ The version of the user's two sentences that survives the corpus reads:
 - [[the-concept-of-the-political|The Concept of the Political]] - reciprocal link.
 - [[the-human-condition|The Human Condition]] - reciprocal link.
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
+- [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - news-lens thesis instantiating the parasite/protection-racket framing in NATO's May 2026 spending-floor decision.
 
 ## Sources
 

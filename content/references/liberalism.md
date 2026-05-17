@@ -39,9 +39,10 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[socialism|Socialism]] - companion 1922 critique of the rival system
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 successor warning against the same drift Mises diagnoses
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis citing the rent-ceiling and Vienna passages from this book
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the rent-ceiling and Vienna passages from this book
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused author-on-topic article on the residential-rent-ceiling shortage passage from this book
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis noting Mises's minarchist position on central banking
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis noting Mises's minarchist position on central banking
+- [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis citing Mises's "peace, not war, is the father of all things" passage and bounding the minarchist defensive carve-out
 
 ## Sources
 

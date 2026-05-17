@@ -83,6 +83,8 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly concept limiting the European war-made-state path
 - [[the-concept-of-the-political|The Concept of the Political]] - reciprocal link.
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - focused author-on-topic article on the 1985 racketeer formulation.
+- [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis instantiating the four-part war-making/state-making/protection/extraction model in the NATO 2026 spending-floor announcement.
 
 ## Sources
 

@@ -43,9 +43,9 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[liberalism|Liberalism]] - Mises's earlier (1927) classical-liberal manifesto
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's theoretical companion volume
 - [[libertarianism|Libertarianism]] - broader topic context
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis using the same logic to read the post-repeal supply response
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying Hayek's political logic to a central-bank rate decision
-- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Endorsement]] - thesis applying Hayek's rule-of-law constraint to unilaterally programmable central-bank money
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis using the same logic to read the post-repeal supply response
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Hayek's political logic to a central-bank rate decision
+- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying Hayek's rule-of-law constraint to unilaterally programmable central-bank money
 
 ## Sources
 

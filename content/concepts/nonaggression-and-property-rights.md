@@ -59,8 +59,8 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [[political-means-and-economic-means|Political Means and Economic Means]] - historical-sociological version of the aggression/production boundary
 - [[power-projection|Power Projection]] - Lowery's physical-cost frame for control over scarce or strategically valuable resources
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for privacy, surveillance, and cryptographic resistance
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Endorsement]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis distinguishing the natural-rights and consequentialist defenses on a central-bank rate decision
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a central-bank rate decision
 
 ## Sources
 

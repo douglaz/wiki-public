@@ -6,8 +6,8 @@ Last updated: 2026-05-16
 
 ## Statistics
 
-- Sources: 67 raw documents
-- Articles: 99 compiled wiki articles
+- Sources: 68 raw documents
+- Articles: 102 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-16
 - Last lint: 2026-05-16
@@ -24,6 +24,7 @@ Last updated: 2026-05-16
 
 ## Recent Changes
 
+- 2026-05-16: news-lens — filed NATO defense-spending-floor news post and wrote endorse-stance thesis `2026-05-16-nato-defense-spending-floor-protection-racket`; added focused `tilly-on-protection-rackets` and `rothbard-on-war-and-the-state` concept articles as X-thread citation targets; added reciprocal See Also backlinks on the cited concept, reference, and thesis pages.
 - 2026-05-16: ingest+compile — split Rothbard's *Power and Market: Government and the Economy* (1970) out of the combined MES + P&M aggregate. New raw full-text file `raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md` (7 chapters + bibliography, ~683 KB) extracted from the Mises online-book HTML export; new reference page `wiki/references/power-and-market.md`; updated dual-link citations in `rothbard-on-price-controls` and the `argentina-rent-decontrol-2023` thesis; updated raw/articles and references indexes.
 - 2026-05-16: news-lens — filed ECB digital-euro launch news post and wrote endorse-stance thesis `2026-05-16-digital-euro-launch-cbdc-total-intervention`; added focused `hillebrand-on-cbdcs` concept article as X-thread citation target; added reciprocal See Also backlinks on the cited concept, reference, and topic pages.
 - 2026-05-16: news-lens — filed May 2026 Fed rate-cut news post and wrote endorse-stance thesis `2026-05-16-fed-may-2026-rate-cut-abct`; added focused `mises-on-credit-expansion` and `rothbard-on-fed-induced-boom` concept articles as X-thread citation targets; added 16 reciprocal See Also backlinks on the cited concept, reference, and topic pages.

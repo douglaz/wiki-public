@@ -42,7 +42,7 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[prices-and-production|Prices and Production]] - Hayek's monetary and capital-theoretic foundation
 - [[for-a-new-liberty|For a New Liberty]] - movement-facing summary of the same business-cycle argument
 - [[state-power-and-intervention|State Power and Intervention]] - the policy critique this book historicizes
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Endorsement]] - thesis applying Rothbard's Fed-engineering reading to the May 2026 rate cut
+- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Rothbard's Fed-engineering reading to the May 2026 rate cut
 
 ## Sources
 
