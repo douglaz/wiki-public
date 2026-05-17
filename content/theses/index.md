@@ -2,7 +2,7 @@
 
 > Curated thesis articles.
 
-Last updated: 2026-05-16
+Last updated: 2026-05-17
 
 ## Contents
 
@@ -13,13 +13,15 @@ Last updated: 2026-05-16
 | [2026-05-16-fed-may-2026-rate-cut-abct.md](2026-05-16-fed-may-2026-rate-cut-abct.md) | Endorses the May 2026 Fed 25bp cut as a textbook instance of the Mises-Rothbard credit-expansion mechanism: rate suppression distorts the structure of production through interest-rate-sensitive durable sectors first; mortgage rates fell and home sales jumped in the same week as the cut. | thesis, federal-reserve, business-cycle, austrian-economics, abct, credit-expansion, housing, monetary-policy, intervention | 2026-05-16 |
 | [2026-05-16-digital-euro-launch-cbdc-total-intervention.md](2026-05-16-digital-euro-launch-cbdc-total-intervention.md) | Endorses the ECB's confirmed Q1 2027 digital-euro design — €3,000 per-resident holding cap and automatic 12-month inactivity expiry — as the Hillebrand "total intervention" architecture that fuses Rothbard's autistic, binary, and triangular intervention types into the monetary medium itself; Hayek's rule-of-law constraint reads the unilateral programmability as its inversion. | thesis, digital-euro, cbdc, european-central-bank, financial-surveillance, programmable-money, austrian-economics, intervention, privacy | 2026-05-16 |
 | [2026-05-16-nato-defense-spending-floor-protection-racket.md](2026-05-16-nato-defense-spending-floor-protection-racket.md) | Endorses NATO's May 2026 agreement to raise the defense-spending floor from 2% to 3.5% of GDP by 2032 — paired with a new central compliance audit — as an instantiation of Tilly's war-making/state-making/extraction model and Rothbard's "war is the health of the State" frame, bounded by the Mises/Hayek minarchist defensive carve-out. | thesis, nato, defense-spending, protection-racket, war-and-state-formation, charles-tilly, rothbard, oppenheimer, political-means, extraction | 2026-05-16 |
+| [2026-05-17-eu-wealth-tax-directive-capital-consumption.md](2026-05-17-eu-wealth-tax-directive-capital-consumption.md) | Critiques the framing of the May 2026 EU directive imposing progressive wealth taxes of 1–5% on net assets above €1 million across all member states by 2028. The rapporteur's "fair share" rhetoric and dismissal of capital-flight warnings as "not real economics" invert the wiki's frame: Rothbard's *Power and Market* treats a wealth tax as an uncapitalizable, unshiftable charge that falls directly on accumulated capital, and Mises in *Liberalism* names the policy class technically — "antiliberal policy is a policy of capital consumption." Hoppe's caretaker ranking and Oppenheimer's political-means distinction sharpen the institutional reading; the Mises/Hayek minarchist carve-out does not cover confiscatory taxes on accumulated wealth. | thesis, european-union, wealth-tax, taxation, capital-consumption, rothbard, mises, hoppe, political-means, intervention, austrian-economics | 2026-05-17 |
 
 ## Categories
 
-- **thesis**: state-as-parasite-thesis.md, argentina-rent-decontrol-2023.md, 2026-05-16-fed-may-2026-rate-cut-abct.md, 2026-05-16-digital-euro-launch-cbdc-total-intervention.md, 2026-05-16-nato-defense-spending-floor-protection-racket.md
+- **thesis**: state-as-parasite-thesis.md, argentina-rent-decontrol-2023.md, 2026-05-16-fed-may-2026-rate-cut-abct.md, 2026-05-16-digital-euro-launch-cbdc-total-intervention.md, 2026-05-16-nato-defense-spending-floor-protection-racket.md, 2026-05-17-eu-wealth-tax-directive-capital-consumption.md
 
 ## Recent Changes
 
+- 2026-05-17: Added `2026-05-17-eu-wealth-tax-directive-capital-consumption` — news-lens critique-stance thesis on the May 2026 EU directive mandating progressive wealth taxes of 1–5% on net assets above €1 million across all member states, citing Rothbard's *Power and Market* "A Tax on Individual Wealth" section, Mises's *Liberalism* on antiliberal policy as capital consumption, Hoppe's caretaker capital-consumption ranking in *Democracy: The God That Failed*, and the Oppenheimer political-means distinction.
 - 2026-05-16: Added `2026-05-16-nato-defense-spending-floor-protection-racket` — news-lens endorse-stance thesis on NATO's May 2026 spending-floor decision, citing Tilly's 1985 "War Making and State Making as Organized Crime" essay, Rothbard's *Anatomy of the State* defense-and-emergency-slogans passage, and Mises's *Liberalism* minarchist carve-out as the scope bound.
 - 2026-05-16: Added `2026-05-16-digital-euro-launch-cbdc-total-intervention` — news-lens endorse-stance thesis on the ECB's confirmed Q1 2027 digital-euro launch, citing Hillebrand's *Praxeology of Privacy* Ch. 10 "CBDCs as Total Intervention," Rothbard's *Power and Market* tripartite intervention typology, and Hayek's *Road to Serfdom* rule-of-law constraint.
 - 2026-05-16: Added `2026-05-16-fed-may-2026-rate-cut-abct` — news-lens endorse-stance thesis on the May 2026 Fed rate cut, citing Mises's *Human Action* on the gross-market-rate distortion and Rothbard's *America's Great Depression* on Fed-engineered credit booms.

@@ -41,6 +41,7 @@ This concept sits at the intersection of [[austrian-economics|Austrian Economics
 - [[man-economy-and-state|Man, Economy, and State]] - primary source for the argument about tax incidence
 - [[austrian-economics|Austrian Economics]] - broader method behind Rothbard's price and incidence analysis
 - [[state-power-and-intervention|State Power and Intervention]] - taxation as part of the wider intervention structure
+- [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - sister focused article on the wealth-tax sub-case Rothbard treats separately under "A Tax on Individual Wealth"
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - author whose later tax-incidence discussion reinforces Rothbard here
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the current corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
